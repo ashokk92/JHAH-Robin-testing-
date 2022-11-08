@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approval Required_ui-icon ui-icon-triangle-1-s ui-c</name>
+   <tag></tag>
+   <elementGuidId>162a3a8c-8cf9-4b74-86aa-7678f02826f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedHaadActivityListForm:datalist:j_idt480']/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-triangle-1-s.ui-c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>778ea805-bf2b-4146-9c4a-17ce711b30f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-s ui-c</value>
+      <webElementGuid>4382babb-fe38-4646-839e-e580c419f47b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedHaadActivityListForm:datalist:j_idt480&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-s ui-c&quot;]</value>
+      <webElementGuid>512da911-841b-46cd-b4bd-aa06685a308a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedHaadActivityListForm:datalist:j_idt480']/div[3]/span</value>
+      <webElementGuid>a2964a9e-6db2-47f4-9595-25cec8706d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[3]/span</value>
+      <webElementGuid>3d678514-33fe-4bcc-8496-ab6874c120e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

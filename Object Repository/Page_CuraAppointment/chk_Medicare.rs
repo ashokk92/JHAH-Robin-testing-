@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_Medicare</name>
+   <tag></tag>
+   <elementGuidId>99357f84-c8e6-4aaa-9275-bf77b683271b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicare</value>
+      <webElementGuid>d42f6c4b-96ff-46ae-a7e3-195987a78e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicare</value>
+      <webElementGuid>064a7e45-52b0-4afd-be4f-45f09545c89e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicare</value>
+      <webElementGuid>aadf5d6a-cd3b-445a-8306-14cb4d6013ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicare</value>
+      <webElementGuid>40301996-0b4e-428e-8b5d-81f692939e72</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Service Item_ui-autocomplete-multiple-co_68a036</name>
+   <tag></tag>
+   <elementGuidId>11979bc2-9f00-467c-892c-efed5f1565c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='phWLForm:autoActivityCode']/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ui-autocomplete-multiple-container.ui-widget.ui-inputfield.ui-state-default.ui-corner-all.ui-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>fc512511-70e0-401a-a103-a0a702958e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-autocomplete-multiple-container ui-widget ui-inputfield ui-state-default ui-corner-all ui-state-hover</value>
+      <webElementGuid>43295e0d-b99a-44f5-8c04-8ca66a47b5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:autoActivityCode&quot;)/ul[@class=&quot;ui-autocomplete-multiple-container ui-widget ui-inputfield ui-state-default ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>5a640d30-0545-4e32-9aab-dd55a6f54479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='phWLForm:autoActivityCode']/ul</value>
+      <webElementGuid>207c6f74-d463-4fc9-8921-6b1b51c26352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Item'])[1]/following::ul[1]</value>
+      <webElementGuid>c7ee3499-e932-42f6-9422-3b6183f60b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::ul[1]</value>
+      <webElementGuid>89d5ac9f-8895-4083-9221-4b610903afe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update action:'])[1]/preceding::ul[1]</value>
+      <webElementGuid>9aa413e8-e035-4ec3-9a20-19e6e0075a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[1]/preceding::ul[1]</value>
+      <webElementGuid>28f25081-ed5f-44e1-b386-b196bfd002d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td[2]/div/ul</value>
+      <webElementGuid>7c7cbfd7-f71c-4338-a977-88b4bf806b58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

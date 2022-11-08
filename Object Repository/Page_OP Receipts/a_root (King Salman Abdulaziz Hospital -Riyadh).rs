@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_root (King Salman Abdulaziz Hospital -Riyadh)</name>
+   <tag></tag>
+   <elementGuidId>c836fd1e-1845-4131-9dd8-d8147c9caf3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_idt37:menubar1']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-widget.ui-menuitem.ui-corner-all.ui-menu-parent.clientname.tooltip > a.ui-menuitem-link.ui-submenu-link.ui-corner-all</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b9a57c9-6edb-4196-b20c-f5c64c3ea7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ca2a3b8c-38cc-4728-94be-27e05e955d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ui-submenu-link ui-corner-all</value>
+      <webElementGuid>bdd66174-5ff3-47d6-a725-796b7359ee04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>65342ed8-1a5d-4874-b112-9006e5968119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>root (King Salman Abdulaziz Hospital -Riyadh)</value>
+      <webElementGuid>76041b86-9d2f-45d5-9ae6-61543cea4fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_idt37:menubar1&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent clientname tooltip&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all&quot;]</value>
+      <webElementGuid>5eed7510-f59e-4537-9b1a-1c95e872ba9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='j_idt37:menubar1']/ul/li/a</value>
+      <webElementGuid>8b7c64a5-e50c-4628-8524-96c33680b81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::a[2]</value>
+      <webElementGuid>dc375dd2-c241-450e-9db5-6e2e300e4ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies Payments Transactions'])[1]/following::a[3]</value>
+      <webElementGuid>3ed2a2a6-c098-4b8d-8ea7-ee1ab100faf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1dc10ff-5023-4b6b-ba46-038f6d240488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[15]</value>
+      <webElementGuid>33eb4b78-80b6-44f2-b2ac-034faf26df1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li/a</value>
+      <webElementGuid>a17b5b39-785f-4e4b-a6b3-6988e06e6ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'root (King Salman Abdulaziz Hospital -Riyadh)' or . = 'root (King Salman Abdulaziz Hospital -Riyadh)')]</value>
+      <webElementGuid>095d378f-93e6-48af-b166-2adea0ae7a53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

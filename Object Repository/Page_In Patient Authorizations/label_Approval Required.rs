@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Approval Required</name>
+   <tag></tag>
+   <elementGuidId>acb3aa00-a210-4dd9-8bb4-089d30098c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='AccumedHaadActivityListForm:datalist:0:j_idt604_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>31dee2e3-9367-4ff4-9bb5-ed5097276ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AccumedHaadActivityListForm:datalist:0:j_idt604_label</value>
+      <webElementGuid>3ca74505-99df-461c-81de-ceb5cb4525ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>fd64b9db-19f4-4f5e-be2b-c54700d6e730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval Required</value>
+      <webElementGuid>3d77a9a1-6218-4a86-91da-f1f151528786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedHaadActivityListForm:datalist:0:j_idt604_label&quot;)</value>
+      <webElementGuid>ddb0686e-3b59-49c6-8b82-ff698a8a5168</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='AccumedHaadActivityListForm:datalist:0:j_idt604_label']</value>
+      <webElementGuid>0b32d803-03ad-4021-ba52-815dc963b46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedHaadActivityListForm:datalist:0:j_idt604']/label</value>
+      <webElementGuid>6ed0e18c-5779-445f-875d-2f2d24d76675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/following::label[1]</value>
+      <webElementGuid>db8cff24-a6cc-4d37-b1ac-c888b2051d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Code'])[3]/following::label[1]</value>
+      <webElementGuid>de2072de-3279-4c13-b89f-b77685dbee9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::label[1]</value>
+      <webElementGuid>be9dced5-079d-4adf-abdd-224266adb936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excisional debridement of skin and subcutaneous...'])[1]/preceding::label[2]</value>
+      <webElementGuid>47c60935-4d72-4a14-b973-c16c2d807a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/label</value>
+      <webElementGuid>c7c2f746-c288-41c3-8365-53e3653d917d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'AccumedHaadActivityListForm:datalist:0:j_idt604_label' and (text() = 'Approval Required' or . = 'Approval Required')]</value>
+      <webElementGuid>86f33754-c7ca-4585-abfd-c01c0b8899a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Selected Hospitals</name>
+   <tag></tag>
+   <elementGuidId>e0dc37d6-b89c-4d34-a547-05ea4a5047f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserEditForm:j_idt234']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-tabs-header.ui-state-default.ui-corner-top.ui-state-hover > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7fc6d2a2-55c2-43ba-9362-e00a4ca75589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#AccumedFacilityUserEditForm:j_idt234:j_idt258</value>
+      <webElementGuid>364810f3-f958-4de5-aafe-802bc5a1d6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7349b90e-664f-4c63-a23d-8ecde04e3866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selected Hospitals</value>
+      <webElementGuid>4756d175-d8db-4292-81ff-13cc68e1a98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserEditForm:j_idt234&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-tabs-header ui-state-default ui-corner-top ui-state-hover&quot;]/a[1]</value>
+      <webElementGuid>51ba068f-1688-4163-9c60-4b267400b615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserEditForm:j_idt234']/ul/li[2]/a</value>
+      <webElementGuid>0aaede3c-e8aa-4c81-9c18-589d5ff0a01e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Selected Hospitals')])[2]</value>
+      <webElementGuid>459b3415-4382-4525-b2d1-1c92c369fab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[2]/following::a[1]</value>
+      <webElementGuid>d32f1af5-5f8c-4b78-9b28-d53a2a9ad48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[1]/following::a[3]</value>
+      <webElementGuid>2e2d7ae0-e9b3-47fa-be20-e5f6e3a06997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Name'])[3]/preceding::a[1]</value>
+      <webElementGuid>0447b82b-13b7-4f60-a35f-c518da9a30e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::a[1]</value>
+      <webElementGuid>1b55140d-ee62-4f91-8eaa-adc1b4416a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#AccumedFacilityUserEditForm:j_idt234:j_idt258')]</value>
+      <webElementGuid>2ec90374-d47f-4cc3-b118-e5f3089adba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/form/span/div/ul/li[2]/a</value>
+      <webElementGuid>494f2a4d-e5f6-47c8-a67e-2b713ef89344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#AccumedFacilityUserEditForm:j_idt234:j_idt258' and (text() = 'Selected Hospitals' or . = 'Selected Hospitals')]</value>
+      <webElementGuid>5b2cdcd7-c219-4dc2-b823-a116b7bfbe9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_internal medicine  intensive care unit_9f20db</name>
+   <tag></tag>
+   <elementGuidId>18b7864f-5e70-4338-9363-f072ed1aa667</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[2]/td/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default.ui-state-hover > span.ui-chkbox-icon.ui-icon.ui-icon-blank.ui-c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3914ccb2-fc1f-4924-a2cf-3528dcd871f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-icon ui-icon ui-icon-blank ui-c</value>
+      <webElementGuid>c5600e6f-7cb8-4bd5-93c6-ab7e962e573b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedClinicianProfessionsCreateForm:checkboxDT_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-odd ui-datatable-selectable ui-state-hover&quot;]/td[@class=&quot;ui-selection-column&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ui-state-hover&quot;]/span[@class=&quot;ui-chkbox-icon ui-icon ui-icon-blank ui-c&quot;]</value>
+      <webElementGuid>a110dd64-cd9c-4061-9bc6-b80c386f6a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[2]/td/div/div[2]/span</value>
+      <webElementGuid>e2cda781-e17a-45a9-a1bf-2566f324840c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div[2]/span</value>
+      <webElementGuid>991dcf21-12a7-4cac-bb99-89cbe5b30916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

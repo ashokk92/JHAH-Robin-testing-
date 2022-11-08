@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Al Yamamah Hospital - Riyadh</name>
+   <tag></tag>
+   <elementGuidId>64730c1b-391f-44f6-8634-25d2f4b40298</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4dd36b13-2170-4e55-9775-d9a57351ebc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>72838c25-b285-4eda-bc25-258293e8cc57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>1002</value>
+      <webElementGuid>4ef79ecb-fc0b-40a7-9cc6-bcb2af0c925c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>Al Yamamah Hospital - Riyadh</value>
+      <webElementGuid>3e377320-3c62-442f-9c7a-1114fc0e32af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>0968a2c6-92fc-4954-bc38-c170ecc3b596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Al Yamamah Hospital - Riyadh</value>
+      <webElementGuid>25cc1fba-363e-48f0-a50f-020412b97faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserEditForm:j_idt234:pickListHospital&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>68440111-0c58-4c84-bf3c-4e41d69acef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div/ul/li[3]</value>
+      <webElementGuid>a983d41b-0eff-4bf1-9aa6-d9ff6526c005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al Hasa'])[4]/following::li[1]</value>
+      <webElementGuid>0a1ff800-e646-4ecf-99cb-064f4301bce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abqaiq'])[4]/following::li[2]</value>
+      <webElementGuid>18396b53-b3fa-48cd-bd98-1040560e2591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALIMAN GENERAL HOSPITAL'])[4]/preceding::li[1]</value>
+      <webElementGuid>50329cf7-8743-4c18-be5d-270c97da02ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Jubail General Hospital - Jubail'])[4]/preceding::li[2]</value>
+      <webElementGuid>d69cb534-7122-45be-8dd1-d32a8f5dc8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/form/span/div/div/div[2]/span/table/tbody/tr/td[2]/div/div/ul/li[3]</value>
+      <webElementGuid>da781dfd-fa21-47b5-b809-4417b9b9d971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Al Yamamah Hospital - Riyadh' or . = 'Al Yamamah Hospital - Riyadh')]</value>
+      <webElementGuid>fba4203f-614c-4f89-9c49-34839fee21b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

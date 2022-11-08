@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Deactivate</name>
+   <tag></tag>
+   <elementGuidId>f26b7244-acb0-4ffd-a186-7bc99e221c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='idAttachmentsDlgForm:attachments:0:j_idt2068']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d7b40a9c-22a4-4b69-850d-64d5f67f04aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>b199ee4f-169f-4680-a2b5-4974ab07def7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deactivate</value>
+      <webElementGuid>48d6dbd1-c7f1-478b-aa22-1880ad9a67b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idAttachmentsDlgForm:attachments:0:j_idt2068&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>20c0dcfe-5575-4acb-b764-df25541c8b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='idAttachmentsDlgForm:attachments:0:j_idt2068']/span</value>
+      <webElementGuid>88a33bc1-ea5a-4802-a6ee-efef0f5a97aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/following::span[1]</value>
+      <webElementGuid>4559f502-2b1b-4bb2-9706-c08f9ea412f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::span[2]</value>
+      <webElementGuid>bd079fec-eff1-4b77-919d-067dcf03f50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rotate Left'])[1]/preceding::span[4]</value>
+      <webElementGuid>23d16afa-8faa-477e-876c-9207eecdfdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rotate Right'])[1]/preceding::span[6]</value>
+      <webElementGuid>5ce3cec4-f621-4be6-aee2-b25b73b09206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deactivate']/parent::*</value>
+      <webElementGuid>35177422-5071-47be-a7d7-1a457e4c4edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button/span</value>
+      <webElementGuid>eb919f65-3e86-47f0-ae8f-df45e7bcb4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Deactivate' or . = 'Deactivate')]</value>
+      <webElementGuid>8844f5f5-d686-4b36-8d51-998f23ee71a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_VisitDate</name>
+   <tag></tag>
+   <elementGuidId>1a08e8da-b505-4cbc-aa8e-1609264b4c17</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visit_date</value>
+      <webElementGuid>994c6e03-c03b-4c1b-84e3-ef775b431b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visit_date</value>
+      <webElementGuid>6f613cab-6fba-4f0b-a291-d4577453aec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visit_date</value>
+      <webElementGuid>3be7225e-cc5e-46b1-8f28-8cc4241fda79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>visit_date</value>
+      <webElementGuid>c54fc57a-84a8-4fa5-bc3a-573e5617cf8b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

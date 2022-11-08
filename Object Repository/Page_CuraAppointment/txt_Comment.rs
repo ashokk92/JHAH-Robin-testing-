@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Comment</name>
+   <tag></tag>
+   <elementGuidId>92ec6a0b-997d-4625-8830-a70f6663cba0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_comment</value>
+      <webElementGuid>f077c0ee-fbf6-41f4-88b9-101ec22c822d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_comment</value>
+      <webElementGuid>835d4ed7-f7c6-4358-8df4-5e04547a8345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_comment</value>
+      <webElementGuid>8454bcdd-5d6a-472f-b1d2-49dd96839140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_comment</value>
+      <webElementGuid>c2c8d0f7-ab54-4ed0-9edd-ee7782d9eba9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

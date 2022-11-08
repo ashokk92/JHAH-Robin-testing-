@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FGHJU. GF RAJA</name>
+   <tag></tag>
+   <elementGuidId>6d2d4368-f69f-422e-808e-606fb08b188a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:0:j_idt218']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6bec7c7-ce04-45b8-a92a-aa3fc5eee914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:0:j_idt218</value>
+      <webElementGuid>76f06ea9-ada2-4077-9937-e7d41c48438e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9f2a4aab-fb53-4354-89e5-2fd05537a67f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>9aa2148d-72fa-40f9-b0c7-a262b4d1863e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:0:j_idt218&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;AccumedHaadDiagnosisListForm pbmClaimDtlDlg phWLForm:phWLTbl:0:j_idt218 paymentForm actionsButtonsForm&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS');;},onco:function(xhr,status,args){endAjaxLoader(); PF('pbmClaimDtlDlgWid').show()  ;;}});return false;</value>
+      <webElementGuid>d272653e-c1f3-49f3-8212-cb750d809e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FGHJU.... GF RAJA</value>
+      <webElementGuid>ff2e3c69-c863-4cb8-a72b-547cc2b4026d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:0:j_idt218&quot;)</value>
+      <webElementGuid>d468221f-c86d-4fd5-b117-9461c7d4ef84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:0:j_idt218']</value>
+      <webElementGuid>8cfb1828-1240-4eac-813b-43167e098c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr/td/a</value>
+      <webElementGuid>cad90ff0-82c4-4ace-a2af-f952fb041f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'FGHJU.... GF RAJA')]</value>
+      <webElementGuid>70e5daa8-295a-41bf-8259-aeaf4359a11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>02a4b0c1-f7ce-43e4-8016-bf5f01d0a465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt No'])[1]/following::a[1]</value>
+      <webElementGuid>7eb12b35-5933-4e40-9b78-980edad8e6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrm--088'])[1]/preceding::a[1]</value>
+      <webElementGuid>56e31797-d0ae-47ed-989f-e40246a68b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-IP-0000886'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0cddb59-56d6-4060-99e4-0af8e8bc1b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FGHJU.... GF RAJA']/parent::*</value>
+      <webElementGuid>a037755b-1000-418d-ad14-9c7d1a76f93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[24]</value>
+      <webElementGuid>54646ea7-334a-45ad-83bc-bbd689888ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>f23c81ea-5d8b-4a7a-9ca5-d11efbf43069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:0:j_idt218' and @href = '#' and (text() = 'FGHJU.... GF RAJA' or . = 'FGHJU.... GF RAJA')]</value>
+      <webElementGuid>68704029-8e68-4b1d-8e71-19a74f097135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

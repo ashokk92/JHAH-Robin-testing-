@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ALL_ui-autocomplete-input-token</name>
+   <tag></tag>
+   <elementGuidId>6c1becbb-1581-474f-8fd0-9ca60a2efe12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MISReportsForm:autoActivityCode']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-autocomplete-input-token</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5a824d30-f9eb-45d6-9c12-3a351222d02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-autocomplete-input-token</value>
+      <webElementGuid>1b3c5be0-4e66-4833-bb5a-5cfe5dfaa044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MISReportsForm:autoActivityCode&quot;)/ul[@class=&quot;ui-autocomplete-multiple-container ui-widget ui-inputfield ui-state-default ui-corner-all ui-state-hover&quot;]/li[@class=&quot;ui-autocomplete-input-token&quot;]</value>
+      <webElementGuid>948c0c7a-ba91-4eb1-a3e8-e26f4810b659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MISReportsForm:autoActivityCode']/ul/li</value>
+      <webElementGuid>3571c2f1-737e-4b53-87ff-e7e50aefd3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[3]/following::li[1]</value>
+      <webElementGuid>d13baf22-c637-45d0-bb2b-1df6e38483cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testtype'])[1]/following::li[1]</value>
+      <webElementGuid>22c01519-3c21-4cb6-8617-88c5aed94daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Report'])[1]/preceding::li[1]</value>
+      <webElementGuid>c2069acf-8b89-4ae9-9270-88a0858f638a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::li[1]</value>
+      <webElementGuid>a4959a30-0104-4e12-ad34-b05e50e1b7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/ul/li</value>
+      <webElementGuid>b0c291a1-76e5-459b-9227-027a43dd0ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

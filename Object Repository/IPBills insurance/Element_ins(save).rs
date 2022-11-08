@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_ins(save)</name>
+   <tag></tag>
+   <elementGuidId>05c683fb-7ce2-4e76-bd27-b2d6d54abe70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;InsuranceDetailsForm:j_idt983&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>db0177fd-28b8-4191-b68e-fcef4d0c23b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1667480917954</value>
+      <webElementGuid>014c35c4-ac0c-448a-9987-2d89cd93c2f5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

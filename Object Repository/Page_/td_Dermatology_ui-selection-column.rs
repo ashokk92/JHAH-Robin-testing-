@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Dermatology_ui-selection-column</name>
+   <tag></tag>
+   <elementGuidId>fcdf6eb5-20eb-41c3-b353-4a3b821663d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[10]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ui-widget-content.ui-datatable-odd.ui-datatable-selectable.ui-state-hover > td.ui-selection-column</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cfe9f3d7-88f8-4f3e-a067-d3d05b2631a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>e9cccb41-21e5-44ee-bfad-8d288f5d349a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selection-column</value>
+      <webElementGuid>e39b0218-e63b-4ce8-a3dc-54814a8ec627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedClinicianProfessionsCreateForm:checkboxDT_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-odd ui-datatable-selectable ui-state-hover&quot;]/td[@class=&quot;ui-selection-column&quot;]</value>
+      <webElementGuid>000ee0da-f63a-4b27-b185-a4eaa3daf802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[10]/td</value>
+      <webElementGuid>d732971c-8ebe-43e9-a02f-9ce6f1d23781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dermatology'])[1]/following::td[1]</value>
+      <webElementGuid>f3b2b540-36a1-40b6-8661-43ed0ec60279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dentistry'])[2]/following::td[3]</value>
+      <webElementGuid>4fb9ce66-8d2c-4a33-ac4e-90e83c5a35ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dermatology'])[2]/preceding::td[1]</value>
+      <webElementGuid>994ff4ed-0564-46d4-8b00-ec651ad2d1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[3]/preceding::td[2]</value>
+      <webElementGuid>aecfd7c8-81f1-49cc-9e20-9b90616e7070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[2]/table/tbody/tr[10]/td</value>
+      <webElementGuid>921d4472-449e-4202-9594-bcd1db8e413b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

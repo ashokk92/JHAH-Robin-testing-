@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ui-button_ui-button-icon-left ui-icon ui-c ui-icon-pencil</name>
+   <tag></tag>
+   <elementGuidId>c445063b-997e-4f06-8c48-7c0495be22d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='patientForm:patientTbl:0:editPatientButton']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c70483c-90de-4548-bdcd-f9589022b2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-pencil</value>
+      <webElementGuid>ca5eca7d-62aa-493a-8d8c-baddcd7e808b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patientForm:patientTbl:0:editPatientButton&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-pencil&quot;]</value>
+      <webElementGuid>7dd3b7e3-1fa4-4e4a-bf69-a59b4c449b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='patientForm:patientTbl:0:editPatientButton']/span</value>
+      <webElementGuid>50333ff7-b329-4a9e-8b15-454eedaca856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/button/span</value>
+      <webElementGuid>7ac02a82-3728-4faa-9e40-a42c95e3c3da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

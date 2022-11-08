@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_kjahga gsgsgsg ajajja</name>
+   <tag></tag>
+   <elementGuidId>a0fbf1a4-198b-47c8-a323-1fe2dd883fbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c259a433-296e-40bc-aee9-37ceb5c762d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:0:patientNameLink</value>
+      <webElementGuid>cb3d0948-d9dd-4093-ac84-64ae20df6afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>25e3fecd-c929-4e7f-981a-29a3826ddd39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>3a6c5816-5c3f-4280-8382-ef00cc2b8d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:0:patientNameLink&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;accumedVitalSign EligiblityInfoGroupForm AccumedHaadActivityListForm AccumedHaadDiagnosisListForm phWLForm:phWLTbl:0:patientNameLink InvoiceForm actionsFormInvoice EligiblityInfoHistoryGroupForm actionsFormInvoice growl&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); if(!args.validationFailed) {PF('NewInvoiceWid').show() ;PF('dataTableActivity').filter();};}});return false;</value>
+      <webElementGuid>38367eb7-0bb5-4ec4-a8ad-eb287e41fd89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kjahga gsgsgsg ajajja</value>
+      <webElementGuid>85ca47fe-9ea9-484c-82f3-a1557f5d1258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:0:patientNameLink&quot;)</value>
+      <webElementGuid>ad723905-0546-425d-bd64-95621cbeb9f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      <webElementGuid>01174e9b-7fe0-41a4-9c4a-9853bd3a7407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr/td/a</value>
+      <webElementGuid>f116248e-1243-4fc2-beea-358bdc5d04e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'kjahga gsgsgsg ajajja')]</value>
+      <webElementGuid>72d67bcd-b34f-4aaa-82fb-6607f7b0d688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>4ba86a7b-e32b-45ce-ab61-274c32415af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update By'])[1]/following::a[1]</value>
+      <webElementGuid>156ad448-b5cc-4734-b5ee-422daf2aed26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-09871'])[1]/preceding::a[1]</value>
+      <webElementGuid>0cb1256f-900c-44ec-b5f9-447951770a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0003059'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9f4495e-1134-47f9-8668-c4d510baef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kjahga gsgsgsg ajajja']/parent::*</value>
+      <webElementGuid>58fca084-119b-4e90-80af-dae5000f45b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[29]</value>
+      <webElementGuid>dec2fb9c-eecb-4244-b3ec-929b0e7c4103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>77797a98-befe-4633-a171-dba116717c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:0:patientNameLink' and @href = '#' and (text() = 'kjahga gsgsgsg ajajja' or . = 'kjahga gsgsgsg ajajja')]</value>
+      <webElementGuid>c3c58bc5-814f-42f0-8f8c-6fdd13b803ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

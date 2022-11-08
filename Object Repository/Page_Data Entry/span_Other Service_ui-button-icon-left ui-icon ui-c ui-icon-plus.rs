@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Other Service_ui-button-icon-left ui-icon ui-c ui-icon-plus</name>
+   <tag></tag>
+   <elementGuidId>ecf201a3-3d02-4d13-b62c-a50c2e4253ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='AccumedHaadActivityListForm:j_idt2061']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f3d41d7-879d-4505-afbc-f5e8d375ad60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-plus</value>
+      <webElementGuid>8ac383ac-6a19-4335-b8e7-2ae80aab12d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedHaadActivityListForm:j_idt2061&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-plus&quot;]</value>
+      <webElementGuid>a14f167f-c363-404f-9d0e-777cb6eb7c2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='AccumedHaadActivityListForm:j_idt2061']/span</value>
+      <webElementGuid>de150dc1-8b32-462c-84c0-4ac9c91d43d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/form[2]/fieldset/div/span/table/tbody/tr[2]/td[12]/button/span</value>
+      <webElementGuid>a164c8ca-1d4b-4de6-9947-f9fb026aaf4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

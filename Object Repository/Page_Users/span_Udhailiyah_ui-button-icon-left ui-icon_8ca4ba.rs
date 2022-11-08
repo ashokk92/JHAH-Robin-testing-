@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Udhailiyah_ui-button-icon-left ui-icon_8ca4ba</name>
+   <tag></tag>
+   <elementGuidId>86453a54-3788-4970-ba39-cd549e05ac1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-icon-only.ui-picklist-button-add.ui-state-focus.ui-state-hover > span.ui-button-icon-left.ui-icon.ui-c.ui-icon.ui-icon-arrow-1-e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a0ba76f-ece9-4795-bdde-b1e11267bbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon ui-icon-arrow-1-e</value>
+      <webElementGuid>89651660-7092-4fb7-9c60-31f698a9be7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserEditForm:j_idt234:pickListHospital&quot;)/div[@class=&quot;ui-picklist-buttons&quot;]/div[@class=&quot;ui-picklist-buttons-cell&quot;]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-picklist-button-add ui-state-focus ui-state-hover&quot;]/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon ui-icon-arrow-1-e&quot;]</value>
+      <webElementGuid>a6db4b4a-fc36-4726-9fef-3b202363bb68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div[2]/div/button/span</value>
+      <webElementGuid>7bbf2db8-a191-48c3-ae91-650924bf831c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/form/span/div/div/div[2]/span/table/tbody/tr/td[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>b3cf5375-97e5-47b7-8a7e-2be6f9ea0045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

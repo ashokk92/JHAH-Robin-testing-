@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_root_ui-button-icon-left ui-icon ui-c _7ad39b</name>
+   <tag></tag>
+   <elementGuidId>4c4c720e-145d-4ac3-83e0-f63dbed9c54b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='claimBillsForm:payment:0:printInvoiceBTN']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-print</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a32fda7-d677-4d1c-99d7-442bd7362de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-print</value>
+      <webElementGuid>2d771bb0-7aaf-473c-a5d1-b94bf4e2f957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;claimBillsForm:payment:0:printInvoiceBTN&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-print&quot;]</value>
+      <webElementGuid>bfeec4f0-93c2-4580-a723-8676947cb067</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='claimBillsForm:payment:0:printInvoiceBTN']/span</value>
+      <webElementGuid>38ed66d8-bf90-44f8-a5bc-01c5b8cac0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[19]/button/span</value>
+      <webElementGuid>d3df7dbf-eea4-4256-9a63-68cc94dae535</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Patient has been added successfully.Pat_3e1ffa</name>
+   <tag></tag>
+   <elementGuidId>0d7a22b8-ff38-4276-8871-5ff79b245185</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='growl_container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-growl-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b84806bc-5be3-4fae-8f5e-2e0c4841152b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-item</value>
+      <webElementGuid>ae8b91b1-6642-4504-9bae-8c3ed619c893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patient has been added successfully.Patient has been added successfully.</value>
+      <webElementGuid>0eeebbbb-5f6f-4111-9d9f-d1019e4b2d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]</value>
+      <webElementGuid>10741869-53df-4151-b344-9da756f472f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='growl_container']/div/div</value>
+      <webElementGuid>d509c129-dd98-42cb-90f0-e2b93f739ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/following::div[16]</value>
+      <webElementGuid>24f87338-7422-4e00-9415-47522fc8676f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIS Msg Type'])[2]/following::div[17]</value>
+      <webElementGuid>7af7c3e0-7b80-448d-b8dc-f8d8139d5173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[4]</value>
+      <webElementGuid>3a30efcb-e4da-40ca-ada4-fd292f8aa18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div</value>
+      <webElementGuid>aae6cf83-2bc2-4b37-bfc4-647196b28244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Patient has been added successfully.Patient has been added successfully.' or . = 'Patient has been added successfully.Patient has been added successfully.')]</value>
+      <webElementGuid>5032b768-071a-448e-a3d2-c5180899b53b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

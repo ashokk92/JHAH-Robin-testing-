@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete SuccessDelete Success</name>
+   <tag></tag>
+   <elementGuidId>cde36714-b46b-4d6f-98c6-eb87201c419c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SystemConfigurationForm:SystemConfigurationMessages_container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-growl-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b44fa9e-b86b-4eb7-9cc1-815dfd0c6da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-item</value>
+      <webElementGuid>e5bb2f2f-5a74-4962-b657-c2820056c852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete SuccessDelete Success</value>
+      <webElementGuid>14a7c1f2-580d-414f-90c9-cec299d4494d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SystemConfigurationForm:SystemConfigurationMessages_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]</value>
+      <webElementGuid>bb9ef941-0924-4b69-8a4c-4b461edff262</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SystemConfigurationForm:SystemConfigurationMessages_container']/div/div</value>
+      <webElementGuid>df10a043-dc35-4426-bffe-70074e808dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows Per Page'])[3]/following::div[7]</value>
+      <webElementGuid>f21f16c5-bd0a-4b09-a9dc-f01d2eec1a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[3]/following::div[7]</value>
+      <webElementGuid>aae0495e-bb86-4d9d-9d47-93e3bba240a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[4]</value>
+      <webElementGuid>71e2a6d4-b3c3-45be-8b45-2d6b13059608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div</value>
+      <webElementGuid>3c5de91e-9784-418c-b0d4-dd26321a7b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delete SuccessDelete Success' or . = 'Delete SuccessDelete Success')]</value>
+      <webElementGuid>0330f469-af52-4fc9-bbd0-2a9fc4400e66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

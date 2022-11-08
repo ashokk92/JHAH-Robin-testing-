@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_APAKAAJ  premenb RAJAPAKSA</name>
+   <tag></tag>
+   <elementGuidId>9e0d0a2e-ae04-4dcf-a9e8-ca434d6f05f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:1:patient_FullNameCol']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>290b3ffc-55af-4af7-9fd4-6cbf5a2f5be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:1:patient_FullNameCol</value>
+      <webElementGuid>6f84e3a8-dcc3-4497-b542-ef31f72cb51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>563929e9-7f60-4505-80e5-94b1e4999ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>274b9f43-0f03-4c94-ba1b-27d4ed9647a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:1:patient_FullNameCol&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;AccumedHaadActivityListForm AccumedHaadDiagnosisListForm pbmClaimDtlDlg phWLForm:phWLTbl:1:patient_FullNameCol&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); PF('pbmClaimDtlDlgWid').show() ;PF('dataTableActivity').filter();lockObject(1002315,'BMSClaimView');;}});return false;</value>
+      <webElementGuid>82719619-0469-40c1-88ae-215e69d0843a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APAKAAJ  premenb RAJAPAKSA </value>
+      <webElementGuid>9d02267f-9308-4586-999e-b28b3cc89df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:1:patient_FullNameCol&quot;)</value>
+      <webElementGuid>ff6af18d-c9fe-4fe4-a703-fe6c0295ace9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:1:patient_FullNameCol']</value>
+      <webElementGuid>f346ca1a-29a4-424d-81f9-b448517325e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr[2]/td/a</value>
+      <webElementGuid>65bebd49-2e63-4b77-8a60-2b04c38f70fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'APAKAAJ  premenb RAJAPAKSA')]</value>
+      <webElementGuid>1831d7b9-3881-4c5a-8ac8-b8aca1a6c42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::a[1]</value>
+      <webElementGuid>20c62591-1244-423b-a59e-e9d8de49fd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partially Billed'])[3]/following::a[1]</value>
+      <webElementGuid>d01f6eb0-79a4-4c48-a0ec-208d6623e81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-0086'])[1]/preceding::a[1]</value>
+      <webElementGuid>77ce4be0-ccc8-4126-ac44-85e04d639982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0002802'])[1]/preceding::a[1]</value>
+      <webElementGuid>9631a4ae-c2b2-4063-ba3e-952247f4aa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[33]</value>
+      <webElementGuid>6b8894d2-d63e-4c6d-b438-33de8b0f511f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/a</value>
+      <webElementGuid>6bad3207-aeba-4a0c-8005-53b769ab6023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:1:patient_FullNameCol' and @href = '#' and (text() = 'APAKAAJ  premenb RAJAPAKSA ' or . = 'APAKAAJ  premenb RAJAPAKSA ')]</value>
+      <webElementGuid>18c3b466-2881-4abf-987a-1b02315b1634</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

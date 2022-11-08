@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SALMER mhd SALEM</name>
+   <tag></tag>
+   <elementGuidId>2d1844af-0b50-4aca-bee8-18dfafdb54c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='mergeBillDtlForm:j_idt2387']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f72c0a28-526e-44ac-8040-21e12fe70022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mergeBillDtlForm:j_idt2387</value>
+      <webElementGuid>9d002cdf-d037-4029-b639-4e2ff8801581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>7cfafef4-b17e-4fb5-8b1b-2d48489e0dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>0cdc1a6c-83ca-44c3-9516-5a6d2112b311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;mergeBillDtlForm:j_idt2387&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;AccumedHaadActivityListForm IPAccumedHaadDiagnosisListForm ipClaimDtlDlg mergeBillDtlForm:j_idt2387&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); PF('ipClaimDtlDlgWid').show() ;PF('dataTableActivity').filter();;}});return false;</value>
+      <webElementGuid>236579c1-7127-4106-ad94-d66037a75db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SALMER mhd SALEM</value>
+      <webElementGuid>103aa50d-aaef-4c9c-bb85-b405a30c9695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mergeBillDtlForm:j_idt2387&quot;)</value>
+      <webElementGuid>c3e33a5c-6cc6-4970-95a2-fa6686ef0817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='mergeBillDtlForm:j_idt2387']</value>
+      <webElementGuid>5f8a209c-5563-48e4-bedd-080214081ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='mergeBillDtlForm:item_panel']/table/tbody/tr/td/a</value>
+      <webElementGuid>399f6ff0-b192-4b75-9480-0e96ac7b3e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'SALMER mhd SALEM')])[3]</value>
+      <webElementGuid>bf747ce5-9b35-4c4f-b5ab-fa96d0b580a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[2]/following::a[1]</value>
+      <webElementGuid>c505a071-8edf-433b-a788-927612a38362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National ID'])[7]/following::a[1]</value>
+      <webElementGuid>524de70c-5084-4238-96d1-05a49ca26098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn'])[3]/preceding::a[1]</value>
+      <webElementGuid>f18343a6-a3c3-49e8-9acc-671b6371a604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-IP-0000785'])[3]/preceding::a[1]</value>
+      <webElementGuid>6a0462d4-50a3-44e6-9657-58d5ebb32e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[224]</value>
+      <webElementGuid>d2fa7518-f738-4356-84de-4523b88d1af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[6]/table/tbody/tr/td/a</value>
+      <webElementGuid>a0e6ce2c-1299-4a74-b35b-51e9dab70458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'mergeBillDtlForm:j_idt2387' and @href = '#' and (text() = 'SALMER mhd SALEM' or . = 'SALMER mhd SALEM')]</value>
+      <webElementGuid>1f48490e-52a9-472a-b0ec-1834875f1860</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

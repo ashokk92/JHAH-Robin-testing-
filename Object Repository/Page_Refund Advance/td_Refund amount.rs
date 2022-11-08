@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Refund amount</name>
+   <tag></tag>
+   <elementGuidId>dc567b8b-dec4-447e-a37b-fb2ce673c5db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='RefundAdvanceCollectionDlgForm:j_idt248']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>23a7bea1-7f70-4212-9d69-ac279d4b8c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>d704861e-3c7d-4555-ac50-0cb0b4b47016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-panelgrid-cell</value>
+      <webElementGuid>bb2367fb-060a-420b-917b-73690cb2baa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refund amount</value>
+      <webElementGuid>00090e1f-c873-4818-bd1f-e9e3e8d671e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RefundAdvanceCollectionDlgForm:j_idt248&quot;)/tbody[1]/tr[@class=&quot;ui-widget-content ui-panelgrid-even&quot;]/td[@class=&quot;ui-panelgrid-cell&quot;]</value>
+      <webElementGuid>98343729-a132-43c8-8239-4a3aed8c70e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='RefundAdvanceCollectionDlgForm:j_idt248']/tbody/tr/td[3]</value>
+      <webElementGuid>faf6cd2d-f163-4753-8f1c-5f5ca436527a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient not availed service'])[2]/following::td[1]</value>
+      <webElementGuid>a94752f3-71ea-4268-b781-1cea0cb51d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Reason'])[1]/following::td[2]</value>
+      <webElementGuid>a5090310-2afd-498a-9b81-d0ab46e21aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Refund Amount'])[1]/preceding::td[3]</value>
+      <webElementGuid>5fd8cd95-fa97-4539-ae74-fc544c3fac65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[2]/form/table/tbody/tr/td[3]</value>
+      <webElementGuid>1454e97e-de75-44cf-9228-0991206bb8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Refund amount' or . = 'Refund amount')]</value>
+      <webElementGuid>289e0025-d73e-4316-892e-e9c2aae36784</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

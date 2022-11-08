@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error MessageMRN already used</name>
+   <tag></tag>
+   <elementGuidId>c64ab130-c438-47a2-8c6c-746031ebae75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/following::div[16]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-growl-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a251689-8e39-49cc-8d07-16e938c8df67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-item</value>
+      <webElementGuid>effe507a-c0f5-489c-8d52-5f22e44a2c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error MessageMRN already used.</value>
+      <webElementGuid>7d73b80f-84b8-401b-a60e-291f436f0273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-error&quot;]/div[@class=&quot;ui-growl-item&quot;]</value>
+      <webElementGuid>8bc796f5-7577-409a-8b1d-86be16ad8b11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='growl_container']/div/div</value>
+      <webElementGuid>0ae6b997-595c-40fd-968c-32683d2199d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[1]/following::div[16]</value>
+      <webElementGuid>5c07f403-2bc8-47f4-9747-0fd6df27d19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIS Msg Type'])[2]/following::div[17]</value>
+      <webElementGuid>fd3bed78-dadb-4c02-b120-857f2249bdc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[4]</value>
+      <webElementGuid>36df0a55-4411-45ac-b299-9ebfc6730232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div</value>
+      <webElementGuid>55eea152-b0e2-486c-a7af-7d131beb6ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error MessageMRN already used.' or . = 'Error MessageMRN already used.')]</value>
+      <webElementGuid>d5e4dcc0-c874-4a6d-be04-bebbe8105b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_GHJKL 777hhh UUUU</name>
+   <tag></tag>
+   <elementGuidId>b1ba4108-1371-4eaf-8fe1-37387e762eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTb2:0:patientNameLink']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70cf3907-16c2-42e1-8752-8fc08a7dc3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTb2:0:patientNameLink</value>
+      <webElementGuid>7bfefca3-3e36-468f-aa05-12e5c2f7a198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>959959c1-8b1d-4379-8247-f48bcc4acf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>a22f5a62-b7dc-4152-8013-73f128af04f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTb2:0:patientNameLink&quot;,p:&quot;phWLForm:phWLTb2&quot;,u:&quot;AccumedHaadActivityListForm IPAccumedHaadDiagnosisListForm ipClaimDtlDlg phWLForm:phWLTb2:0:patientNameLink&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); PF('ipClaimDtlDlgWid').show() ;PF('dataTableActivity').filter();;}});return false;</value>
+      <webElementGuid>0c2bbb9d-0074-48fe-ae5b-cdbfc0784917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GHJKL 777hhh UUUU</value>
+      <webElementGuid>72f997e0-e1f0-4a4e-abbe-ad8e3fc34f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTb2:0:patientNameLink&quot;)</value>
+      <webElementGuid>5f4c7b02-4a15-448a-b1c0-438ee1490766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTb2:0:patientNameLink']</value>
+      <webElementGuid>466f3ba0-32cb-4664-bffb-0723d4f9f80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTb2_data']/tr/td/a</value>
+      <webElementGuid>aeeefd31-27b8-4b07-8307-64d622294ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'GHJKL 777hhh UUUU')])[2]</value>
+      <webElementGuid>baf51e22-e089-44a5-b1f5-577312fed603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>d1d06104-983c-46d8-90bd-9ca6ac0e2d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Status'])[2]/following::a[1]</value>
+      <webElementGuid>f50bd924-1a5d-415f-aff5-0a39d7b7d94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='y7890'])[2]/preceding::a[1]</value>
+      <webElementGuid>53be7f94-ec77-4684-bdca-08d3b84f6c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-IP-0000883'])[2]/preceding::a[1]</value>
+      <webElementGuid>63bad6d1-4771-40dc-9e12-af66828c6816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[32]</value>
+      <webElementGuid>753c768f-c09a-47e1-91c9-e45def7dbc58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table[3]/tbody/tr/td/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>c17a284e-120b-422f-9749-a34d50a17082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTb2:0:patientNameLink' and @href = '#' and (text() = 'GHJKL 777hhh UUUU' or . = 'GHJKL 777hhh UUUU')]</value>
+      <webElementGuid>d27d8aa2-bfd8-4e21-8629-880448f67720</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Refund</name>
+   <tag></tag>
+   <elementGuidId>726f5702-4972-431d-a3a4-486478b909ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='collectionForm:j_idt209:1:j_idt247']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55fe1011-c798-4296-a052-5adec117be94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>7f231a2c-d347-48d5-a969-2025bb8cb12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refund</value>
+      <webElementGuid>daf0d8e3-41bf-4292-91dd-dbb0c3952c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collectionForm:j_idt209:1:j_idt247&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>395cba8e-1dd1-4221-bc7b-144a285f9414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='collectionForm:j_idt209:1:j_idt247']/span</value>
+      <webElementGuid>069e2a04-95c8-435b-9b07-8dad02ec994b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Receipt'])[1]/following::span[1]</value>
+      <webElementGuid>9644e8de-6b7c-4756-b7cb-6dce91199dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='root /'])[2]/following::span[3]</value>
+      <webElementGuid>28c44d38-24ac-4f3f-9535-7c763ef487ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kjukk 7uytrewq oopkmnhg'])[3]/preceding::span[1]</value>
+      <webElementGuid>d0679b0a-dadc-4fd9-ade0-af6cdeb0f5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lk90=='])[3]/preceding::span[1]</value>
+      <webElementGuid>78ffa620-540b-489c-a7a1-b326bd35dddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/button/span</value>
+      <webElementGuid>4afec74d-8c4f-4353-a2b6-5ac9921e94ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Refund' or . = 'Refund')]</value>
+      <webElementGuid>658566e1-1d8f-437d-a68c-8f8d77b977eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

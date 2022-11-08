@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Diagnosis  Consultation Codes</name>
+   <tag></tag>
+   <elementGuidId>6bd6711d-37a8-4340-bf4d-a3a12d4e1417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabView']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-tabs-header.ui-state-default.ui-corner-top.ui-state-hover > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fea924ee-9d98-4bb4-8ed7-02a97972adcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#j_idt1036</value>
+      <webElementGuid>feeef4ef-b323-4047-a9f8-7de710f86373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c6b2151f-7422-48a1-a07e-3fae6771e481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Diagnosis &amp; Consultation Codes</value>
+      <webElementGuid>2de3e54e-94e3-4886-b367-b368f459c6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabView&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-tabs-header ui-state-default ui-corner-top ui-state-hover&quot;]/a[1]</value>
+      <webElementGuid>d72bcf77-f343-4331-bd9e-e761ccec4370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabView']/ul/li[2]/a</value>
+      <webElementGuid>6dea2103-d1ab-40c0-ab6d-42dd60a59849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Diagnosis &amp; Consultation Codes')]</value>
+      <webElementGuid>1c911744-c0d4-4ef5-b4fb-af23df545589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient &amp; Encounter Info'])[1]/following::a[1]</value>
+      <webElementGuid>500c8343-df3a-4a5c-a2f4-6eff3339542e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Details'])[1]/following::a[3]</value>
+      <webElementGuid>999915c8-af48-426e-a111-fdd87e8fdfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Notes / Attachments'])[1]/preceding::a[1]</value>
+      <webElementGuid>baffa840-a984-4e99-bb3e-7379216c9b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vital Signs Details'])[1]/preceding::a[2]</value>
+      <webElementGuid>dabda614-0796-4477-8097-7f3a8f367012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Diagnosis &amp; Consultation Codes']/parent::*</value>
+      <webElementGuid>60078f2b-0f43-40ae-a961-fdffc1f9e644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#j_idt1036')]</value>
+      <webElementGuid>e9dfe514-5989-4459-940e-5a7705cc92fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]/a</value>
+      <webElementGuid>3e09369f-ac2c-45f4-98f7-21792284cd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#j_idt1036' and (text() = 'Diagnosis &amp; Consultation Codes' or . = 'Diagnosis &amp; Consultation Codes')]</value>
+      <webElementGuid>86aadf61-2e8f-4eaa-93ae-19c1ead3af3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

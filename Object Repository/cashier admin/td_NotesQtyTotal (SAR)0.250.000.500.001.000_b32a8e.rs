@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_NotesQtyTotal (SAR)0.250.000.500.001.000_b32a8e</name>
+   <tag></tag>
+   <elementGuidId>46cf2a43-708c-4746-af76-9dce9f8bfe88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerForm:billReceiptsDetail']/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3c6e8813-fa2c-4b61-9439-dac4c6c1ec0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>verticalPaymentColumn</value>
+      <webElementGuid>0623e38c-774e-44ec-837c-ae96e9235961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NotesQtyTotal (SAR)0.250.000.500.001.000.0010.000.00100.000.002.000.0050.000.00500.000.00Grand Total: 0.0</value>
+      <webElementGuid>7d1659a5-5fd0-479e-a497-70a2970c9d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerForm:billReceiptsDetail&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;verticalPaymentColumn&quot;]</value>
+      <webElementGuid>f2f643be-f53e-4634-a291-1e5c9b7652a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerForm:billReceiptsDetail']/table/tbody/tr/td[2]</value>
+      <webElementGuid>70cfeef7-bcb3-491d-b50c-6d6ac62a387e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Sale'])[1]/following::td[2]</value>
+      <webElementGuid>8e49081a-139f-4574-bffa-e0a7681ffdac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Utilization'])[1]/following::td[4]</value>
+      <webElementGuid>f8cfcfa0-ff2b-467f-8726-9cb386d048fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>d140c8bd-9fa4-4943-96df-35651941e0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'NotesQtyTotal (SAR)0.250.000.500.001.000.0010.000.00100.000.002.000.0050.000.00500.000.00Grand Total: 0.0' or . = 'NotesQtyTotal (SAR)0.250.000.500.001.000.0010.000.00100.000.002.000.0050.000.00500.000.00Grand Total: 0.0')]</value>
+      <webElementGuid>8a74a697-2658-476c-add8-79ae05d9ea4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

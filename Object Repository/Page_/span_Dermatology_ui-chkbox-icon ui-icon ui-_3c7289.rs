@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dermatology_ui-chkbox-icon ui-icon ui-_3c7289</name>
+   <tag></tag>
+   <elementGuidId>9438c3c7-f81f-4ced-beaa-4f45b6938239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[10]/td/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ui-selection-column > div.ui-chkbox.ui-widget > div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default.ui-state-active > span.ui-chkbox-icon.ui-icon.ui-icon-check.ui-c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f9a31d7-6926-4e93-9de9-7f6750a7d561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-icon ui-icon ui-icon-check ui-c</value>
+      <webElementGuid>6df51434-a049-48a0-9aec-dbc5a6e20027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedClinicianProfessionsCreateForm:checkboxDT_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-odd ui-datatable-selectable ui-state-highlight&quot;]/td[@class=&quot;ui-selection-column&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ui-state-active&quot;]/span[@class=&quot;ui-chkbox-icon ui-icon ui-icon-check ui-c&quot;]</value>
+      <webElementGuid>19f86e05-ba1c-4b3e-a613-142fc7c6d68c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='AccumedClinicianProfessionsCreateForm:checkboxDT_data']/tr[10]/td/div/div[2]/span</value>
+      <webElementGuid>981080b5-436d-406e-b859-cc7cb90afb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td/div/div[2]/span</value>
+      <webElementGuid>8ab770d1-ef87-48b4-a065-e0ef18215d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

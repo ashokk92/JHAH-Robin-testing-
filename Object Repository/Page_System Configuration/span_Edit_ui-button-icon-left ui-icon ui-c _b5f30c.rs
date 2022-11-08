@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit_ui-button-icon-left ui-icon ui-c _b5f30c</name>
+   <tag></tag>
+   <elementGuidId>05dedf5d-9a9f-4174-aafb-6d9fe0a0bfaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='SystemConfigurationForm:configList:0:deleteButton']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>775d6a75-92fc-4172-86fd-c2fe908b0383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-trash</value>
+      <webElementGuid>01d9150b-48dc-4d97-b083-0cff460dc1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SystemConfigurationForm:configList:0:deleteButton&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-trash&quot;]</value>
+      <webElementGuid>d2df27d3-b28d-4567-bd67-9c8f4fc13322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='SystemConfigurationForm:configList:0:deleteButton']/span</value>
+      <webElementGuid>7950f7c4-4133-43c7-a389-f3547de97961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/span</value>
+      <webElementGuid>753c7377-dbbd-497f-8d59-15c13e712eb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

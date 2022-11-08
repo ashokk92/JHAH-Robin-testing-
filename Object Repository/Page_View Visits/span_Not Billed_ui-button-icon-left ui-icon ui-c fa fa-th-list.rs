@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Not Billed_ui-button-icon-left ui-icon ui-c fa fa-th-list</name>
+   <tag></tag>
+   <elementGuidId>8f08add7-707b-4f53-82db-e695a940e541</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[2]/td[19]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9de0d98-dd0a-41ba-a2e4-49dce8d532b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c fa fa-th-list</value>
+      <webElementGuid>0e524f04-be60-45cf-a000-1fd3aaaadd31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:1:VisitDetails&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c fa fa-th-list&quot;]</value>
+      <webElementGuid>a394e366-8f83-4eba-a576-192fcd5435db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='phWLForm:phWLTbl:1:VisitDetails']/span</value>
+      <webElementGuid>c9c9093c-c269-46c3-8535-8e952fa62a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[19]/button/span</value>
+      <webElementGuid>cb845b09-4abe-4d56-b007-231ba1f70fc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

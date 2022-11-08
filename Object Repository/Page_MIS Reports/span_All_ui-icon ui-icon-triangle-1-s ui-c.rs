@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All_ui-icon ui-icon-triangle-1-s ui-c</name>
+   <tag></tag>
+   <elementGuidId>6f289b5d-f303-4363-9b40-04316b25c19f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MISReportsForm:j_idt279']/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-selectonemenu-trigger.ui-state-default.ui-corner-right.ui-state-hover > span.ui-icon.ui-icon-triangle-1-s.ui-c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92d7edb6-7bb6-44d1-804f-f50f8053d086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-s ui-c</value>
+      <webElementGuid>c2b2d424-38e1-44f4-83d6-13ec3e0c7dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MISReportsForm:j_idt279&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right ui-state-hover&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-s ui-c&quot;]</value>
+      <webElementGuid>1d377be9-5f37-47b7-82b6-c4ea13cb0213</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MISReportsForm:j_idt279']/div[3]/span</value>
+      <webElementGuid>16a71ba3-c655-4cc0-9064-1ddc9b31f685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div[3]/span</value>
+      <webElementGuid>a1eb2851-54c2-4096-8007-6cd9034dd4f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

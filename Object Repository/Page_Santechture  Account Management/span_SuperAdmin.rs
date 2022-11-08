@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SuperAdmin</name>
+   <tag></tag>
+   <elementGuidId>08ce72bf-742f-4eba-a1b9-5fd0227a66b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-header[@id='kt_header']/div/app-topbar/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-black-50.opacity-90.font-weight-bolder.font-size-base.d-none.d-md-inline.mr-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1302cf5a-4172-4cdb-bd59-40e0f9f73b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black-50 opacity-90 font-weight-bolder font-size-base d-none d-md-inline mr-4</value>
+      <webElementGuid>b204db30-8b1d-488a-86c3-9914a043e91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SuperAdmin</value>
+      <webElementGuid>b452fd02-8f58-47b0-9854-b6ff39a0b577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header&quot;)/div[@class=&quot;d-flex align-items-stretch justify-content-between container&quot;]/app-topbar[@class=&quot;topbar&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-toggle topbar-item&quot;]/div[@class=&quot;btn btn-icon btn-hover-transparent-white d-flex align-items-center btn-lg px-md-2 w-md-auto&quot;]/span[@class=&quot;text-black-50 opacity-90 font-weight-bolder font-size-base d-none d-md-inline mr-4&quot;]</value>
+      <webElementGuid>a9c7a2de-99ed-4382-9802-ebbedde93d9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-header[@id='kt_header']/div/app-topbar/div/div/div/span[2]</value>
+      <webElementGuid>fd8a9bcf-f7a6-4c6c-a783-7f8d114c4c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::span[1]</value>
+      <webElementGuid>03b6e5ce-b74f-48cc-ab6b-cdd4d71a9d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::span[2]</value>
+      <webElementGuid>775060a3-7fca-463c-b37b-5e37fd20f2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::span[1]</value>
+      <webElementGuid>d8e857df-8543-4818-b7cb-2aa36426b8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/preceding::span[3]</value>
+      <webElementGuid>ce0877c0-cd67-4b55-ab9c-728b9c5288c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SuperAdmin']/parent::*</value>
+      <webElementGuid>621ac7c4-6ef8-48fe-a895-3be0ba8cbb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>4ba6478e-4607-464a-9599-dc137e63f86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SuperAdmin' or . = 'SuperAdmin')]</value>
+      <webElementGuid>8083069f-9ebd-43cd-889e-370159798a67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

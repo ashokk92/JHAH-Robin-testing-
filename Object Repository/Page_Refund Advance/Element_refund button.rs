@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_refund button</name>
+   <tag></tag>
+   <elementGuidId>43aa5d07-df11-40ad-a320-07d57cee3bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;collectionForm:j_idt209:2:j_idt247&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c529461d-f2d2-4636-a1b2-b6a3653ba0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1667548695322</value>
+      <webElementGuid>459c2b05-4b35-459d-bcb8-5f7ae1f3a92f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

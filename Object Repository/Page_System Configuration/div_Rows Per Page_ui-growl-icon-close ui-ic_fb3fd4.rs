@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rows Per Page_ui-growl-icon-close ui-ic_fb3fd4</name>
+   <tag></tag>
+   <elementGuidId>3989ce59-c92e-4d4f-b9c7-9013f0e418f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SystemConfigurationForm:SystemConfigurationMessages_container']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-growl-icon-close.ui-icon.ui-icon-closethick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6bb11bc-52a2-4268-aa28-6ba5240d14b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-icon-close ui-icon ui-icon-closethick</value>
+      <webElementGuid>26f82c33-a2aa-4f7c-b211-379e26605f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SystemConfigurationForm:SystemConfigurationMessages_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-icon-close ui-icon ui-icon-closethick&quot;]</value>
+      <webElementGuid>90379d22-dd28-4613-8e35-deabdb949f70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SystemConfigurationForm:SystemConfigurationMessages_container']/div/div/div</value>
+      <webElementGuid>a6863d96-3d63-4705-9339-03f39e6b27f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div</value>
+      <webElementGuid>0e1fe9af-2a15-42ce-84a3-a1ddba497e7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

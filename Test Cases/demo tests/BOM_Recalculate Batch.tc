@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>particular for IP Patient</description>
+   <name>BOM_Recalculate Batch</name>
+   <tag>@For IP Patient</tag>
+   <comment></comment>
+   <testCaseGuid>cd167bea-8082-4e38-8722-3e00b2df644e</testCaseGuid>
+</TestCaseEntity>

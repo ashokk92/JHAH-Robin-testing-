@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Approval Required_1</name>
+   <tag></tag>
+   <elementGuidId>25c45a43-df24-4ca6-9287-fa3679baf91a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='AccumedHaadActivityListForm:datalist:0:j_idt494_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>435d78f1-af72-451b-822d-6452de2fa32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AccumedHaadActivityListForm:datalist:0:j_idt494_label</value>
+      <webElementGuid>d1adf77a-e0b3-44b7-ac43-af56d08327ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>445aee1b-1a00-49a7-a99e-650edad01f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval Required</value>
+      <webElementGuid>644d081b-5ed4-4cd5-a2ee-2a1df5e20075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedHaadActivityListForm:datalist:0:j_idt494_label&quot;)</value>
+      <webElementGuid>2d1ec993-2e05-416a-b483-09d5004438e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='AccumedHaadActivityListForm:datalist:0:j_idt494_label']</value>
+      <webElementGuid>63585ee1-543c-4ec4-a560-0e0e6388309f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedHaadActivityListForm:datalist:0:j_idt494']/label</value>
+      <webElementGuid>492c8ca5-39ec-4189-ae88-635288b7f4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/following::label[1]</value>
+      <webElementGuid>8a1caacd-21e4-40a0-b5a6-3858b51c0d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Code'])[3]/following::label[1]</value>
+      <webElementGuid>1935d1a7-0973-42fc-b335-27ef5d70e41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance (alone) of other catheter, implante...'])[1]/preceding::label[2]</value>
+      <webElementGuid>edc8f2fe-6e07-4152-b0ff-08d1a1c51698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[3]/preceding::label[3]</value>
+      <webElementGuid>86886954-358d-4774-b5fd-8e2ed604300d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]/div/label</value>
+      <webElementGuid>41f739f0-1e1a-438b-b663-851e6a99a06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'AccumedHaadActivityListForm:datalist:0:j_idt494_label' and (text() = 'Approval Required' or . = 'Approval Required')]</value>
+      <webElementGuid>4c3432f8-21c6-4a13-a891-f166454f165a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

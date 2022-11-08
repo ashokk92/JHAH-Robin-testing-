@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>@SMS</description>
+   <name>SystemConfig Vat_Test case</name>
+   <tag>STC</tag>
+   <comment></comment>
+   <testCaseGuid>cc5ab822-ef60-4289-9dfd-b6c174bff4c1</testCaseGuid>
+</TestCaseEntity>

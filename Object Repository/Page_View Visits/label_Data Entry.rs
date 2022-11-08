@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Data Entry</name>
+   <tag></tag>
+   <elementGuidId>8d383858-4b46-4710-9905-6b9ed86d8909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='ipactionsButtonsForm:stage_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5686064c-67a3-497b-aa4e-dc5e4421c6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ipactionsButtonsForm:stage_label</value>
+      <webElementGuid>6f1e52a9-1bfe-4d5d-bb62-8b1f99f14643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>29b30165-77d2-40a0-beed-bb66a14a9ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Entry</value>
+      <webElementGuid>f1414517-d3bf-4daf-acf4-426f98ee45a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ipactionsButtonsForm:stage_label&quot;)</value>
+      <webElementGuid>5f52486c-17ef-46e9-bc5b-dce2c7c51d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='ipactionsButtonsForm:stage_label']</value>
+      <webElementGuid>a13bb301-eb92-4752-a9cf-86b9f6ddd450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ipactionsButtonsForm:stage']/label</value>
+      <webElementGuid>32b485ea-4d96-4b44-86a8-299652a59181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Stage'])[1]/following::label[1]</value>
+      <webElementGuid>6428d0b6-b608-4763-9656-0e6a41e89f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::label[2]</value>
+      <webElementGuid>8046af51-41ff-4196-8d8d-385f264a3ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Status'])[1]/preceding::label[1]</value>
+      <webElementGuid>e13f3916-c021-4cac-ae4d-26b13ce5904b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CheckIn'])[3]/preceding::label[2]</value>
+      <webElementGuid>a5ad889e-f577-456b-a787-6ebf8c692153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td[2]/div/label</value>
+      <webElementGuid>6a88b7de-8777-459b-af62-92533d21d8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'ipactionsButtonsForm:stage_label' and (text() = 'Data Entry' or . = 'Data Entry')]</value>
+      <webElementGuid>fbc1f933-02d2-4235-b709-f8b0a66c6f2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

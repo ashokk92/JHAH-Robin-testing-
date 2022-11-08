@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_King Fahad Hospital - Al Baha</name>
+   <tag></tag>
+   <elementGuidId>860bd737-ce4a-415e-997c-b4dcf8c6a980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div/ul/li[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b06352f9-b914-469a-9454-bd981a568c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>ca9787bd-d5bd-4224-8c1a-6b711bc259eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>1020</value>
+      <webElementGuid>7d5a9cd5-ed2a-47d1-af09-6949c535fe9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>King Fahad Hospital - Al Baha</value>
+      <webElementGuid>389d6dc2-e553-4794-979f-c316ed61b480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>8fe0cf0d-a94a-4557-8a13-1ec940fdee58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>King Fahad Hospital - Al Baha</value>
+      <webElementGuid>6d9371cb-a02b-4101-96ee-eb8d24c0dc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserEditForm:j_idt234:pickListHospital&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>01640fe8-95a6-44ff-8b6a-1351be00a56a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserEditForm:j_idt234:pickListHospital']/div/ul/li[12]</value>
+      <webElementGuid>dee8d432-b4f7-4caf-a2c2-ea921063243e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Fahad Central Hospital - Hafouf'])[4]/following::li[1]</value>
+      <webElementGuid>91d5e1e1-87d1-4876-9419-a625058b8636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Abdullah Hospital - Beshah'])[4]/following::li[2]</value>
+      <webElementGuid>7a35c122-c834-4dbe-bb34-08aa976c5b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Fahad Hospital -Jeddah'])[4]/preceding::li[1]</value>
+      <webElementGuid>cd02cd97-8ae8-4d27-86b8-fa8bbe12cdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Faisal Hospital-Taif'])[4]/preceding::li[2]</value>
+      <webElementGuid>e58f7612-6b8c-4945-a945-dbfbadd25444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/form/span/div/div/div[2]/span/table/tbody/tr/td[2]/div/div/ul/li[12]</value>
+      <webElementGuid>6a05fdd1-b03d-49c0-af13-bfa93c8c4564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'King Fahad Hospital - Al Baha' or . = 'King Fahad Hospital - Al Baha')]</value>
+      <webElementGuid>d28924a6-29a9-437d-a879-ce1aba15cce2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

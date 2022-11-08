@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_add advance 2</name>
+   <tag></tag>
+   <elementGuidId>ca95e8e6-edf2-49eb-a5de-41ddae14457e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;advanceCollectionDlgForm:j_idt294&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>6e3e1d11-3b6c-47d5-920b-4cef6dce4ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1667547574410</value>
+      <webElementGuid>510f6972-16b2-46ab-a3a7-5e184df89403</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

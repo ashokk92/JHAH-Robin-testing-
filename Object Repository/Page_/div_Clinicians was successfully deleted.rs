@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Clinicians was successfully deleted</name>
+   <tag></tag>
+   <elementGuidId>9a4c332c-01b4-42a9-b686-9323c1bc3feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedCliniciansListForm:ImportMessages_container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-growl-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a012e958-8ecc-46b2-9f14-be074b0fabed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-item</value>
+      <webElementGuid>e0af8c9b-9581-46e1-9edd-c66a9660abdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clinicians was successfully deleted.</value>
+      <webElementGuid>bbfed16b-2e55-4d1d-9cfd-ec46eae7cdc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedCliniciansListForm:ImportMessages_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]</value>
+      <webElementGuid>ee2d2f05-71df-42b0-9335-0164f924ae10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedCliniciansListForm:ImportMessages_container']/div/div</value>
+      <webElementGuid>6a6a75c3-27aa-4339-bd8c-5b746f6b1ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Clinicians'])[1]/following::div[15]</value>
+      <webElementGuid>c36d9148-2eac-455b-a13f-16cc262abc40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validating Clinicians ,please wait...'])[1]/following::div[25]</value>
+      <webElementGuid>67a9f5bc-e5b0-4a30-b99a-debb16ff9f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/preceding::div[4]</value>
+      <webElementGuid>55ffea70-5293-4cee-a377-4e0527e93ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>f785eafe-6b5c-4829-b7b6-7b6f6193a0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Clinicians was successfully deleted.' or . = 'Clinicians was successfully deleted.')]</value>
+      <webElementGuid>d58a4fc1-f98e-4ba8-9568-502400d39e34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

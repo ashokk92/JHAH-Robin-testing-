@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>view visits_</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>245edfbd-2af0-41ab-ba3a-21b25bbc4d1f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>372dacb4-13cd-450d-a27e-f0a8b7b03026</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Page_View Visits/span_ui-button')</defaultValue>
+      <description></description>
+      <id>372dacb4-13cd-450d-a27e-f0a8b7b03026</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

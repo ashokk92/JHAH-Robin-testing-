@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ui-button</name>
+   <tag></tag>
+   <elementGuidId>381f7e38-ca0d-4114-ba73-f3f9b9299782</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='PackageListForm:datalist:0:packageDtlBtn']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2aafc1c9-c151-4c88-8e82-8e0a019ec852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>26ebdcfa-9900-420e-b893-8d7c9abbd0a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ui-button</value>
+      <webElementGuid>34b42659-6d77-426f-bad0-2000ca9b5978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PackageListForm:datalist:0:packageDtlBtn&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>09b4e433-507a-47dd-b08a-c4dacef806f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='PackageListForm:datalist:0:packageDtlBtn']/span[2]</value>
+      <webElementGuid>5d7dc858-07b9-4122-b228-a68f3655dc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package Deal'])[6]/following::span[2]</value>
+      <webElementGuid>c6e869b8-5035-481b-a7ef-bbe4dc13964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total-SAR'])[4]/following::span[3]</value>
+      <webElementGuid>1e23ff2c-13f9-4b6a-b483-b0f3d32bcba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[20]/preceding::span[1]</value>
+      <webElementGuid>1553ad00-c9c2-48a1-a257-d2f7ef4c1c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[20]/preceding::span[2]</value>
+      <webElementGuid>bdb8ca00-7668-4b4b-9ebc-b2892b0019b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div/div/table/tbody/tr/td[6]/button/span[2]</value>
+      <webElementGuid>bb9984ef-2726-41e6-a737-031b2399ccba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ui-button' or . = 'ui-button')]</value>
+      <webElementGuid>83d3bf7e-d5f8-430d-b10b-329693881eff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

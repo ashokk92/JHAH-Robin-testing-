@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Program</name>
+   <tag></tag>
+   <elementGuidId>64927544-10db-4626-94da-1d49be68fa09</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>program</value>
+      <webElementGuid>096afbd6-576f-496a-9b9d-040e6112822e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>program</value>
+      <webElementGuid>80b2fadb-e314-4a4d-ad9b-0ef07a7dd329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>program</value>
+      <webElementGuid>cb44dc20-976e-4ed6-ae2b-957afcfd624f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>program</value>
+      <webElementGuid>3c2ba0bb-dd90-49ab-aa57-88f93608288d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
