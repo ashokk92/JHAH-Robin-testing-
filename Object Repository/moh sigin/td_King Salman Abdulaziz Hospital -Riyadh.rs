@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_King Salman Abdulaziz Hospital -Riyadh</name>
+   <tag></tag>
+   <elementGuidId>39692cac-1be3-4b27-bfd0-f3ae73c0e50e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='loginForm:facilityId_1']/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bd251ee6-993a-41ff-86cd-17ec4aa7fd48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>King Salman Abdulaziz Hospital -Riyadh</value>
+      <webElementGuid>714bb10a-25b8-4176-9462-c81e0bfbda3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginForm:facilityId_1&quot;)/td[1]</value>
+      <webElementGuid>5def1c46-323e-4e66-8e96-c7e7fc3748e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='loginForm:facilityId_1']/td</value>
+      <webElementGuid>a32cf331-28b9-41aa-85a1-85c9ebd4feec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[3]/following::td[1]</value>
+      <webElementGuid>c8da09ba-a5e7-49a2-a0b7-5c25cc830f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]'])[1]/following::td[2]</value>
+      <webElementGuid>d483406e-4807-4d85-8ca2-4aabe7f1f4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Jubail General Hospital - Jubail'])[2]/preceding::td[1]</value>
+      <webElementGuid>7ee10214-91e3-496c-ac64-55392db87293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr[2]/td</value>
+      <webElementGuid>f65aebfc-cb6c-40f1-874b-87ceec06f73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'King Salman Abdulaziz Hospital -Riyadh' or . = 'King Salman Abdulaziz Hospital -Riyadh')]</value>
+      <webElementGuid>1b8a12ca-8678-4088-b1d1-816d5f32d8ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

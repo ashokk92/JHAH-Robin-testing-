@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_King Salman Abdulaziz Hospital -Riyadh</name>
+   <tag></tag>
+   <elementGuidId>63fddc83-a9c8-47bd-8587-35c1295f3a1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='loginForm:facilityId_1']/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e23ea84-8746-4be4-949d-0537beec2649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>King Salman Abdulaziz Hospital -Riyadh</value>
+      <webElementGuid>d66da8e1-6bd8-48e2-81af-4bdd4edc5fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginForm:facilityId_1&quot;)/td[1]/span[1]</value>
+      <webElementGuid>7dee745c-6c76-4279-8ffe-a3e8698bacb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='loginForm:facilityId_1']/td/span</value>
+      <webElementGuid>d9f1ade4-24d5-4bf9-94ca-223ecacb2be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[3]/following::span[1]</value>
+      <webElementGuid>21caa98e-cf3d-4917-9e77-d819616c0236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]'])[1]/following::span[2]</value>
+      <webElementGuid>9eb48907-c719-4694-a562-d4a14f8100d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Jubail General Hospital - Jubail'])[2]/preceding::span[1]</value>
+      <webElementGuid>529ea08c-348e-44b6-b470-b8207ece247c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ohod General Hospital -Medinah'])[2]/preceding::span[2]</value>
+      <webElementGuid>d2b1f780-6217-4a9e-9fa8-edd4d5d15ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr[2]/td/span</value>
+      <webElementGuid>13fbbf3f-811c-4ff9-aa08-bcdf1769e068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'King Salman Abdulaziz Hospital -Riyadh' or . = 'King Salman Abdulaziz Hospital -Riyadh')]</value>
+      <webElementGuid>c786ad7d-4a57-4647-ad64-9c6db411661b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

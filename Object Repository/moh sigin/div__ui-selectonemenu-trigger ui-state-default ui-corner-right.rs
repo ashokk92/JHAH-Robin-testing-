@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__ui-selectonemenu-trigger ui-state-default ui-corner-right</name>
+   <tag></tag>
+   <elementGuidId>c80a35a0-1d01-483a-8cab-431f4ee2efdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-selectonemenu-trigger.ui-state-default.ui-corner-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginForm:facilityId']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91e50673-3731-43d7-8069-2e08a77b1d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-trigger ui-state-default ui-corner-right</value>
+      <webElementGuid>2f15e044-f493-440a-9870-1726e4e5bf31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginForm:facilityId&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right&quot;]</value>
+      <webElementGuid>ac39ae52-0727-4287-93ef-1527aee079fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginForm:facilityId']/div[3]</value>
+      <webElementGuid>a83dc08c-7b5a-49c1-b18e-db6648ecc461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[2]/following::div[1]</value>
+      <webElementGuid>57206a79-819f-430b-97e0-ca92dab0ee58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::div[7]</value>
+      <webElementGuid>5ef9310f-2d23-4f9c-b222-1234671a91ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::div[1]</value>
+      <webElementGuid>f4864a24-e8c0-4f3d-b573-620c085afd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[2]</value>
+      <webElementGuid>599c827f-2276-4f9d-8ce6-a22625407aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>f3a313d8-4bd6-438f-ab8b-edb28422d030</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
