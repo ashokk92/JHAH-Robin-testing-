@@ -21,5 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
 
+WebUI.waitForAngularLoad(5)
+
+WebUI.waitForPageLoad(5)
+
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 
