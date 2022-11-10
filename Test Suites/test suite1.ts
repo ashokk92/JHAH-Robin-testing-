@@ -12,24 +12,24 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9f2b5f94-52ac-4d7e-9297-3ac8e0b4efb8</testSuiteGuid>
    <testCaseLink>
-      <guid>fa9b3bba-07f5-43fc-9028-a2e66b5aa17b</guid>
+      <guid>0e1fb573-129c-4337-bafe-8d2eada8db32</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/demo tests/logincase</testCaseId>
+      <testCaseId>Test Cases/demo1/moh</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4dac7660-72c1-4295-a82a-e50823e55473</guid>
+      <guid>2a323e3b-f9bb-4dfc-94ad-875ba8dc7960</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/demo tests/Addinsurance_</testCaseId>
+      <testCaseId>Test Cases/demo1/moh login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1b63f18b-1c1f-4f36-a598-53dde53b4ccb</guid>
+      <guid>d1a1fa37-853b-4475-b5cd-94d8686451cf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/demo tests/Addservices_</testCaseId>
+      <testCaseId>Test Cases/demo1/logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
