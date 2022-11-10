@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces/MainPages/SANTECHTURE/Login.xhtml')
+WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
 
-WebUI.closeBrowser()
+WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

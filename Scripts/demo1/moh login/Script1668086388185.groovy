@@ -19,6 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces/MainPages/SANTECHTURE/Login.xhtml')
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
+
+WebUI.setText(findTestObject('Object Repository/moh sigin/input_Loading_loginFormuserName'), 'administrator')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/moh sigin/input_Loading_loginFormpassword'), '94L98adiAtmdH2Pcq36NMQ==')
+
+WebUI.click(findTestObject('Object Repository/moh sigin/label_'))
+
+WebUI.click(findTestObject('Object Repository/moh sigin/label__1'))
+
+WebUI.click(findTestObject('moh sigin/span_King Salman Abdulaziz Hospital -Riyadh'))
+
+WebUI.click(findTestObject('moh sigin/span_Sign In'))
 
 WebUI.closeBrowser()
+
