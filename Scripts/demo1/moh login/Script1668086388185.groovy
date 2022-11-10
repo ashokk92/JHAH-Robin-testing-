@@ -23,6 +23,8 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('Object Repository/moh sigin/input_Loading_loginFormuserName'), 'administrator')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/moh sigin/input_Loading_loginFormpassword'), '94L98adiAtmdH2Pcq36NMQ==')
