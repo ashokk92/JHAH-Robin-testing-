@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>test suite1</name>
+   <name>Test Suites_MOH</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9f2b5f94-52ac-4d7e-9297-3ac8e0b4efb8</testSuiteGuid>
+   <testSuiteGuid>abbf4b95-29f9-405b-8205-293a3349049f</testSuiteGuid>
    <testCaseLink>
-      <guid>0e1fb573-129c-4337-bafe-8d2eada8db32</guid>
+      <guid>02806bd0-6fa9-4eca-9ce5-2d05f5f5a129</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/demo1/moh</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2a323e3b-f9bb-4dfc-94ad-875ba8dc7960</guid>
+      <guid>b81a252a-ebdf-4911-a203-34458936156a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/demo1/moh login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d1a1fa37-853b-4475-b5cd-94d8686451cf</guid>
+      <guid>c564a9cb-33a6-4dd8-b85f-783ae0347f53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/demo1/logout</testCaseId>

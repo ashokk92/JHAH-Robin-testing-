@@ -31,9 +31,9 @@ WebUI.click(findTestObject('Object Repository/moh sigin/label_'))
 
 WebUI.click(findTestObject('Object Repository/moh sigin/label__1'))
 
-WebUI.click(findTestObject('moh sigin/span_King Salman Abdulaziz Hospital -Riyadh'))
+WebUI.click(findTestObject('Object Repository/moh sigin/td_King Salman Abdulaziz Hospital -Riyadh'))
 
-WebUI.click(findTestObject('moh sigin/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/moh sigin/button_Sign In'))
 
 WebUI.closeBrowser()
 
