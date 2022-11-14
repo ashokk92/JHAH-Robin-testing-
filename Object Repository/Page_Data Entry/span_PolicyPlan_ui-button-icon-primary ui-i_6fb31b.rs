@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a90171ec-7e3b-47c8-8027-e4b840358faf</webElementGuid>
+      <webElementGuid>7a7fba78-4e3d-4f2f-9314-256cb9f45256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-icon-primary ui-icon ui-icon-triangle-1-s</value>
-      <webElementGuid>2e5868eb-2305-4ee4-98d2-4242dbecd7a4</webElementGuid>
+      <webElementGuid>6723a972-5d00-4d1c-8714-8a3af9cf621a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:policy&quot;)/button[@class=&quot;ui-autocomplete-dropdown ui-button ui-widget ui-state-default ui-corner-right ui-button-icon-only ui-state-hover&quot;]/span[@class=&quot;ui-button-icon-primary ui-icon ui-icon-triangle-1-s&quot;]</value>
-      <webElementGuid>73d7878e-ccfb-47fb-8b52-e0cc494455ed</webElementGuid>
+      <webElementGuid>f4e90072-0053-4c45-8cea-c0e3edf9373f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='AccumedPatientInsuranceCreateForm:policy']/button/span</value>
-      <webElementGuid>f703522e-c790-4375-a85b-47776624a714</webElementGuid>
+      <webElementGuid>520609e1-411c-4c30-8c47-f2eea27b03eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/span/button/span</value>
-      <webElementGuid>90a9bb71-7011-4516-8761-47c4bf7ff686</webElementGuid>
+      <webElementGuid>21dc6aa6-b87a-4b9c-b69c-6a93eba4cfc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

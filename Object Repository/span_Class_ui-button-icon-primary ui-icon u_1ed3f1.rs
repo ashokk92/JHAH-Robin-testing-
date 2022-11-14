@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Class_ui-button-icon-primary ui-icon u_1ed3f1</name>
+   <tag></tag>
+   <elementGuidId>2ec1117c-d80a-45b5-a63f-79132ce64f43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='AccumedPatientInsuranceCreateForm:class']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-autocomplete-dropdown.ui-button.ui-widget.ui-state-default.ui-corner-right.ui-button-icon-only.ui-state-hover > span.ui-button-icon-primary.ui-icon.ui-icon-triangle-1-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd1e9887-ca34-4b09-af5e-36295b62c30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-primary ui-icon ui-icon-triangle-1-s</value>
+      <webElementGuid>60d6403f-b7c5-4d3b-b3f7-40e5a88a5d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:class&quot;)/button[@class=&quot;ui-autocomplete-dropdown ui-button ui-widget ui-state-default ui-corner-right ui-button-icon-only ui-state-hover&quot;]/span[@class=&quot;ui-button-icon-primary ui-icon ui-icon-triangle-1-s&quot;]</value>
+      <webElementGuid>55d3de58-ad6a-4f08-be83-cd567b614f15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='AccumedPatientInsuranceCreateForm:class']/button/span</value>
+      <webElementGuid>e71b381e-d641-4a99-92d8-527aa5244081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/span/button/span</value>
+      <webElementGuid>f457cb35-cd64-4147-9044-db9fc578be84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

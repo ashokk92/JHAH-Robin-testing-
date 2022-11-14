@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f0644b3b-683d-4bef-8c05-02c165a93d81</webElementGuid>
+      <webElementGuid>25a12694-7dd6-4ad5-8619-d28df7c32e4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-filter ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus</value>
-      <webElementGuid>e8d40d81-1764-4c40-804b-21e21034393e</webElementGuid>
+      <webElementGuid>6f967dc0-9064-4023-bdf3-3a2ea8306832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:insuranceLisence_filter</value>
-      <webElementGuid>9fd64465-09a1-4886-b653-c817dad768d1</webElementGuid>
+      <webElementGuid>3fca3df7-1403-450b-934b-ba1973fba85b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:insuranceLisence_filter</value>
-      <webElementGuid>05be70af-72e5-47cf-ab4c-fa8aaf5af46b</webElementGuid>
+      <webElementGuid>a28f27af-e421-4235-a00a-897fd2f202ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>238c0937-02d5-46d2-a59e-47ec244256cf</webElementGuid>
+      <webElementGuid>62d6383c-1039-4b9c-91f2-0ab09d98b441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>44c6d824-32b4-4641-9476-d53523b60bb5</webElementGuid>
+      <webElementGuid>96a77f6d-f435-4176-af69-600e06a41fb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>39bb00d7-1829-46d4-ab60-8ccbb847b1fa</webElementGuid>
+      <webElementGuid>ef51cf86-7e95-4023-ac8d-2388e2b2207b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>674b66aa-bbb3-4337-ad74-a30166e78e82</webElementGuid>
+      <webElementGuid>38d03fc8-c9cf-4625-ac10-a2c7189d3dac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>502415a1-a1b1-40da-a1cb-b94de413fce6</webElementGuid>
+      <webElementGuid>f2863f3e-edbf-4d03-a2d9-2eaae02e73c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:insuranceLisence_filter&quot;)</value>
-      <webElementGuid>493f86bd-fc51-434a-b2e8-ab836835cafe</webElementGuid>
+      <webElementGuid>e5d9f51a-de2c-4f1b-89bc-fa432bf03cbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_filter']</value>
-      <webElementGuid>ac752696-0dc1-4c2b-8409-6aa3e9bc10b2</webElementGuid>
+      <webElementGuid>7c95fa50-a1c6-4a35-a127-c3edc049db22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,15 +110,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_panel']/div/input</value>
-      <webElementGuid>a11fab7f-2dca-4dc2-92de-7b82e4307a4c</webElementGuid>
+      <webElementGuid>6601ade6-dedc-44df-8342-f79fdd5beef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[98]/div/input</value>
-      <webElementGuid>ad22ce32-1bd7-4bb8-919d-5f905ba7f165</webElementGuid>
+      <value>//div[95]/div/input</value>
+      <webElementGuid>6f0c9bfb-6f83-4301-ad9c-17960717eac7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'AccumedPatientInsuranceCreateForm:insuranceLisence_filter' and @name = 'AccumedPatientInsuranceCreateForm:insuranceLisence_filter' and @type = 'text']</value>
-      <webElementGuid>5ca46b64-cc2d-4e6d-9f12-9447f8e7e4df</webElementGuid>
+      <webElementGuid>e1716b9f-624a-4374-8f61-8beef01e2d3f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

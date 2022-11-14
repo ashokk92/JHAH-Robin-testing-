@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>88b51eeb-3e01-40b5-a7d9-27cb4db2867c</webElementGuid>
+      <webElementGuid>bfaa48fe-dd61-407e-95cc-e2de3908f1bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientCreateForm:dateOfBirth2_input</value>
-      <webElementGuid>c91bf638-4dd8-4c34-92a2-c16006c8e448</webElementGuid>
+      <webElementGuid>5d3ec485-7324-425a-9276-5d1d5aee7f33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>AccumedPatientCreateForm:dateOfBirth2_input</value>
-      <webElementGuid>d07c6227-182e-4817-92a9-20e9aba9e7b7</webElementGuid>
+      <webElementGuid>9ee878f4-ac02-4024-aa7f-5528c1e80076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c8496017-828b-47fa-9b5d-1b01dd98dcf8</webElementGuid>
+      <webElementGuid>64f1bb32-4192-4a1f-96be-21af4431ce67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-widget ui-state-default ui-corner-all hasDatepicker ui-state-hover ui-state-focus</value>
-      <webElementGuid>43f8ac6c-20f8-47c4-a98f-eb4264722dfd</webElementGuid>
+      <webElementGuid>4ba066bd-32ab-4b6f-ae0f-e021f9a118d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>dd/MM/yyyy</value>
-      <webElementGuid>586fa233-71aa-40fe-816b-f79c20350976</webElementGuid>
+      <webElementGuid>58a8ff41-d631-4c2c-a266-f6c0be87d272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,15 +70,15 @@
       <name>title</name>
       <type>Main</type>
       <value>DateOfBirth</value>
-      <webElementGuid>96244f7e-48c5-4164-889c-07fa40560e58</webElementGuid>
+      <webElementGuid>004a41cb-6d9f-406a-91cb-b6d3592cc8cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>AccumedPatientCreateForm:j_idt1098</value>
-      <webElementGuid>97f8632b-7c15-417f-97c5-20f08d0402eb</webElementGuid>
+      <value>AccumedPatientCreateForm:j_idt1011</value>
+      <webElementGuid>2e1f81d5-b5a9-4c7b-8079-bfd3dab8695e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>fc99cb70-aaea-413c-94ba-529ff911d9bc</webElementGuid>
+      <webElementGuid>24cd7150-9696-458c-a964-4b200022a6be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ab2e7c89-d69b-4baa-8dce-d71bd2319564</webElementGuid>
+      <webElementGuid>c1e7c818-f432-40a9-87e1-be745c66f964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3adf5348-e90d-4f0a-8179-994225b74ef5</webElementGuid>
+      <webElementGuid>d86051b8-c8e6-40fe-b4e9-aa2de9d265e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientCreateForm:dateOfBirth2_input&quot;)</value>
-      <webElementGuid>ca8b8946-f59e-40a3-b646-5cbc2b85249b</webElementGuid>
+      <webElementGuid>fea6f891-ebb2-46f8-8d98-b49bef418c26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='AccumedPatientCreateForm:dateOfBirth2_input']</value>
-      <webElementGuid>46c9c1d3-580e-4a89-a4d1-5fca7e641cee</webElementGuid>
+      <webElementGuid>a0017ac6-a8e7-4ed5-bc1d-d7fc867dbd59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='AccumedPatientCreateForm:dateOfBirth2']/input</value>
-      <webElementGuid>67cb0f28-753f-4b77-b6c5-e019693419b3</webElementGuid>
+      <webElementGuid>cdafec09-f087-4c08-8260-4de8c8628bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[4]/span/input</value>
-      <webElementGuid>eb55018f-d246-4496-9697-0674ec40bd2d</webElementGuid>
+      <webElementGuid>37403f98-66ff-4fd1-b491-c219e75da6d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'AccumedPatientCreateForm:dateOfBirth2_input' and @name = 'AccumedPatientCreateForm:dateOfBirth2_input' and @type = 'text' and @placeholder = 'dd/MM/yyyy' and @title = 'DateOfBirth']</value>
-      <webElementGuid>df2d6b83-8074-4eb5-b832-b3b6965be728</webElementGuid>
+      <webElementGuid>c7862796-03e7-498d-a77c-6fb6d3ecc786</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

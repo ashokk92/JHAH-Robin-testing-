@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt30']</value>
+         <value>//button[@id='loginForm:j_idt29']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3f66988d-7ebc-4b29-a3a8-8db84a746aa7</webElementGuid>
+      <webElementGuid>3265f646-d810-4317-b90e-b179d823fd7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:j_idt30</value>
-      <webElementGuid>2b737f11-181e-48d6-b276-5bd2abb3d322</webElementGuid>
+      <value>loginForm:j_idt29</value>
+      <webElementGuid>16b7a692-e83b-40dc-a607-4a9b160276c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:j_idt30</value>
-      <webElementGuid>1dd8bd89-ca0a-441f-b0a1-70d57924f73e</webElementGuid>
+      <value>loginForm:j_idt29</value>
+      <webElementGuid>a3df2b8f-da3c-4619-865c-2169b78720c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only login100-form-btn ui-state-focus ui-state-hover</value>
-      <webElementGuid>340a9972-f012-4ce1-990e-869cb79d5a51</webElementGuid>
+      <webElementGuid>fce1b070-c6d6-478d-9fa1-83126bdcbbf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>PrimeFaces.ab({s:&quot;loginForm:j_idt30&quot;,u:&quot;loginForm:msg&quot;,onst:function(cfg){startAjaxLoader('Logging In Progress...');;},onco:function(xhr,status,args){endAjaxLoader();;}});return false;</value>
-      <webElementGuid>c2a32876-4fd6-42f4-83ab-090578add97c</webElementGuid>
+      <value>PrimeFaces.ab({s:&quot;loginForm:j_idt29&quot;,u:&quot;loginForm:msg&quot;,onst:function(cfg){startAjaxLoader('Logging In Progress...');;},onco:function(xhr,status,args){endAjaxLoader();;}});return false;</value>
+      <webElementGuid>ca255247-1551-4366-9e28-b691505cd07a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>db91f314-28e1-4e6b-b859-f092407d5b03</webElementGuid>
+      <webElementGuid>7c40e218-9e5b-4e78-9d73-199b1c295b4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4fcfc226-9536-4e28-be6d-8ff5abe36bac</webElementGuid>
+      <webElementGuid>d0f85b3d-8d09-45af-9652-2136ab4c4ddc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b7941d77-033e-4390-b824-5e4d7539ffde</webElementGuid>
+      <webElementGuid>e74c9c4c-a6c3-4d9a-be43-69199f136bd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,23 +86,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>2d8f46ae-f581-42c4-af8b-d34b867de954</webElementGuid>
+      <webElementGuid>84ade963-1cfe-4c3b-946f-cbf178a4ad73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt30&quot;)</value>
-      <webElementGuid>ccea9948-7ad0-4cce-af30-7ebb6d43e909</webElementGuid>
+      <value>id(&quot;loginForm:j_idt29&quot;)</value>
+      <webElementGuid>94c5b585-efb8-432c-8696-57a4a669db75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt30']</value>
-      <webElementGuid>f2b2d851-c4df-440f-9de7-4de807279fa6</webElementGuid>
+      <value>//button[@id='loginForm:j_idt29']</value>
+      <webElementGuid>c72660e8-8230-443e-92d3-a8b5414a0b1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/div[2]/button</value>
-      <webElementGuid>57b31cb3-700e-4a09-b472-1ab6a18ea066</webElementGuid>
+      <webElementGuid>1abe7e95-df68-48af-81ef-3349d474c006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::button[1]</value>
-      <webElementGuid>1601da52-d1f8-4d82-a979-08ce026bd5cf</webElementGuid>
+      <webElementGuid>7b3049d1-6acd-4adc-a9b6-6d2c2a1b2d8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,15 +126,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::button[1]</value>
-      <webElementGuid>5c263424-f48c-48c6-a974-4d3c76507b23</webElementGuid>
+      <webElementGuid>352e539f-a095-4fb6-baf4-2f0ad196d296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows Login'])[1]/preceding::button[1]</value>
-      <webElementGuid>ce60cd25-f2ee-4a51-8f06-2a99a55d959b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>2895c694-8ca8-4751-86f9-346c12154868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,14 +142,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>d2a34077-4ca7-44fe-94ba-2ef0e91d3354</webElementGuid>
+      <webElementGuid>5281a48d-d8d8-4609-a6bd-2bde4fee53f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'loginForm:j_idt30' and @name = 'loginForm:j_idt30' and @type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>7e5fe042-6388-48fe-970d-9bcda08edf67</webElementGuid>
+      <value>//button[@id = 'loginForm:j_idt29' and @name = 'loginForm:j_idt29' and @type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>bc131852-bbae-462f-8159-0a9b771dc365</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

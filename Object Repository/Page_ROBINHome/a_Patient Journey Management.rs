@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.ui-menuitem-link.ui-submenu-link.ui-corner-all.ui-state-hover</value>
+         <value>a.ui-menuitem-link.ui-submenu-link.ui-corner-all</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c94f382d-79db-46d1-ad60-0d309da585aa</webElementGuid>
+      <webElementGuid>25cbdf92-14aa-40ef-a2ea-8a115c2a46c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d57f2259-1c46-4065-be67-fb1619de8c6f</webElementGuid>
+      <webElementGuid>83dd4b6f-3882-4769-8f7d-f019220173f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>7f544fdf-c94c-40fc-9803-a39069bef71a</webElementGuid>
+      <value>ui-menuitem-link ui-submenu-link ui-corner-all</value>
+      <webElementGuid>740fa2cd-26ce-4a21-a364-f52e416bdb33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c454ad6e-cf53-4054-953f-f1dc246f85f9</webElementGuid>
+      <webElementGuid>13fb6921-1070-4774-beac-92859a884588</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Patient Journey Management</value>
-      <webElementGuid>16090d91-624c-489c-abb2-157d7bf7bd8e</webElementGuid>
+      <webElementGuid>c9f4c261-0eca-4b20-81a2-cdb2ff5d57a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>1f284411-ae5f-4749-8cb8-8ba3451a6b13</webElementGuid>
+      <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all&quot;]</value>
+      <webElementGuid>edcb6aca-41b2-4e1e-8f32-336816d1724b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[2]/a</value>
-      <webElementGuid>294c209d-8f0d-473c-9dbb-d52645a96ac0</webElementGuid>
+      <webElementGuid>7d66f702-40c1-4c23-ba35-d6b6502b83f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>fe99436c-630c-4ae1-9626-99d6bbf9ac82</webElementGuid>
+      <webElementGuid>f9c697da-da5a-48d0-8ed9-fd05f352e7cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Entry'])[1]/preceding::a[1]</value>
-      <webElementGuid>b98e50b1-0777-4be6-acc1-c52f1eefdaa0</webElementGuid>
+      <webElementGuid>86cc8f79-4231-4c13-8dd7-4f02b6e7c969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>2fa6a096-9a15-4546-8538-a351b7da656d</webElementGuid>
+      <webElementGuid>49646177-147b-4607-a27a-8f744c3252e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>a0ff223b-78a6-4ede-8397-5b073b4ecb0e</webElementGuid>
+      <webElementGuid>327c8196-49a9-4e7e-b8b7-fd46edd00114</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Patient Journey Management' or . = 'Patient Journey Management')]</value>
-      <webElementGuid>d0584728-2a0e-4315-a10b-fd34fec0a3e3</webElementGuid>
+      <webElementGuid>aa4c6662-31d6-4b19-ae2f-5239b20fe360</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

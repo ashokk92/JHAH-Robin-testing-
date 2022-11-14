@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[3]/a</value>
+         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[7]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>261e7914-f572-49dd-ab4b-d334e8acbd6c</webElementGuid>
+      <webElementGuid>1f7060db-baa7-43b1-ad6b-264258ebb1a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-state-default ui-state-active ui-state-hover</value>
-      <webElementGuid>cb3b3687-0677-4f14-81ef-810e2c83fcd8</webElementGuid>
+      <webElementGuid>a601faab-5406-4576-bac6-a2995cba7ca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>fb053950-3303-4c7e-9952-29fce77e2419</webElementGuid>
+      <webElementGuid>3996d9f9-92a7-41f9-96ce-a85ecb246576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,23 @@
       <name>text</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>06328e1b-c6d6-45e8-9f68-a2f8d867e11e</webElementGuid>
+      <webElementGuid>bbf44533-5bd7-4631-ad5d-b860e1dfadd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-datepicker-days-cell-over  ui-datepicker-current-day&quot;]/a[@class=&quot;ui-state-default ui-state-active ui-state-hover&quot;]</value>
-      <webElementGuid>962f320a-528d-49fd-9d2f-1f9419ec0a3c</webElementGuid>
+      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-datepicker-week-end ui-datepicker-days-cell-over  ui-datepicker-current-day&quot;]/a[@class=&quot;ui-state-default ui-state-active ui-state-hover&quot;]</value>
+      <webElementGuid>bb0cca88-948f-459d-a5ad-4e7cfdfa6f87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[3]/a</value>
-      <webElementGuid>f201b28f-e1de-4ff7-a234-3efd74645c88</webElementGuid>
+      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[7]/a</value>
+      <webElementGuid>0a9ce7c0-c0a5-4973-850a-983dda12c1b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>13acef40-ab10-4b2c-9386-6c6633fae084</webElementGuid>
+      <webElementGuid>bbdea94c-1655-4a66-93f0-0de475639b1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::a[23]</value>
-      <webElementGuid>8010cbbc-e61d-40e4-b33e-1a344cf8d900</webElementGuid>
+      <webElementGuid>df1a44af-b7d7-4d84-b1c1-e5f982f88b35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,23 +86,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[3]/following::a[23]</value>
-      <webElementGuid>34fc30b1-8cad-4a8a-af1e-b7c0b734e8c2</webElementGuid>
+      <webElementGuid>1184adba-69bf-417c-9450-7612b408b1a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(DIABETES VIRTUAL INSULIN PUMP ) CLINIC'])[2]/preceding::a[10]</value>
-      <webElementGuid>07469b03-23cc-4f6c-bfdc-94348cc1ef21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day Case - patient occupies bed and is discharged on the same day'])[2]/preceding::a[10]</value>
+      <webElementGuid>2b290d09-845c-4541-a5cd-b41f16e60d2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[2]/preceding::a[10]</value>
-      <webElementGuid>9c106e6d-bcc0-4048-8015-8d953a8cfb29</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency - patient is seen in Emergency Department and is not admitted to Inpatient Bed'])[2]/preceding::a[10]</value>
+      <webElementGuid>58c0f1ac-6e3e-489c-821d-2ecdf27ee4e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,23 +110,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='23']/parent::*</value>
-      <webElementGuid>189af564-cb20-40fa-8f4c-6fb01e7090ed</webElementGuid>
+      <webElementGuid>b60c2024-2c81-49e7-9422-1a63abc0e6a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[57]</value>
-      <webElementGuid>0d708e62-bc0e-4b1f-9976-a6c377eb7540</webElementGuid>
+      <value>(//a[contains(@href, '#')])[62]</value>
+      <webElementGuid>d74d2ea6-0414-4d5b-af50-1d924de549e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[4]/td[3]/a</value>
-      <webElementGuid>292c6a6b-8a49-4968-9b0c-f957becfd9ae</webElementGuid>
+      <value>//tr[4]/td[7]/a</value>
+      <webElementGuid>c0163d70-e12c-426d-a0f6-6e91e21cf178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>2ae11d42-bd6b-414e-9eb9-18a64d67d2da</webElementGuid>
+      <webElementGuid>99264ac8-3f9a-49aa-b20e-2a3f4a3dad02</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

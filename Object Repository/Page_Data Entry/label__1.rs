@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_label']</value>
+         <value>//label[@id='InvoiceForm:department_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>8a380f0b-63e4-4a77-9646-5b504e2390ee</webElementGuid>
+      <webElementGuid>6d906908-78ff-4e09-906d-5b70ea5e48db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>AccumedPatientInsuranceCreateForm:insuranceLisence_label</value>
-      <webElementGuid>92595295-4202-4e97-9924-05f0bcdb2534</webElementGuid>
+      <value>InvoiceForm:department_label</value>
+      <webElementGuid>39b49575-e140-4200-83ac-d40b305838f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>1bbd8c73-7ea7-46fb-babb-50e2483cff7e</webElementGuid>
+      <webElementGuid>e8885b25-b241-4520-906a-f98442de882d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,78 +46,78 @@
       <name>text</name>
       <type>Main</type>
       <value>...</value>
-      <webElementGuid>a5061d20-f4b7-4ad9-b7b9-03af3bc772f5</webElementGuid>
+      <webElementGuid>8a7140b3-692c-45f2-bc09-faa949e2013b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AccumedPatientInsuranceCreateForm:insuranceLisence_label&quot;)</value>
-      <webElementGuid>0937a816-d41e-4851-961c-3da8593f7014</webElementGuid>
+      <value>id(&quot;InvoiceForm:department_label&quot;)</value>
+      <webElementGuid>00eea107-62e2-4134-853c-adda09458f0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_label']</value>
-      <webElementGuid>b5a03eee-9c89-4bc0-9048-3f61c359051e</webElementGuid>
+      <value>//label[@id='InvoiceForm:department_label']</value>
+      <webElementGuid>7f3b7ea5-15c5-49dc-99c7-bfb768451b74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AccumedPatientInsuranceCreateForm:insuranceLisence']/label</value>
-      <webElementGuid>bf054b26-6560-4147-820a-097efc26d434</webElementGuid>
+      <value>//div[@id='InvoiceForm:department']/label</value>
+      <webElementGuid>20ff29ef-7b4f-49f7-a32d-3a09e2ab132b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::label[1]</value>
-      <webElementGuid>8e50cc3e-2fa2-4357-956e-d87b92f3176b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[4]/following::label[1]</value>
+      <webElementGuid>ec030de7-3abe-44d9-a6eb-c00c408a7dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer'])[3]/following::label[1]</value>
-      <webElementGuid>226f24c8-0e29-4cf1-8915-21b2ab1e3ed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[1]</value>
+      <webElementGuid>8949190c-3ace-45cd-9f7a-b11845300e37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Principle Insurance ID'])[1]/preceding::label[1]</value>
-      <webElementGuid>7e536481-d6c4-4157-9f64-df572bd1f278</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date:'])[1]/preceding::label[1]</value>
+      <webElementGuid>0150f2f1-c36d-4ebf-adc3-8dbd3198d954</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiver'])[1]/preceding::label[2]</value>
-      <webElementGuid>be8f0d99-7ca4-43b5-b021-831ded46245f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::label[1]</value>
+      <webElementGuid>a3612680-6a88-417b-9901-40f9427d6113</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/table/tbody/tr[2]/td[2]/div/label</value>
-      <webElementGuid>fc235deb-3b28-48b8-8e2f-d31e5dfbdcba</webElementGuid>
+      <value>//span[2]/fieldset/div/span/table/tbody/tr/td[4]/div/label</value>
+      <webElementGuid>2e694b2b-dd8e-4237-951c-c95d1dfbc3b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'AccumedPatientInsuranceCreateForm:insuranceLisence_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>31933e46-a70b-427e-88da-05ac5350a21a</webElementGuid>
+      <value>//label[@id = 'InvoiceForm:department_label' and (text() = '...' or . = '...')]</value>
+      <webElementGuid>29edc1d6-d037-4c76-b6ce-d93595fddd24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

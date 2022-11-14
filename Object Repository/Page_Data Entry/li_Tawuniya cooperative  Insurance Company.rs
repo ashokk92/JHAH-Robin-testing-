@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_101']</value>
+         <value>//li[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_80']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>f98669e3-24dc-4fe8-b0ef-bfffb7ddbe6f</webElementGuid>
+      <webElementGuid>255b4888-c4e7-451c-b391-ba1dda2d93aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-item ui-selectonemenu-list-item ui-corner-all ui-state-highlight</value>
-      <webElementGuid>29573456-4f23-4a08-8f24-74cbc6bb18f3</webElementGuid>
+      <webElementGuid>a67c6d04-fcfe-451a-8533-4f2d3756811e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>data-label</name>
       <type>Main</type>
       <value>Tawuniya cooperative  Insurance Company</value>
-      <webElementGuid>e7ec8c61-737c-4b10-bd4e-ff07b47b3d0b</webElementGuid>
+      <webElementGuid>c34d3420-106d-4d44-be47-6b9583c50db3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d3428074-a195-4200-bd8e-d60d89685314</webElementGuid>
+      <webElementGuid>0f53ee8e-90e5-4f2a-88ba-6cbd00f68852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +54,15 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>a6104150-1493-4fd5-98c7-ed7cd283fc47</webElementGuid>
+      <webElementGuid>e1465e7a-b9ac-4f2e-b4bd-5abf28b23259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>AccumedPatientInsuranceCreateForm:insuranceLisence_101</value>
-      <webElementGuid>c7be8028-f996-49ed-8cfa-d76ab39ffc39</webElementGuid>
+      <value>AccumedPatientInsuranceCreateForm:insuranceLisence_80</value>
+      <webElementGuid>768040d2-39ab-4028-b28b-311196cbfac8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,31 +70,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Tawuniya cooperative  Insurance Company</value>
-      <webElementGuid>2fee7e99-9aea-46f6-95e5-98070b132102</webElementGuid>
+      <webElementGuid>59dd1bf8-8c1d-4f3e-ad24-82c32d366a4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AccumedPatientInsuranceCreateForm:insuranceLisence_101&quot;)</value>
-      <webElementGuid>8a144356-7b81-4ec5-a3d5-f72b5c26e3fc</webElementGuid>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:insuranceLisence_80&quot;)</value>
+      <webElementGuid>a9ee0ce3-2480-4042-a0b4-2b59accd8600</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_101']</value>
-      <webElementGuid>145a4117-7a34-404b-849d-78806ec873d0</webElementGuid>
+      <value>//li[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_80']</value>
+      <webElementGuid>83daeed0-b5b9-43f3-9632-6233c98a2c37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_items']/li[102]</value>
-      <webElementGuid>d576c9de-cc38-4e8e-ae42-8b82b7c27019</webElementGuid>
+      <value>//ul[@id='AccumedPatientInsuranceCreateForm:insuranceLisence_items']/li[81]</value>
+      <webElementGuid>8a3a8cb9-ed5f-42eb-9544-02a2a98d0b67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SY'])[4]/following::li[1]</value>
-      <webElementGuid>a44cac8e-ae40-4c6c-93a7-9a723e5097cc</webElementGuid>
+      <webElementGuid>ddc19e60-3185-465d-a0dc-9928dcbd5e10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,38 +110,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SR'])[4]/following::li[2]</value>
-      <webElementGuid>ea4deef2-8c2e-4f23-b40f-e492d9735552</webElementGuid>
+      <webElementGuid>b3e0427d-e43f-4fe4-9f50-1be884c6cf6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TCS'])[4]/preceding::li[1]</value>
-      <webElementGuid>d7e30a53-83ae-4e40-96a6-85145874f168</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[12]/preceding::li[2]</value>
-      <webElementGuid>d46376ca-fd04-41b4-8241-d5467653260c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TCS'])[4]/preceding::li[2]</value>
+      <webElementGuid>1de1ecff-fae9-471e-b043-b37449ba06c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[98]/div[2]/ul/li[102]</value>
-      <webElementGuid>fdfabb09-b76d-4222-a968-0d8fef509a95</webElementGuid>
+      <value>//div[95]/div[2]/ul/li[81]</value>
+      <webElementGuid>03b7dd09-b716-495c-9712-2b047e414b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[@id = 'AccumedPatientInsuranceCreateForm:insuranceLisence_101' and (text() = 'Tawuniya cooperative  Insurance Company' or . = 'Tawuniya cooperative  Insurance Company')]</value>
-      <webElementGuid>f5c305e8-4651-4f47-8ddf-0d055b1baf47</webElementGuid>
+      <value>//li[@id = 'AccumedPatientInsuranceCreateForm:insuranceLisence_80' and (text() = 'Tawuniya cooperative  Insurance Company' or . = 'Tawuniya cooperative  Insurance Company')]</value>
+      <webElementGuid>0c68bb38-6d43-4a21-a080-77f9f68f5b66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KSP001Self Pay - Cash_ui-button-icon-left ui-icon ui-c fa fa-th-list</name>
+   <tag></tag>
+   <elementGuidId>c01a3f13-3840-411f-8426-4dcb0c218954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='phWLForm:phWLTbl:1:c1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>891a90a0-60b6-4f87-963e-53b9ef62a751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c fa fa-th-list</value>
+      <webElementGuid>3d429c6d-edf5-489f-94c8-0c05535f9745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:1:c1&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c fa fa-th-list&quot;]</value>
+      <webElementGuid>bac91fa3-9600-47a9-b49f-a07d8533b3f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='phWLForm:phWLTbl:1:c1']/span</value>
+      <webElementGuid>93b752d6-b5b6-4eb3-bced-c3928ec36e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[22]/button/span</value>
+      <webElementGuid>750b0bb2-de6c-4543-8672-69e75445f1dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

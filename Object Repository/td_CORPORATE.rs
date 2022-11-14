@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_CORPORATE</name>
+   <tag></tag>
+   <elementGuidId>08feb20f-e180-44ff-81ff-65304fcdef99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='AccumedPatientInsuranceCreateForm:policy_panel']/table/tbody/tr[3]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ui-autocomplete-item.ui-autocomplete-row.ui-widget-content.ui-corner-all.ui-state-highlight > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>966bd443-936c-4cff-8b6b-f52e8cbb2b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CORPORATE</value>
+      <webElementGuid>e5e6bb17-30a4-4310-bb88-3f5ba4f9e210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:policy_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[1]</value>
+      <webElementGuid>edf65906-edb7-4737-a11e-1d7e6e3d509b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='AccumedPatientInsuranceCreateForm:policy_panel']/table/tbody/tr[3]/td</value>
+      <webElementGuid>545222c9-d204-45cb-a2fe-31cca371ba64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINISTRY OF FOREIGN AFFAIRS'])[1]/following::td[1]</value>
+      <webElementGuid>1470a491-72e9-4707-b576-72ff4a18a7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aljomaih Holding Co.'])[1]/following::td[2]</value>
+      <webElementGuid>dbfffb38-c998-4378-b0e1-36345578a82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOH-1'])[1]/preceding::td[1]</value>
+      <webElementGuid>80d902de-c9ff-4a9c-97db-f55bdfafe746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CORPORATE']/parent::*</value>
+      <webElementGuid>ae5f52a9-b577-4d2a-a42f-d41c5fd6ca1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[9]/table/tbody/tr[3]/td</value>
+      <webElementGuid>ce4bcfe7-2e35-444a-a31c-7d4683c6f46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'CORPORATE' or . = 'CORPORATE')]</value>
+      <webElementGuid>81db987a-bb1d-402c-84c6-b848dac94519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

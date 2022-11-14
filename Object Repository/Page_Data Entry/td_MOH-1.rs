@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MOH-1</name>
+   <tag></tag>
+   <elementGuidId>a115cb0f-e967-4a76-bb8f-a3d6d79b09a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='AccumedPatientInsuranceCreateForm:policy_panel']/table/tbody/tr[4]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ui-autocomplete-item.ui-autocomplete-row.ui-widget-content.ui-corner-all.ui-state-highlight > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4a354e8a-eba9-46cb-b5bd-fb93eb6a6ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MOH-1</value>
+      <webElementGuid>2afe9ce0-a2ce-4381-a8de-f5812ccdae7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:policy_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[1]</value>
+      <webElementGuid>bb21a9ac-10fd-44f4-8fbf-8bf75aa3b818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='AccumedPatientInsuranceCreateForm:policy_panel']/table/tbody/tr[4]/td</value>
+      <webElementGuid>c13fcb8b-d8e9-4916-be5b-7c34dd5aebe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CORPORATE'])[1]/following::td[1]</value>
+      <webElementGuid>828bd4a2-078b-40fe-9c5c-74b63c3ceced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MINISTRY OF FOREIGN AFFAIRS'])[1]/following::td[2]</value>
+      <webElementGuid>997008a2-953f-4bc4-a6c0-21cdac02cc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MOH-1']/parent::*</value>
+      <webElementGuid>20e6d3e4-fe21-47e1-a5c7-e463e6a9bc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[9]/table/tbody/tr[4]/td</value>
+      <webElementGuid>c8edc5b3-4bbd-4da2-b763-4decd1427bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MOH-1' or . = 'MOH-1')]</value>
+      <webElementGuid>414036ab-5339-46cc-a4c2-e7a8faffc1c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

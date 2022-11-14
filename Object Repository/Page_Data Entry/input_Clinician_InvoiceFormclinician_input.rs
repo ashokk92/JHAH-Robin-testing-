@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e98216f-375c-4768-9a15-37b0862a0676</webElementGuid>
+      <webElementGuid>df8876c1-40a5-4f8d-b531-52b333b9ca43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>InvoiceForm:clinician_input</value>
-      <webElementGuid>e5b41908-1778-46f1-96a0-a9f6099d95b7</webElementGuid>
+      <webElementGuid>548ab2de-09a9-4c77-a517-cf11d0bb0cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>InvoiceForm:clinician_input</value>
-      <webElementGuid>23aa98c7-3c19-44e2-9bfa-072354146031</webElementGuid>
+      <webElementGuid>54dda1b4-d76f-49a4-a5a0-f7456743125f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>476dd1fa-31ed-43c1-bce6-4e9083a34376</webElementGuid>
+      <webElementGuid>5af31451-ab3f-4d59-b868-9bdcab7c0263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-autocomplete-input ui-inputfield ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
-      <webElementGuid>b6634e7a-dd95-4900-85f0-7de920560522</webElementGuid>
+      <webElementGuid>e49ab926-45c2-4702-b73b-f0320c7f00de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1bf8213d-015a-42af-bab9-df41b39f0532</webElementGuid>
+      <webElementGuid>9977d131-e890-4f94-8e9b-1d933dbf0290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>size</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>cd101d53-e613-455c-915e-31659df57090</webElementGuid>
+      <webElementGuid>c51168d9-7f50-47e7-9d34-88a01d7310d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>3689f287-b1b7-48b7-a504-f307dc9f9e09</webElementGuid>
+      <webElementGuid>af91ba87-a90f-4d75-99eb-de64ecda3060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>07fc87a5-8894-489a-8908-cd93a3465686</webElementGuid>
+      <webElementGuid>39afd53e-9a42-4f7f-ad89-de655ed241e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>280cdabb-bd66-4234-ab26-72ffd6ca0c18</webElementGuid>
+      <webElementGuid>015cd9c3-9043-4ffe-a214-7c708da96113</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>9d4c35c4-b2f1-4617-9e16-685b40813551</webElementGuid>
+      <webElementGuid>b61b08ed-0c42-49f5-9c42-b4d192f6bb92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;InvoiceForm:clinician_input&quot;)</value>
-      <webElementGuid>a9fab3f3-d710-4c8f-a043-d782512cd997</webElementGuid>
+      <webElementGuid>2ad93a8b-7774-46d7-9745-719e756a346b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='InvoiceForm:clinician_input']</value>
-      <webElementGuid>b29da54a-469b-4aed-b71d-c9760dfab751</webElementGuid>
+      <webElementGuid>00d7ae36-420d-4090-8c52-deca38f8d4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='InvoiceForm:clinician']/input</value>
-      <webElementGuid>cf027c98-339b-4c11-9dcb-9d6dda6e4194</webElementGuid>
+      <webElementGuid>6e1856eb-625f-465d-838e-a4324c764aaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/table/tbody/tr/td/span/input</value>
-      <webElementGuid>60b5869e-92af-4255-af77-7221cf3bd142</webElementGuid>
+      <webElementGuid>73ac7ade-7f06-4d67-9b94-a8d5844e6e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'InvoiceForm:clinician_input' and @name = 'InvoiceForm:clinician_input' and @type = 'text']</value>
-      <webElementGuid>b398b562-04c7-4f20-b433-f19c2003d42c</webElementGuid>
+      <webElementGuid>2f91b5fd-139f-4575-9878-7c67db5951e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

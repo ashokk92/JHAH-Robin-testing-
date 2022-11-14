@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>05675ea3-5280-4f53-885a-9e45d692d06a</webElementGuid>
+      <webElementGuid>118d9419-7b9e-43cd-a74a-6791a9e8a355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>70de016d-fee3-44ad-b48e-1ea59829d8a9</webElementGuid>
+      <webElementGuid>d09f0111-ff34-4bad-be43-7c6ca1e8b6e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menuitem-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>675803bf-c83a-49c9-86bc-92a6fe83f1a0</webElementGuid>
+      <webElementGuid>b26d61c2-1d73-434e-ac76-b5357cdf437e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/ROBIN/faces/Pages/DataEntry/Dashboard.xhtml</value>
-      <webElementGuid>8125981d-93c0-46f5-af7c-737e4e249fbe</webElementGuid>
+      <webElementGuid>ae3241de-0377-4134-9522-10a7956fcc5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Data Entry</value>
-      <webElementGuid>bdd4c5be-0204-424e-b0e5-8e5e86a6d04a</webElementGuid>
+      <webElementGuid>70cd8c85-a3ee-4ddc-a5e7-43b8c869dce3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>8f6abedd-3289-4a54-b26a-38fbd672cc3c</webElementGuid>
+      <webElementGuid>4d12f384-af62-4fb0-9037-6dba4d86e30a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[2]/ul/li/a</value>
-      <webElementGuid>b95fa8b8-8d0c-4474-b18e-de2bf97d7402</webElementGuid>
+      <webElementGuid>1ad480b0-23aa-426d-a2b6-9220a951ca5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Journey Management'])[1]/following::a[1]</value>
-      <webElementGuid>f96c7674-bd69-40db-b6a1-f386d0caf856</webElementGuid>
+      <webElementGuid>6e50b7a4-e14b-4b5e-b3dc-aef99f442875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
-      <webElementGuid>5679e7d5-4372-4be1-ad6f-ee8a1d8cf39f</webElementGuid>
+      <webElementGuid>ef1701fe-b7a6-4af7-bcc8-044d4d0df907</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Visits'])[1]/preceding::a[1]</value>
-      <webElementGuid>5227370a-4515-4b6a-b4c2-536df1b0eb02</webElementGuid>
+      <webElementGuid>96e77585-893e-4f20-9733-a1b3c007e985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/ROBIN/faces/Pages/DataEntry/Dashboard.xhtml')]</value>
-      <webElementGuid>e7435700-7de0-407d-99cb-8bdeb01f8c4d</webElementGuid>
+      <webElementGuid>89d0bbb4-2635-4293-b087-923d662f6db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li/a</value>
-      <webElementGuid>741673f1-7925-464a-a0cd-3af632b4e18b</webElementGuid>
+      <webElementGuid>398f4b2c-1edf-4d80-936d-b42a020a83e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/ROBIN/faces/Pages/DataEntry/Dashboard.xhtml' and (text() = ' Data Entry' or . = ' Data Entry')]</value>
-      <webElementGuid>7600b470-23b9-4331-a075-d0915fef9594</webElementGuid>
+      <webElementGuid>bfa39ab2-2cb6-416e-a450-f7c68bed722e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

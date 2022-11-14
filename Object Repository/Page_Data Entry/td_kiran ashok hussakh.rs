@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_kiran ashok hussakh</name>
+   <tag></tag>
+   <elementGuidId>f5f97fa2-f8d6-47f9-8e42-259efe54f8df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='phWLForm:phWLTbl_data']/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9d126468-231b-486c-8a8a-a38d55a242ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>7f5d861a-f6c3-48fd-bf2b-9f9b425ef597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kiran ashok hussakh</value>
+      <webElementGuid>ca918b90-3727-4d55-9c14-b6c1a9848b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-odd&quot;]/td[1]</value>
+      <webElementGuid>4497e02c-8259-45b6-9168-50e0bd656e82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr[2]/td</value>
+      <webElementGuid>563933d5-f63b-4241-b79a-20d2144a95c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[2]/following::td[1]</value>
+      <webElementGuid>3f27f9af-c77f-4e93-b3ec-1f03eb197bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pending'])[1]/following::td[7]</value>
+      <webElementGuid>ece15e05-8c3f-4630-bd18-a5f6b78fbfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-*7869'])[1]/preceding::td[1]</value>
+      <webElementGuid>1ea7da0c-4b3b-4993-8059-61101d118603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0000927'])[1]/preceding::td[2]</value>
+      <webElementGuid>e20fcb9c-d79a-4ad0-b1e4-9031a4b93b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>257bddfa-6aed-493f-aff0-c2bd08ea9bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'kiran ashok hussakh' or . = 'kiran ashok hussakh')]</value>
+      <webElementGuid>89c2a0a6-588c-4fa6-8b67-f8cf5d1221fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

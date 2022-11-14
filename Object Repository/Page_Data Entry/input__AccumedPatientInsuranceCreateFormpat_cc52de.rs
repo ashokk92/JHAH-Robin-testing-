@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6387da7c-d53f-4e17-9dd6-6ee18ccf41a6</webElementGuid>
+      <webElementGuid>82dc8d81-8f0d-4e78-8cb4-ba367c6d8730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:patientInsuranceId</value>
-      <webElementGuid>31f3c3cf-c626-4b35-a507-66213a0bb965</webElementGuid>
+      <webElementGuid>3a1e114a-4559-4065-9935-d319ca67d07e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:patientInsuranceId</value>
-      <webElementGuid>c3ea9052-0a62-429a-91c1-0994f4aec7c9</webElementGuid>
+      <webElementGuid>f60700e8-c8c3-4816-8543-1598acd9e877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>27b95527-e330-48d5-9e53-8a9f3fe8e70d</webElementGuid>
+      <webElementGuid>d6245ec3-98b1-4406-a99a-65f31a9a6e27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +54,15 @@
       <name>title</name>
       <type>Main</type>
       <value>- The patient's insurance member number, if the patient is claiming insurance.                                              - Otherwise, this field should be left empty.</value>
-      <webElementGuid>c9a43c5c-8280-4ef1-b239-935035b6c606</webElementGuid>
+      <webElementGuid>13303f48-d28a-497c-a400-7d54084fb38d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus ui-state-hover</value>
-      <webElementGuid>d6cc6d26-0635-473d-b47e-fab1ea520a51</webElementGuid>
+      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus</value>
+      <webElementGuid>8f5f92b6-89e9-4771-ae14-b910fc5aea12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>2f88714d-e161-4e5d-935a-ec7c9ba28160</webElementGuid>
+      <webElementGuid>5d7035d9-f066-4ace-9ca5-43f14ebee9fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>af477572-e9fe-4b6d-9007-4cc41917b31d</webElementGuid>
+      <webElementGuid>f795a116-381b-45aa-99d0-d63539bb7c7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3609db03-f73a-44f2-8830-08de326dc9da</webElementGuid>
+      <webElementGuid>b3a89324-4da4-4357-bb77-0e0fba23be69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:patientInsuranceId&quot;)</value>
-      <webElementGuid>7776dedb-39f0-48d4-8368-b27803ed038d</webElementGuid>
+      <webElementGuid>1d747a74-a0d1-47f5-ac65-677849770c60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,15 +102,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='AccumedPatientInsuranceCreateForm:patientInsuranceId']</value>
-      <webElementGuid>a24c2650-fbb5-4a40-80d9-22508133fafc</webElementGuid>
+      <webElementGuid>5df1915f-d359-4b5c-bdf4-afddb9b754ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='AccumedPatientInsuranceCreateForm:j_idt1348']/tbody/tr/td[2]/input</value>
-      <webElementGuid>ff849219-377c-4b8a-9853-03a019e273cd</webElementGuid>
+      <value>//table[@id='AccumedPatientInsuranceCreateForm:j_idt1254']/tbody/tr/td[2]/input</value>
+      <webElementGuid>a0ddc7a0-d4b8-414f-83a1-3891802ac987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/table/tbody/tr/td[2]/input</value>
-      <webElementGuid>fbe0b6ae-90dd-43f8-be39-59ae64d2a1fd</webElementGuid>
+      <webElementGuid>b51f9279-37bc-43d8-98e6-7c409684ed69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'AccumedPatientInsuranceCreateForm:patientInsuranceId' and @name = 'AccumedPatientInsuranceCreateForm:patientInsuranceId' and @type = 'text' and @title = concat(&quot;- The patient&quot; , &quot;'&quot; , &quot;s insurance member number, if the patient is claiming insurance.                                              - Otherwise, this field should be left empty.&quot;)]</value>
-      <webElementGuid>51d30159-ceec-49a7-8f9f-c56dce023531</webElementGuid>
+      <webElementGuid>1e1d924d-94af-47ce-b882-938ced254f40</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

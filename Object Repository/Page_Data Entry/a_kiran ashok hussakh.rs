@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_kiran ashok hussakh</name>
+   <tag></tag>
+   <elementGuidId>488b8d50-3a50-4534-8cff-fe05f88a7a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:1:patientNameLink']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>251b669c-8efc-4f27-b4da-c7cc12323378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:1:patientNameLink</value>
+      <webElementGuid>4ade7513-b4e3-4362-aea9-52621173e530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>74b7b777-60d1-472c-80cf-a96963cdf5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>01ca7714-c727-43d1-beea-17c2259ba168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:1:patientNameLink&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;accumedVitalSign EligiblityInfoGroupForm AccumedHaadActivityListForm AccumedHaadDiagnosisListForm phWLForm:phWLTbl:1:patientNameLink InvoiceForm actionsFormInvoice EligiblityInfoHistoryGroupForm actionsFormInvoice growl&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); if(!args.validationFailed) {PF('NewInvoiceWid').show() ;PF('dataTableActivity').filter();};}});return false;</value>
+      <webElementGuid>11726c19-ecb3-4a4b-b42b-f16f9a57ff65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kiran ashok hussakh</value>
+      <webElementGuid>20816f5e-42a9-487a-99ea-91e7af8f5870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:1:patientNameLink&quot;)</value>
+      <webElementGuid>24ce8aea-f215-4735-b86c-980934082691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:1:patientNameLink']</value>
+      <webElementGuid>714cd608-1c3b-422b-8b9b-ab97a90ac0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr[2]/td/a</value>
+      <webElementGuid>0bd9dc37-cf08-4023-85ee-6872c36c470f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'kiran ashok hussakh')]</value>
+      <webElementGuid>69606b40-ab71-4a7d-b043-81d9fa62ae2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[2]/following::a[1]</value>
+      <webElementGuid>0535fd94-abc8-463f-804e-ca67044b648c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pending'])[1]/following::a[1]</value>
+      <webElementGuid>8b203151-bc20-4f0d-9781-4f4e7aeaf798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-*7869'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d9c9185-e0ca-488f-bdb3-c93ae2ebe315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0000927'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd47b0cc-aebd-440d-a5a7-ddf523686693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kiran ashok hussakh']/parent::*</value>
+      <webElementGuid>5f896cd5-0554-4eea-a474-8b612bcee874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[29]</value>
+      <webElementGuid>0f855595-8398-450d-8f54-70f6e6043683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/a</value>
+      <webElementGuid>c1597044-c13f-4fb3-8a06-7aee2e844f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:1:patientNameLink' and @href = '#' and (text() = 'kiran ashok hussakh' or . = 'kiran ashok hussakh')]</value>
+      <webElementGuid>2fec2129-ef40-43da-a53b-c90f4595283c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>ac61bffe-1dbb-4508-9ca2-fe02510eaf88</webElementGuid>
+      <webElementGuid>6324235c-62fe-4dcb-aabb-96b6f8da2d26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-item ui-selectonemenu-list-item ui-corner-all ui-state-hover</value>
-      <webElementGuid>30161bef-59cf-4b9c-9620-7ccd04d5ab9a</webElementGuid>
+      <webElementGuid>632ddcfe-17e9-4aad-89a9-793c7faf088a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>data-label</name>
       <type>Main</type>
       <value>IP and OP Admissions</value>
-      <webElementGuid>8f61d3c8-0518-4591-9167-107d2fa17bed</webElementGuid>
+      <webElementGuid>183a2156-2513-43a4-b77c-3d07d194e693</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>bd67c85e-dc71-4560-ad18-685c79987fb4</webElementGuid>
+      <webElementGuid>4c9e1bf3-8e23-411b-84ea-e09d7d640d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>d574e945-92ae-400c-9108-03ab7fb48f93</webElementGuid>
+      <webElementGuid>387f482b-a71f-4c7e-a453-8788488ee2ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:admissionType_1</value>
-      <webElementGuid>046d20dd-1c7d-4623-93c2-c66241948659</webElementGuid>
+      <webElementGuid>cef7bf2f-97e8-41d3-86e2-65c776a82fc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>IP and OP Admissions</value>
-      <webElementGuid>49d8cb23-e461-48ac-bd7f-9d2e626f417f</webElementGuid>
+      <webElementGuid>e2180af7-d5b4-4791-a262-1c215842c35a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:admissionType_1&quot;)</value>
-      <webElementGuid>4b7d0225-a890-4353-babf-4e64fdcb601f</webElementGuid>
+      <webElementGuid>67a8d452-b42c-4102-89c0-c24255b323f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='AccumedPatientInsuranceCreateForm:admissionType_1']</value>
-      <webElementGuid>4be65e71-8b89-4ec8-9621-2968a2f4a714</webElementGuid>
+      <webElementGuid>927b64bc-347c-468e-875b-06f489dfa225</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='AccumedPatientInsuranceCreateForm:admissionType_items']/li[2]</value>
-      <webElementGuid>e7b28516-38ca-4af2-9467-b1ac3c3498e4</webElementGuid>
+      <webElementGuid>6703b7d1-7681-4c4d-92c9-2f37e8496426</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Admissions Only'])[3]/following::li[1]</value>
-      <webElementGuid>d321a1b7-a4cf-48c4-b8bb-fadb207aee73</webElementGuid>
+      <webElementGuid>cefd18b3-8e0b-4786-81bb-48dad9928492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Private companies >= 1000 employees'])[2]/following::li[2]</value>
-      <webElementGuid>fee90f45-8fb8-4ce5-96bc-a19c45f681d0</webElementGuid>
+      <webElementGuid>7474e08d-b415-49b1-8ca5-6d35c2ded2d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Admissions only'])[2]/preceding::li[1]</value>
-      <webElementGuid>2ff8459e-119a-450a-a46b-436d9676d821</webElementGuid>
+      <webElementGuid>02b2cbcd-870f-4b46-bc64-59f65acc6ccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,15 +126,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One'])[3]/preceding::li[2]</value>
-      <webElementGuid>27c65e30-d2ab-4d49-afb9-6c665df41705</webElementGuid>
+      <webElementGuid>0889758c-3793-4b03-8759-6bde1fc456ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[100]/div/ul/li[2]</value>
-      <webElementGuid>0a300311-a116-4397-884e-75fc699d3ba2</webElementGuid>
+      <value>//div[97]/div/ul/li[2]</value>
+      <webElementGuid>19c213b4-a834-41a2-8edb-e8660b99d76a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'AccumedPatientInsuranceCreateForm:admissionType_1' and (text() = 'IP and OP Admissions' or . = 'IP and OP Admissions')]</value>
-      <webElementGuid>b2794761-3456-401b-884d-73f8f7564354</webElementGuid>
+      <webElementGuid>ffb0a795-82f3-4add-890a-99a05b342141</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

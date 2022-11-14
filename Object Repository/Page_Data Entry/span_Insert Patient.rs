@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9fbcc4d6-9b55-437a-90a2-88859ae1a8e4</webElementGuid>
+      <webElementGuid>74f0f057-a4a8-42a1-be5b-26e644fbf340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>f7442722-7dac-44cc-9b6c-d14edb594141</webElementGuid>
+      <webElementGuid>1652ddd4-5dcf-4487-944d-41d013b79e39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Insert Patient</value>
-      <webElementGuid>16e22a40-a7f7-4bd7-826a-da4c56ef201c</webElementGuid>
+      <webElementGuid>2541a9aa-527b-40e3-a847-82b0770ed672</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientCreateForm:insertNewPatient&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>40ca67d3-dcc7-4c6a-9720-7f7878015fbe</webElementGuid>
+      <webElementGuid>c47e2bb1-ca9e-43cd-8eb7-9c27f2fd7f10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,23 +54,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='AccumedPatientCreateForm:insertNewPatient']/span</value>
-      <webElementGuid>1069a1e3-8f43-4334-8130-f4d6442accff</webElementGuid>
+      <webElementGuid>2f56d464-e6fa-41ec-8b11-7d48961005c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No record found.'])[10]/following::span[2]</value>
-      <webElementGuid>15c9a434-82e4-4db8-babf-afb702afe4df</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No record found.'])[9]/following::span[2]</value>
+      <webElementGuid>862eb3f3-dec8-41e6-a7d5-258cdf14d69f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::span[1]</value>
-      <webElementGuid>7e03a491-6e22-4cbf-8fb7-072496c7ef32</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::span[1]</value>
+      <webElementGuid>5362e2d1-45c1-4e82-b76c-59bbe78d9291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='cchi eligibility Request'])[1]/preceding::span[3]</value>
-      <webElementGuid>b0e58590-1b61-40c6-b4d2-25fd338a32db</webElementGuid>
+      <webElementGuid>a0f1fa42-0e3d-4f29-af32-48fc2545b500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Insert Patient']/parent::*</value>
-      <webElementGuid>35795503-49d0-4b48-8aac-d2aa046b5af7</webElementGuid>
+      <webElementGuid>b7e2f214-d586-4cc6-8268-5aa511e15a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[55]/div[2]/form/table/tbody/tr/td[2]/button/span</value>
-      <webElementGuid>45b13ef8-d106-4236-a1d8-61164c939d78</webElementGuid>
+      <value>//div[48]/div[2]/form/table/tbody/tr/td[2]/button/span</value>
+      <webElementGuid>0321128a-1217-4da6-88f5-b4c41d42e62e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Insert Patient' or . = 'Insert Patient')]</value>
-      <webElementGuid>4b50e30d-60c2-4e0e-a821-a4ff01e9d4a8</webElementGuid>
+      <webElementGuid>fb7e8533-d523-4215-aa40-21e0f5d2b027</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

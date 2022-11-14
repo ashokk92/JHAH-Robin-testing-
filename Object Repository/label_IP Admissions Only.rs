@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_IP Admissions Only</name>
+   <tag></tag>
+   <elementGuidId>a4dbeff9-4e2f-4ca0-9e7a-f31baeff1d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='AccumedPatientInsuranceCreateForm:admissionType_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>aecc5372-c341-4de9-b286-d91b9f215b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AccumedPatientInsuranceCreateForm:admissionType_label</value>
+      <webElementGuid>f9c95d31-415a-4ee0-a1c3-b58bdce13d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>ddbba103-6115-4076-8c96-645f4e712683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IP Admissions Only</value>
+      <webElementGuid>8ed25d23-8ce6-4e62-8db5-41ae78f6a86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:admissionType_label&quot;)</value>
+      <webElementGuid>8bfe19db-19d5-46ea-a4ad-74e2572f7f90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='AccumedPatientInsuranceCreateForm:admissionType_label']</value>
+      <webElementGuid>bd363ba0-1e6c-4381-9178-812c17334789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedPatientInsuranceCreateForm:admissionType']/label</value>
+      <webElementGuid>8aacc786-c93c-48a2-b7fb-ce59b1cb8985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Type'])[1]/following::label[1]</value>
+      <webElementGuid>86c58f4c-cbc7-43e6-86ac-9ed7fd220cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Number'])[1]/following::label[2]</value>
+      <webElementGuid>dc5c1ef1-1d3d-4caa-b509-653ac8a8be15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired'])[1]/preceding::label[1]</value>
+      <webElementGuid>a64d980e-f38f-438f-bb48-b4805a85d586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/div/label</value>
+      <webElementGuid>18325bf9-694d-4f50-bff8-96ee7ee00d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'AccumedPatientInsuranceCreateForm:admissionType_label' and (text() = 'IP Admissions Only' or . = 'IP Admissions Only')]</value>
+      <webElementGuid>05c16afa-714d-41e6-9ca6-92378712af23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='phWLForm:phWLTbl:0:c1']/span[2]</value>
+         <value>//button[@id='phWLForm:phWLTbl:1:c1']/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>72fa93fb-e585-40d8-b185-f60d6168ccf5</webElementGuid>
+      <webElementGuid>12e125e2-a737-485d-aef9-100f6dc2968b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>db07f1d1-6fb7-49e0-9512-36ce7f65b77b</webElementGuid>
+      <webElementGuid>9fa5e7b1-0c1c-4316-8fb0-cf97ab6f1be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,63 +38,63 @@
       <name>text</name>
       <type>Main</type>
       <value>ui-button</value>
-      <webElementGuid>480c183d-0610-41f8-98f5-f9eca8b546e1</webElementGuid>
+      <webElementGuid>d1052128-41b2-4a88-9f11-57d570298cc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;phWLForm:phWLTbl:0:c1&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>03e911e7-c888-4316-bdb2-97cb05ca3004</webElementGuid>
+      <value>id(&quot;phWLForm:phWLTbl:1:c1&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>0bf6e214-0eca-401b-be30-607cd1b4be08</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='phWLForm:phWLTbl:0:c1']/span[2]</value>
-      <webElementGuid>53f7999b-5683-46ad-a027-02c2c431e580</webElementGuid>
+      <value>//button[@id='phWLForm:phWLTbl:1:c1']/span[2]</value>
+      <webElementGuid>d9d6f39b-7a90-465e-8c11-edaa81df794f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='root/2022-10-31 23:19:18.653'])[2]/following::span[2]</value>
-      <webElementGuid>17337e43-3c30-44f4-81ff-f514230fbc00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KSP001|Self Pay - Cash'])[1]/following::span[3]</value>
+      <webElementGuid>119e0186-1a5b-45af-ab3f-53facd5125bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='root/2022-10-31 23:19:18.653'])[1]/following::span[2]</value>
-      <webElementGuid>079e82fb-3665-4b1a-9f78-e296deb0033c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::span[4]</value>
+      <webElementGuid>9704e577-ab37-4be6-8c0c-b330a28fc94c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Audit'])[1]/preceding::span[1]</value>
-      <webElementGuid>d751219b-cf77-4fb4-b2f3-cb8bc9e3d610</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRN-0528-='])[1]/preceding::span[1]</value>
+      <webElementGuid>a62b61ed-0a94-4a33-9ac9-c44c01526756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::span[3]</value>
-      <webElementGuid>6d332ea3-4e5c-40ac-83ff-170c8bee2b90</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0000925'])[1]/preceding::span[2]</value>
+      <webElementGuid>0bcdd336-581c-47c3-aa39-4abedec392c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[19]/button/span[2]</value>
-      <webElementGuid>367285c4-94ed-4ca4-8b3e-26ef6a155819</webElementGuid>
+      <value>//tr[2]/td[22]/button/span[2]</value>
+      <webElementGuid>7d5e3fe9-19ed-4746-a3ae-4f4064e64fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'ui-button' or . = 'ui-button')]</value>
-      <webElementGuid>2f842a0b-a715-4a3b-9495-e837bd444627</webElementGuid>
+      <webElementGuid>72510aee-ada6-40c6-b034-c483ac4668e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AMAL  (R) ELSAID</name>
+   <tag></tag>
+   <elementGuidId>e6098bf9-cbf1-4264-af0c-fab4d53c92f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='InvoiceForm:clinician_panel']/table/tbody/tr[7]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>61b00fcf-2f04-4955-bc64-5401baa0d4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMAL  (R) ELSAID</value>
+      <webElementGuid>9a925800-e064-464e-9b01-f695645c2729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InvoiceForm:clinician_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[2]</value>
+      <webElementGuid>107ad738-b775-4704-915c-d978e563804c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='InvoiceForm:clinician_panel']/table/tbody/tr[7]/td[2]</value>
+      <webElementGuid>3af40fd2-2174-423e-b61e-ed3597dd3339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIDAL ALSKAIF (C) MED'])[1]/following::td[4]</value>
+      <webElementGuid>9fcf0985-b40e-4838-85be-3f4c477ed14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[3]/following::td[6]</value>
+      <webElementGuid>bf36f9cc-a57f-4889-936b-2981ebc8c75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[4]/preceding::td[1]</value>
+      <webElementGuid>07d378b4-48b2-43fc-abec-b82e4685f2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[5]/preceding::td[2]</value>
+      <webElementGuid>6a735ab6-e1da-46d2-819a-d9c684cc0aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[8]/table/tbody/tr[7]/td[2]</value>
+      <webElementGuid>74082d71-a575-4379-a308-7867d08b927b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AMAL  (R) ELSAID' or . = 'AMAL  (R) ELSAID')]</value>
+      <webElementGuid>79cc3638-371f-49ac-9641-45b622bd7b28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

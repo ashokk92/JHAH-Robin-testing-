@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='actionsFormInvoice:j_idt2628']/span[2]</value>
+         <value>//button[@id='actionsFormInvoice:j_idt2439']/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d1d8c87f-b704-4864-ab50-b4e68a9f7e5e</webElementGuid>
+      <webElementGuid>a095ccf6-321b-40c4-899c-9cd58b7cd51d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>74e8d8fd-dccb-48a4-816a-2889c2418d94</webElementGuid>
+      <webElementGuid>9406f360-baf6-4563-b544-76f5d3798788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Insert Visit</value>
-      <webElementGuid>71db9751-ed02-4b16-afc3-98a20818c691</webElementGuid>
+      <webElementGuid>40cadb37-8a4a-45b5-aa50-374944614990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionsFormInvoice:j_idt2628&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>6a4e2ac9-a55f-407b-8041-b62b55296f40</webElementGuid>
+      <value>id(&quot;actionsFormInvoice:j_idt2439&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>aa36feaf-f647-4ea7-957b-53e7f1d07d9a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='actionsFormInvoice:j_idt2628']/span[2]</value>
-      <webElementGuid>e795fe83-63c0-4d5a-a127-cf04fe676f1d</webElementGuid>
+      <value>//button[@id='actionsFormInvoice:j_idt2439']/span[2]</value>
+      <webElementGuid>2cbbbd0c-9d9f-4b40-871d-0160791c6cf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Move To Audit'])[2]/following::span[2]</value>
-      <webElementGuid>50b7e5a5-07f6-41b3-86f0-aeca1bb14b79</webElementGuid>
+      <webElementGuid>e744cd39-daa9-4104-8ef6-cea62ffd856d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Move To Audit'])[1]/following::span[4]</value>
-      <webElementGuid>1d2abdb0-eb2d-4952-b331-97445cf6752e</webElementGuid>
+      <webElementGuid>21a9de3d-1758-45cd-b9d6-dc127a1f9930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[8]/preceding::span[2]</value>
-      <webElementGuid>2944b08c-7aeb-40dd-9c6f-85e79e6d6def</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[12]/preceding::span[2]</value>
+      <webElementGuid>de1927bc-a158-4c18-b80e-439f61187d15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide'])[1]/preceding::span[4]</value>
-      <webElementGuid>51bb5a1f-fda2-475b-9057-b194d4a31827</webElementGuid>
+      <webElementGuid>6a8f96cd-6459-4000-9576-f9f6efef87b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Insert Visit']/parent::*</value>
-      <webElementGuid>126748c0-6385-40a4-ac7d-065b5265d0ed</webElementGuid>
+      <webElementGuid>ce3f2f5f-e5cd-450a-b629-e04d98c748c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]/span[2]</value>
-      <webElementGuid>fa422de1-798a-4511-8e3c-8e46a625d520</webElementGuid>
+      <webElementGuid>63a4b38f-5239-4f44-81ae-5d16e0ebe995</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Insert Visit' or . = 'Insert Visit')]</value>
-      <webElementGuid>afb27f7e-a986-444d-81ae-91982f953464</webElementGuid>
+      <webElementGuid>8530a52e-607c-4d1f-8f37-536d278ae8b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

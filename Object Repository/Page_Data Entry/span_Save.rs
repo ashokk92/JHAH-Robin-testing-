@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='AccumedPatientInsuranceCreateForm:j_idt1454']/span</value>
+         <value>//button[@id='AccumedPatientInsuranceCreateForm:j_idt1358']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>afd11be9-a7b9-4ab8-ae75-d16d37ec1859</webElementGuid>
+      <webElementGuid>c3155842-a20b-4d7d-ade5-63dd29bbecc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>4e660d74-b97e-4103-ab91-3f2a6db823bb</webElementGuid>
+      <webElementGuid>867001f6-4033-43d6-a63f-6a28f0f0f219</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>497631ac-38d2-4d71-9e22-19f2067dfe55</webElementGuid>
+      <webElementGuid>ed98b648-141b-4a12-a39a-552c0de57162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AccumedPatientInsuranceCreateForm:j_idt1454&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>e1ab1abe-59b8-4173-95c3-1824d624136d</webElementGuid>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:j_idt1358&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>9c21f68a-8c03-4989-8855-535253519660</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='AccumedPatientInsuranceCreateForm:j_idt1454']/span</value>
-      <webElementGuid>b85b3d69-9a3c-4b19-9e34-8f6ae84392ba</webElementGuid>
+      <value>//button[@id='AccumedPatientInsuranceCreateForm:j_idt1358']/span</value>
+      <webElementGuid>46b3394a-2a83-43b6-9f32-b05cf4cd3fbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Notes'])[1]/following::span[1]</value>
-      <webElementGuid>0c5af856-841c-4bb8-86af-2e551fbe1412</webElementGuid>
+      <webElementGuid>cffd2eb0-f24a-4a9f-ac86-f872ca200993</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Background'])[1]/following::span[1]</value>
-      <webElementGuid>65060225-c9b7-4449-9cc8-9a94a2d1c89b</webElementGuid>
+      <webElementGuid>dc726e90-77bb-4ba5-b6f5-f5779a0d14dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/preceding::span[1]</value>
-      <webElementGuid>1d1b04c9-9dea-4194-a9a1-165ded96a60c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/preceding::span[1]</value>
+      <webElementGuid>3354cedf-e6dc-4e71-b1e3-a412803bd30c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ART Care Unit'])[1]/preceding::span[2]</value>
-      <webElementGuid>1f42a648-b806-4e65-a0fa-577fbc8b0c15</webElementGuid>
+      <webElementGuid>25ffaa71-9494-45da-9c17-2ba9e55d0864</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[36]/div[2]/form/table/tbody/tr/td/button/span</value>
-      <webElementGuid>5230f7ae-6c3d-4ba8-acfd-cacbf7071c18</webElementGuid>
+      <value>//div[35]/div[2]/form/table/tbody/tr/td/button/span</value>
+      <webElementGuid>cf157262-8fa9-44ae-9f26-09e469c195bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>6af444f3-0191-4280-8f9b-fa50c6f05a3a</webElementGuid>
+      <webElementGuid>abf8e009-cd7c-4ca2-80c9-f65e46641977</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

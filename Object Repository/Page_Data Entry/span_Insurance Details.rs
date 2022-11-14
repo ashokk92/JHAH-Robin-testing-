@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='InvoiceForm:j_idt825']/span</value>
+         <value>//button[@id='InvoiceForm:j_idt752']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9aa6bc5d-19f0-4f87-a877-b19c584d4d7a</webElementGuid>
+      <webElementGuid>1ddf0106-2f0e-49f2-8900-1bf48b27baf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>b3d78960-3fd3-408d-b040-4a0b02660db9</webElementGuid>
+      <webElementGuid>a085a79e-7dd9-4ca3-a177-9b40525c8400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,31 +38,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Insurance Details</value>
-      <webElementGuid>55a611c4-5203-4acc-97a5-7a3e852f32f5</webElementGuid>
+      <webElementGuid>21561fba-8f4f-47ce-8b4f-9effae758587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;InvoiceForm:j_idt825&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>951be556-fad7-45fb-8a10-793fffbf24a8</webElementGuid>
+      <value>id(&quot;InvoiceForm:j_idt752&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>8fcc2346-1530-49de-a6bb-745a28848774</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='InvoiceForm:j_idt825']/span</value>
-      <webElementGuid>a3c65503-156f-45ce-904e-37a1ec852b8e</webElementGuid>
+      <value>//button[@id='InvoiceForm:j_idt752']/span</value>
+      <webElementGuid>0d623d00-855a-44a3-94d6-7a1b9e569f29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deductible'])[4]/following::span[1]</value>
-      <webElementGuid>4d1d22be-38c1-4f4e-a58c-5bd18771d8ec</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deductible'])[3]/following::span[1]</value>
+      <webElementGuid>d6730442-339a-40df-b5a2-d5da2b5c4ec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copayment'])[3]/following::span[2]</value>
-      <webElementGuid>79b6506b-168a-4060-af5b-3ba175a2dfbc</webElementGuid>
+      <webElementGuid>88721db2-c4e3-4d88-9520-ddd681f01508</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[6]/preceding::span[1]</value>
-      <webElementGuid>7c21cb00-bdee-4ea4-991b-0d0399033fda</webElementGuid>
+      <webElementGuid>99b59936-be78-49b9-a414-47a9aaf5b895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='jhshsgs ssss rewerty'])[2]/preceding::span[1]</value>
-      <webElementGuid>0728cec8-33e4-4d3b-947e-1666bdc21e24</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kiran ashok hussakh'])[2]/preceding::span[1]</value>
+      <webElementGuid>01a6d03a-5564-48e1-965b-bd54832972ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/button/span</value>
-      <webElementGuid>43345864-6cde-444a-a12a-fa562a0d2ae6</webElementGuid>
+      <webElementGuid>0d2f51d1-25fc-40e0-91de-88015a073f73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Insurance Details' or . = 'Insurance Details')]</value>
-      <webElementGuid>841c1adf-7c95-4603-b189-9fcd3a751e09</webElementGuid>
+      <webElementGuid>1c978616-1770-475a-8513-135edbba7004</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
