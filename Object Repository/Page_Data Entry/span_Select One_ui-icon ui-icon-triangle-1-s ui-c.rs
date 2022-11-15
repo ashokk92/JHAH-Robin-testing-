@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Report_ui-icon ui-icon-closethick</name>
+   <name>span_Select One_ui-icon ui-icon-triangle-1-s ui-c</name>
    <tag></tag>
-   <elementGuidId>85d5afdb-4a94-4f75-ab52-e3bab2a501ea</elementGuidId>
+   <elementGuidId>6de6c45e-8aef-41b7-8aa6-04a8d6eb98b0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.ui-dialog-titlebar-icon.ui-dialog-titlebar-close.ui-corner-all.ui-state-hover.ui-state-focus > span.ui-icon.ui-icon-closethick</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='previewReport']/div/a/span</value>
+         <value>//div[@id='AccumedPatientCreateForm:martial']/div[3]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,38 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>453ecf03-0566-43bb-8545-238a07512555</webElementGuid>
+      <webElementGuid>a70ce4b7-55e1-483e-b818-797cb45750ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-icon ui-icon-closethick</value>
-      <webElementGuid>7969046e-429e-40fd-8780-ea922045f240</webElementGuid>
+      <value>ui-icon ui-icon-triangle-1-s ui-c</value>
+      <webElementGuid>146f9b38-cb97-4642-b8f7-bfb52659712a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;previewReport&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]/a[@class=&quot;ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-icon ui-icon-closethick&quot;]</value>
-      <webElementGuid>366c8e40-33c0-4840-9209-25b77393fe3f</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:martial&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-s ui-c&quot;]</value>
+      <webElementGuid>b932a307-4461-4432-aa21-6befac03e5ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='previewReport']/div/a/span</value>
-      <webElementGuid>702632c0-6e3e-4290-a301-fab188f31087</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateForm:martial']/div[3]/span</value>
+      <webElementGuid>1d74d9fa-03ae-4ac1-91a0-8ee67be99da0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[20]/div/a/span</value>
-      <webElementGuid>2c7c3c4f-e7bf-49a5-929e-61a52fba510d</webElementGuid>
+      <value>//td/table/tbody/tr[5]/td[2]/div/div[3]/span</value>
+      <webElementGuid>8822eae0-d926-43c6-9801-b57304fbcf38</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

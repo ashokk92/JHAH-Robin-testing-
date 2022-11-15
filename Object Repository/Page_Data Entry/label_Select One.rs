@@ -6,12 +6,12 @@
    <elementGuidId>e6dd6167-154f-45c5-8e03-a2f3e47e131d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@id='AccumedPatientInsuranceCreateForm:isver_label']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='AccumedPatientInsuranceCreateForm:isver_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>673a45a8-11ce-4a98-a838-f368db1444a7</webElementGuid>
+      <webElementGuid>324d2969-b6fb-4966-9d6d-7b4d2659f2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientInsuranceCreateForm:isver_label</value>
-      <webElementGuid>5130ec0c-72a9-4d42-9920-cbed1daa3575</webElementGuid>
+      <webElementGuid>f4aeee5f-b4aa-44dc-a663-e300b9ced877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>787885eb-8c48-4bba-a9de-a8801b8e5e09</webElementGuid>
+      <webElementGuid>6a1b3a0e-124d-47ef-9c0e-1c639c91e879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select One</value>
-      <webElementGuid>34bde1ae-55bb-4ad5-bec3-c30e3693a42f</webElementGuid>
+      <webElementGuid>78433151-2b8e-486f-a38a-d1c92566a73a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:isver_label&quot;)</value>
-      <webElementGuid>ba542d88-474a-453f-b69e-834614c3076f</webElementGuid>
+      <webElementGuid>bce9c6ee-e297-40df-a205-b0847b700667</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='AccumedPatientInsuranceCreateForm:isver_label']</value>
-      <webElementGuid>fb4faabf-593d-4c64-8fa9-9a2798652a36</webElementGuid>
+      <webElementGuid>4ba39891-c4e2-4877-b6e2-e4b7ddab3244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='AccumedPatientInsuranceCreateForm:isver']/label</value>
-      <webElementGuid>005b6259-afce-4bb2-aaa5-201dee644f20</webElementGuid>
+      <webElementGuid>0bec9ce6-e37a-4f62-a750-5e2ca41f351e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::label[1]</value>
-      <webElementGuid>5eb018a7-391d-4ae2-a47a-2f67bddedab5</webElementGuid>
+      <webElementGuid>32cfa66c-abac-4403-802c-6869b83936a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Copayment:'])[1]/preceding::label[1]</value>
-      <webElementGuid>c3cb9c7e-1f99-482f-80d1-d9b060028bb1</webElementGuid>
+      <webElementGuid>e825001b-b894-48e8-8b58-b415c2963bd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OP MaxPatientShare:'])[1]/preceding::label[3]</value>
-      <webElementGuid>bd62951f-3029-4055-86ca-e735aee0facf</webElementGuid>
+      <webElementGuid>29536e8e-8998-4d39-b552-82db49b95240</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[8]/td[2]/div/label</value>
-      <webElementGuid>1853bf2a-8272-4182-b4fd-5f592b2a697f</webElementGuid>
+      <webElementGuid>d3aef942-dc35-4541-841f-3d615a41158d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'AccumedPatientInsuranceCreateForm:isver_label' and (text() = 'Select One' or . = 'Select One')]</value>
-      <webElementGuid>083bcf2f-2ad0-4cda-af42-80ff3ec9a2ad</webElementGuid>
+      <webElementGuid>0bf850a8-7822-43b6-8b15-b5b4cf6063e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

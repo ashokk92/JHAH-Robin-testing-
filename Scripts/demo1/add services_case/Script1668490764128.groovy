@@ -19,49 +19,43 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('demo1/login case_moh'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_ROBINHome/a_Patient Journey Management'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Patient Journey Management'))
 
-WebUI.click(findTestObject('Page_ROBINHome/a_Patient Journey Management'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Patient Journey Management'))
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Data Entry'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Create New Visit Ammar_phWLFormsearch'), 'mrn-5410')
 
-WebUI.click(findTestObject('Page_Data Entry/a_sikamdar agoora kareemak'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/a_sikamdar agoora kareemak'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Insurance Details'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/a_Diagnosis  Consultation Codes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Add Insurance'))
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_timeUnit_AccumedHaadActivityListForma_6ca34a'), 'g')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientInsuranceCreateFormpat_cc52de'), '40123')
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/td_Glucose, blood, using reagent strip'))
 
-WebUI.click(findTestObject('label_'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Add Service'))
 
-WebUI.setText(findTestObject('Page_Data Entry/input_Spouse_AccumedPatientInsuranceCreateForminsuranceLisence_filter'), 'ta')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_timeUnit_AccumedHaadActivityListForma_6ca34a'), 't')
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_Tawuniya cooperative  Insurance Company'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/td_Telemedicine Assessment  for diagnosis  _320e5d'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_PolicyPlan_ui-button-icon-primary ui-i_6fb31b'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/button_Add Service'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/td_MOH-1'))
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_timeUnit_AccumedHaadActivityListForma_6ca34a'), 'e')
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Class_ui-button-icon-primary ui-icon u_1ed3f1'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/td_Excisional debridement of skin and subcu_5cb86d'))
 
-WebUI.click(findTestObject('Page_Data Entry/td_A'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Add Service'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label_IP Admissions Only'))
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_timeUnit_AccumedHaadActivityListForma_6ca34a'), 'b')
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_IP and OP Admissions'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/td_Brachythrpy intravaginal high dose rate'))
 
-WebUI.click(findTestObject('Page_Data Entry/label_Select One'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/table_CodeDateDrugPriceTypeQtyPrice Total P_596fec'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_True'))
-
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Save'))
-
-WebUI.click(findTestObject('Page_Data Entry/span_save1'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Data Entry/p_Update patient successfully'))
+WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Add Service'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Update Visit'))
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Preview</name>
+   <name>td_Brachythrpy intravaginal high dose rate</name>
    <tag></tag>
-   <elementGuidId>fc1dae00-a6df-4855-b73f-a924c76e41d8</elementGuidId>
+   <elementGuidId>d6cc72c1-f5ab-4d99-9679-740997d386f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
+         <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr[8]/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1d19d076-c311-4ba1-a7f4-306ce9ed2a7b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>6315e5e1-ddf1-464b-b408-780b8dc21295</webElementGuid>
+      <value>td</value>
+      <webElementGuid>654b6664-d7c2-4a87-977e-5feb8477c62e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Preview</value>
-      <webElementGuid>48a0d932-8e50-4c03-84c8-34ba5663cd5c</webElementGuid>
+      <value>Brachythrpy intravaginal high dose rate</value>
+      <webElementGuid>e4b62d36-fddf-40f8-981d-043089becf4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;claimBillsForm:claimBillsTable:0:viewInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>def998a2-85ea-4037-8d8a-a481f2f0c6ea</webElementGuid>
+      <value>id(&quot;AccumedHaadActivityListForm:activityCode_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[2]</value>
+      <webElementGuid>264c3dae-e815-4c29-adcb-887a16bb3f14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
-      <webElementGuid>9eaa42b9-b15a-4e1b-a714-078d95e752b6</webElementGuid>
+      <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr[8]/td[2]</value>
+      <webElementGuid>f8f768a2-9f4d-4b40-a571-541b8343aa3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[3]/following::span[2]</value>
-      <webElementGuid>9cb4b687-0cb4-48cb-96b2-5fbef44c456b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bladder washout test study'])[1]/following::td[2]</value>
+      <webElementGuid>89d598de-a9d1-4334-8bc1-f69680069c78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC2353'])[2]/following::span[2]</value>
-      <webElementGuid>f37785f4-2fd1-4904-afdd-4fc2752eb430</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bronchospirometry'])[1]/following::td[4]</value>
+      <webElementGuid>f3956847-72ca-4d14-9337-2e510b12bd27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
-      <webElementGuid>ccbcc7d7-a8db-442b-bf29-8a800499cafc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brachytherapy planning, simple'])[1]/preceding::td[2]</value>
+      <webElementGuid>2fd082c1-4d41-499c-b5a7-11e9c3525e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[4]</value>
-      <webElementGuid>7f289d97-0909-4c59-9378-e0169f5bf100</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brachytherapy planning, complex'])[1]/preceding::td[4]</value>
+      <webElementGuid>d348fcaf-7f46-44db-9db6-561379f9b355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
-      <webElementGuid>93d0f4f3-1312-4308-9c25-758aea5a376f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Brachythrpy intravaginal high dose rate']/parent::*</value>
+      <webElementGuid>c893a849-7a8f-4f97-9cd6-508959f4c1ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/button/span[2]</value>
-      <webElementGuid>81ab2b6e-e6f1-4eba-ba4c-7f1c9527e0b6</webElementGuid>
+      <value>//span[7]/table/tbody/tr[8]/td[2]</value>
+      <webElementGuid>edc3f1a4-0148-4b0c-a0ff-5d033dc6e1c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Preview' or . = 'Preview')]</value>
-      <webElementGuid>f34f9c47-e9d3-4765-9824-0a6fa18059f6</webElementGuid>
+      <value>//td[(text() = 'Brachythrpy intravaginal high dose rate' or . = 'Brachythrpy intravaginal high dose rate')]</value>
+      <webElementGuid>0bbe8dd7-8780-4127-a287-05c8e4946da0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

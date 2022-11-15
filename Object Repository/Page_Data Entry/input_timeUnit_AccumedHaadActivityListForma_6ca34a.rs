@@ -6,11 +6,12 @@
    <elementGuidId>d84452bc-2d31-4b55-bcad-dc9d319b374e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='AccumedHaadActivityListForm:activityCode_input']</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@id='AccumedHaadActivityListForm:activityCode_input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1c3b19a8-0256-416c-b842-e3b4e522dea9</webElementGuid>
+      <webElementGuid>b6313e94-b6c9-428c-8b66-8c578c0047bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedHaadActivityListForm:activityCode_input</value>
-      <webElementGuid>1975c114-c0f4-4767-9043-e0ed7e89583c</webElementGuid>
+      <webElementGuid>78cacea5-c226-49d8-9e03-20734e43673a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>AccumedHaadActivityListForm:activityCode_input</value>
-      <webElementGuid>3c0d62e6-1945-4f10-afd8-9a0cec9715c2</webElementGuid>
+      <webElementGuid>de572e61-2c47-4ae6-b761-0a1bdae427d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8443a229-dea2-4c65-8b5c-6678ba4d7b37</webElementGuid>
+      <webElementGuid>1a81b22a-75bb-408b-a69b-00c567dd03b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-autocomplete-input ui-inputfield ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
-      <webElementGuid>57ce7a77-b60a-4d38-85df-7b343faadfed</webElementGuid>
+      <webElementGuid>f25afb47-1389-47cb-9a12-bf5572302c2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +62,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a7352d58-857e-43b6-a956-84a2f9930662</webElementGuid>
+      <webElementGuid>ffc2ae5e-b9d8-420e-9981-f21149b8d41e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>AccumedHaadActivityListForm:j_idt2022</value>
-      <webElementGuid>086e9f43-dfa4-4b18-9926-00f375d68872</webElementGuid>
+      <value>AccumedHaadActivityListForm:j_idt1937</value>
+      <webElementGuid>439de30d-2c19-4dc0-9b83-5ec1f028869f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>size</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>1f0030fa-571b-4b52-809d-8db1ebfca42a</webElementGuid>
+      <webElementGuid>13145e5e-cee7-4fd8-bc3b-bfa091256d28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>PrimeFaces.ab({s:&quot;AccumedHaadActivityListForm:activityCode&quot;,e:&quot;keypress&quot;,p:&quot;AccumedHaadActivityListForm:activityCode&quot;,u:&quot;AccumedHaadActivityListForm:activityCode AccumedHaadActivityListForm:activityList AccumedHaadActivityListForm:totalPrice AccumedHaadActivityListForm:startDate AccumedHaadActivityListForm:activityClinician AccumedHaadActivityListForm:contractSuspendErrorsRefresh growl AccumedHaadActivityListForm:activityDrugType AccumedHaadActivityListForm:activityDrugTypeLabel&quot;,onst:function(cfg){if(event.keyCode!=9)return false;;}});</value>
-      <webElementGuid>574a6511-7363-44ec-9fe3-f298ea95a06f</webElementGuid>
+      <webElementGuid>4b770c1d-bccd-41d8-be34-67bdc65d1a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>onfocus</name>
       <type>Main</type>
       <value>this.select();</value>
-      <webElementGuid>52e5c4be-b7d5-4eae-8485-65edc25fd310</webElementGuid>
+      <webElementGuid>b74fc75c-fca2-49ca-aff6-79a20aeb3efd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>5b3ed7fd-d09d-4701-94d8-61490dddb20b</webElementGuid>
+      <webElementGuid>c760fca9-8c6b-468b-8abe-f072c382a177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>27a43c4f-92d2-4817-a786-60a6acff63c7</webElementGuid>
+      <webElementGuid>52e1f2b4-0e2c-4cc7-a253-8f6b7760f348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a8aaf90c-28c0-4765-819d-f146aa8c70ed</webElementGuid>
+      <webElementGuid>dbeb1986-26e5-4059-bb92-70f668702765</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>0787d548-607c-43d9-857b-b4bcd85226ec</webElementGuid>
+      <webElementGuid>82e0cd5b-e993-44e8-9732-fed94671347b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedHaadActivityListForm:activityCode_input&quot;)</value>
-      <webElementGuid>5dc9e869-3ba0-41fb-854a-1c4d2db1e725</webElementGuid>
+      <webElementGuid>f464f7a2-70bb-4f0f-86d5-5e95abd34e7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -141,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='AccumedHaadActivityListForm:activityCode_input']</value>
-      <webElementGuid>16328f61-a965-46cf-a1d2-751c1c0e231e</webElementGuid>
+      <webElementGuid>483f5ed0-90bc-48a1-8e0b-ff2163cec5b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='AccumedHaadActivityListForm:activityCode']/input</value>
-      <webElementGuid>db9699dc-15c3-4653-af4b-e202f448ceaa</webElementGuid>
+      <webElementGuid>dc3400bb-2604-4c10-bd6a-d2cdd849c377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/form[2]/fieldset/div/span/table/tbody/tr[2]/td/span/input</value>
-      <webElementGuid>815570a8-828d-489d-8622-8d227a4d6d0d</webElementGuid>
+      <webElementGuid>34a4eec9-6cd7-42e3-b5ae-ae8c365c555e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'AccumedHaadActivityListForm:activityCode_input' and @name = 'AccumedHaadActivityListForm:activityCode_input' and @type = 'text']</value>
-      <webElementGuid>1ddb90ea-a8f5-4765-816d-52869ad49276</webElementGuid>
+      <webElementGuid>52909b91-aa8c-4f57-b24b-4e2da980cf47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

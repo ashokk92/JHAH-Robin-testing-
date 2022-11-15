@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Close</name>
+   <name>div_Select One_ui-selectonemenu-trigger ui-state-default ui-corner-right</name>
    <tag></tag>
-   <elementGuidId>3cc15c9f-02d8-46f5-980c-b8db9756cfe7</elementGuidId>
+   <elementGuidId>1ab1c78a-5db5-428b-8ff7-2c9c4e2df322</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='actionsButtonsForm:j_idt1680']/span[2]</value>
+         <value>//div[@id='AccumedPatientCreateForm:martial']/div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0018e103-6ac2-42b2-86cb-30b6fd4bc1e7</webElementGuid>
+      <value>div</value>
+      <webElementGuid>f8432147-2650-4ffb-8771-9ba9e8e041b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>14612f75-7372-4402-9be5-029268c09fd1</webElementGuid>
+      <value>ui-selectonemenu-trigger ui-state-default ui-corner-right</value>
+      <webElementGuid>3c3ca4a0-d2dd-4816-b75d-483c8704e448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>5bc987d9-30ab-4f23-8c4c-ba43d4766276</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionsButtonsForm:j_idt1680&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>c944166c-a5e9-4d9a-b366-7b90042563da</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:martial&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right&quot;]</value>
+      <webElementGuid>54b3dc4f-6aa1-4c2d-897f-631430d591e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='actionsButtonsForm:j_idt1680']/span[2]</value>
-      <webElementGuid>1688ea1c-8d4d-45fe-aa46-149748b37b52</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateForm:martial']/div[3]</value>
+      <webElementGuid>58c31105-bce9-4538-9899-c271444577cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Receipt &amp; Invoice'])[1]/following::span[3]</value>
-      <webElementGuid>ea812ec5-be6a-4dc4-bfb1-b3c77b245a31</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One...'])[2]/following::div[1]</value>
+      <webElementGuid>4efa4729-b6c6-4ad6-89f1-25443fefeb93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Response Observations'])[1]/preceding::span[1]</value>
-      <webElementGuid>da6938a1-1540-4893-a817-3997f74ca659</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::div[4]</value>
+      <webElementGuid>b343caac-2c1a-4677-9c3f-b82840c20caf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1 of 1)'])[1]/preceding::span[3]</value>
-      <webElementGuid>4e1ca021-7ba5-49d7-9c27-5949c893084b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::div[1]</value>
+      <webElementGuid>2785d841-fde3-4354-b31b-e6de6d31a0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office'])[1]/preceding::div[1]</value>
+      <webElementGuid>571aeaf2-a8ea-4a33-a2f4-5c14d49b640b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[4]/span[2]</value>
-      <webElementGuid>b2801057-cf49-4153-984d-79f115771bcf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>2850722a-2b18-4080-ab90-b095dcb543fe</webElementGuid>
+      <value>//td/table/tbody/tr[5]/td[2]/div/div[3]</value>
+      <webElementGuid>d61b744c-ea7a-42d8-b2e1-56591472f9f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

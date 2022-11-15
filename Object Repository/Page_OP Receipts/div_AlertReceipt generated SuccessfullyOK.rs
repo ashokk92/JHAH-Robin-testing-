@@ -6,12 +6,12 @@
    <elementGuidId>76cc6f02-95cd-488a-997a-419d74b7009f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='j_idt16']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#j_idt16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_idt16']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9ce68c4a-285b-4a1e-839e-62564b0629ff</webElementGuid>
+      <webElementGuid>5e21808f-0438-45d7-b577-8485c07c504b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>j_idt16</value>
-      <webElementGuid>d5a5933b-2204-43d3-952f-f089eb1a41ae</webElementGuid>
+      <webElementGuid>e2c5c0ce-9239-4fb9-8c0c-a4c5c799b243</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container ui-draggable ui-resizable</value>
-      <webElementGuid>4e8d7e5e-7a22-4db1-a2d6-4b0b2205c6f1</webElementGuid>
+      <webElementGuid>dbf977f8-1598-4d7e-9e1d-63f699bc92c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>30d48bfb-9e8c-4aea-a802-1efcd12028d2</webElementGuid>
+      <webElementGuid>47988464-a7d5-4ee6-85ed-ec8bfb2a4a1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>j_idt16_title</value>
-      <webElementGuid>e0194b96-57e0-4d0e-9206-b8d3a83d8cd9</webElementGuid>
+      <webElementGuid>39312a0c-44d2-4004-97a7-effe7627134c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>604a9670-e073-4c2a-8465-3a54e1a22319</webElementGuid>
+      <webElementGuid>ef200aa2-e1ae-417e-a917-16ce023ac16d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>a38db24c-e4e1-45f7-8bb6-79798a04cee7</webElementGuid>
+      <webElementGuid>9ee7dcd0-5d8f-4a62-953c-ed483a4de69e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -106,7 +106,7 @@ OK
 
 
 </value>
-      <webElementGuid>3278f2df-9058-490a-ba37-b604c7566b98</webElementGuid>
+      <webElementGuid>642ebd46-1c75-4252-8ced-abcd6e2848cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@ OK
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt16&quot;)</value>
-      <webElementGuid>3433b85d-9c41-4871-b408-924d77debe82</webElementGuid>
+      <webElementGuid>c358bf37-dfe8-4392-ae5f-4b95c20f0144</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -122,7 +122,7 @@ OK
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='j_idt16']</value>
-      <webElementGuid>95f92c36-382c-4b0f-a52a-07815cf742e9</webElementGuid>
+      <webElementGuid>113e4943-7097-477c-ae8f-55047581ec1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@ OK
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERATING RECEIPT IN PROGRESS...'])[1]/following::div[1]</value>
-      <webElementGuid>8f62c122-516b-43ea-baf5-aee1ff2a0324</webElementGuid>
+      <webElementGuid>18d93c59-61eb-44df-bcb9-1871d6edc8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@ OK
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>981487cd-a0e6-4cf2-bae0-822df62ff6f8</webElementGuid>
+      <webElementGuid>29206744-3c1f-48b1-a07c-304f2ee968f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -202,6 +202,6 @@ OK
 
 
 ')]</value>
-      <webElementGuid>bb8a7316-47a9-4f1b-983f-a34f05ca3ee6</webElementGuid>
+      <webElementGuid>cadbf700-c62a-4118-b48a-8b2cc202a2a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,11 +6,12 @@
    <elementGuidId>40db7098-3587-4225-be8a-e85495bc03cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='phWLForm:search']</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@id='phWLForm:search']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9997a014-1431-4d83-a2cd-17e273560beb</webElementGuid>
+      <webElementGuid>a13ac71e-ccc9-4581-a242-45689de9daa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>phWLForm:search</value>
-      <webElementGuid>573e1877-27b3-4fd8-b861-602baaa3d408</webElementGuid>
+      <webElementGuid>b419ecfa-8579-4315-8400-34f969aa5b80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>phWLForm:search</value>
-      <webElementGuid>880c9670-c262-4557-a417-b89c91987687</webElementGuid>
+      <webElementGuid>d69cb0cc-07cf-40ab-bb1d-adbb780bec4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2a950b92-b553-40d7-a12f-98c6019e0b45</webElementGuid>
+      <webElementGuid>89ccd606-cea6-4217-bb24-96d54efe0e93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search by visit,id,name,mobile,mrn,Receipt No and clinician.</value>
-      <webElementGuid>9af93d0e-3438-4bfa-b73b-1e45d6e03a91</webElementGuid>
+      <webElementGuid>48ce2f70-f32b-4a4d-bf81-dcb96222158e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>size</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>bfcb4c3d-acda-4058-b5ec-1fe434fbc5c8</webElementGuid>
+      <webElementGuid>b799807c-444f-426b-93ec-6d56fa5ca1ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all search-input ui-state-hover ui-state-focus</value>
-      <webElementGuid>46edb5f6-d911-4820-95ee-9cbe88ef7419</webElementGuid>
+      <webElementGuid>b1e62618-1b3c-4e00-9453-da00c58260ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>e4a5ca80-fd84-4975-bb52-a28eedeb9e72</webElementGuid>
+      <webElementGuid>00658d90-836c-4390-b15c-3aa95b1cf887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e77c639f-615c-4125-bc93-069687e64948</webElementGuid>
+      <webElementGuid>c7958e85-ba28-4bee-ad68-d4e87b581508</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f5c91a3f-357f-47cb-a798-17ccf969a1dd</webElementGuid>
+      <webElementGuid>f2ed8f50-059d-4b1b-807f-d39276a05ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phWLForm:search&quot;)</value>
-      <webElementGuid>d693dbe6-a311-40f7-9e27-b973cd1a1028</webElementGuid>
+      <webElementGuid>0f153800-b75a-4f16-839e-a3e0aae0d031</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='phWLForm:search']</value>
-      <webElementGuid>bc7a3fb4-5fc5-4ab8-94b0-6152829bca81</webElementGuid>
+      <webElementGuid>b8d30335-ad3c-438a-a298-e44945b58c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='phWLForm']/table/tbody/tr/td/input</value>
-      <webElementGuid>1d6aefd1-d304-43d5-b842-3040be51f7fc</webElementGuid>
+      <webElementGuid>9a208896-3330-4725-b351-c384fe54bc77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>e5510509-4083-434f-b9e5-96a953e119f7</webElementGuid>
+      <webElementGuid>517a03dc-2c8d-4e3c-bdb8-ff840991cb1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'phWLForm:search' and @name = 'phWLForm:search' and @type = 'text' and @placeholder = 'Search by visit,id,name,mobile,mrn,Receipt No and clinician.']</value>
-      <webElementGuid>a07650d0-0627-42fd-8cb7-d1350c04e140</webElementGuid>
+      <webElementGuid>64bf8746-912f-40e4-85d4-40de844bf859</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

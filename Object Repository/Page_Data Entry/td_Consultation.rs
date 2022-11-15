@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Preview</name>
+   <name>td_Consultation</name>
    <tag></tag>
-   <elementGuidId>fc1dae00-a6df-4855-b73f-a924c76e41d8</elementGuidId>
+   <elementGuidId>4472e446-2ef4-4965-a178-5f85aad452f7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
+         <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1d19d076-c311-4ba1-a7f4-306ce9ed2a7b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>6315e5e1-ddf1-464b-b408-780b8dc21295</webElementGuid>
+      <value>td</value>
+      <webElementGuid>d5001273-c98c-4e06-b092-dbc6e7906f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Preview</value>
-      <webElementGuid>48a0d932-8e50-4c03-84c8-34ba5663cd5c</webElementGuid>
+      <value>Consultation </value>
+      <webElementGuid>02d1018f-66c8-4eb3-b44c-858678cfb77b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;claimBillsForm:claimBillsTable:0:viewInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>def998a2-85ea-4037-8d8a-a481f2f0c6ea</webElementGuid>
+      <value>id(&quot;AccumedHaadActivityListForm:activityCode_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[2]</value>
+      <webElementGuid>8b12f0d7-766f-4c94-9b2d-817ffeac535a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
-      <webElementGuid>9eaa42b9-b15a-4e1b-a714-078d95e752b6</webElementGuid>
+      <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr/td[2]</value>
+      <webElementGuid>30915849-0ba5-4910-99f0-8e785a616709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[3]/following::span[2]</value>
-      <webElementGuid>9cb4b687-0cb4-48cb-96b2-5fbef44c456b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[4]/following::td[2]</value>
+      <webElementGuid>e74e30ec-6316-4997-b727-3b85c6e82e7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC2353'])[2]/following::span[2]</value>
-      <webElementGuid>f37785f4-2fd1-4904-afdd-4fc2752eb430</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/following::td[2]</value>
+      <webElementGuid>398f5754-5c08-45d5-9bb4-ece1436dfdbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
-      <webElementGuid>ccbcc7d7-a8db-442b-bf29-8a800499cafc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Construction and application of eye applicator, unilateral'])[1]/preceding::td[2]</value>
+      <webElementGuid>67d1931a-d40f-4d49-a05d-8a67caf40817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[4]</value>
-      <webElementGuid>7f289d97-0909-4c59-9378-e0169f5bf100</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Construction and application of eye applicator, unilateral'])[2]/preceding::td[4]</value>
+      <webElementGuid>f27dcf1e-2d96-4ee5-b27f-8fb827d6fd12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
-      <webElementGuid>93d0f4f3-1312-4308-9c25-758aea5a376f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Consultation']/parent::*</value>
+      <webElementGuid>96e58171-65ff-46a7-a5ed-b62aff69fe2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/button/span[2]</value>
-      <webElementGuid>81ab2b6e-e6f1-4eba-ba4c-7f1c9527e0b6</webElementGuid>
+      <value>//span[7]/table/tbody/tr/td[2]</value>
+      <webElementGuid>470e2bb6-1266-4825-aaea-b5c5de4b8445</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Preview' or . = 'Preview')]</value>
-      <webElementGuid>f34f9c47-e9d3-4765-9824-0a6fa18059f6</webElementGuid>
+      <value>//td[(text() = 'Consultation ' or . = 'Consultation ')]</value>
+      <webElementGuid>b9c798b5-0814-4fb3-8fe3-6c34f59d43c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

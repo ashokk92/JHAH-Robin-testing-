@@ -6,12 +6,12 @@
    <elementGuidId>17d2fab9-fe74-49eb-8ce1-1bc96e60ff6f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='AccumedPatientInsuranceCreateForm:class_panel']/table/tbody/tr/td</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='AccumedPatientInsuranceCreateForm:class_panel']/table/tbody/tr/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>88ce11e3-616b-411d-9b61-f600507a1e46</webElementGuid>
+      <webElementGuid>a3627224-9503-4766-95ac-5fd87bb47ebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>A</value>
-      <webElementGuid>7ec9bc11-b517-439a-979d-27ec1e0f8e11</webElementGuid>
+      <webElementGuid>ac9dc9b1-15c0-4aea-b5ec-1f81db81eca9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientInsuranceCreateForm:class_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[1]</value>
-      <webElementGuid>bd343254-a2ca-4b5f-96df-4af940f48d77</webElementGuid>
+      <webElementGuid>5820b2bf-d86a-4a02-ac1f-6fcd4c08a9bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='AccumedPatientInsuranceCreateForm:class_panel']/table/tbody/tr/td</value>
-      <webElementGuid>e9ba84d9-f5c7-4efa-8c2e-28fdce3e1fe0</webElementGuid>
+      <webElementGuid>8f57f3fa-bc07-4759-bcbd-acd5853d07d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Class'])[4]/following::td[1]</value>
-      <webElementGuid>159b638c-3bdc-43f0-ab62-cbed324df881</webElementGuid>
+      <webElementGuid>c30c789f-199f-4560-b287-32deac63489a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MOH-1'])[1]/following::td[1]</value>
-      <webElementGuid>b422863d-744e-4524-a61c-7b5737ff6f0e</webElementGuid>
+      <webElementGuid>adb0e359-0579-4983-8da7-ccfe171f33d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VIP'])[1]/preceding::td[1]</value>
-      <webElementGuid>04cc0ac2-222d-47bf-8986-fe5b82a25711</webElementGuid>
+      <webElementGuid>0ccd6111-ec66-4775-815e-1df43b869cd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VVIP'])[1]/preceding::td[2]</value>
-      <webElementGuid>b7ccc64e-eeda-423d-b91b-2e91fc521507</webElementGuid>
+      <webElementGuid>6edd4c3f-8345-4325-bc31-d33633dd3b57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='A']/parent::*</value>
-      <webElementGuid>1ea4be98-76a8-4abf-9b93-d3e1e49111ed</webElementGuid>
+      <webElementGuid>f65a72d6-02d1-473c-952d-d86e2409adab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[10]/table/tbody/tr/td</value>
-      <webElementGuid>5fcf8efb-2e53-4c0f-9f2e-577a02134f32</webElementGuid>
+      <webElementGuid>8ccaee4d-ccb8-4892-ac5f-a78f5d5f177f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'A' or . = 'A')]</value>
-      <webElementGuid>e7d2f07a-7e6d-424d-8d33-eed1398db7b3</webElementGuid>
+      <webElementGuid>98f3caec-cc29-4d0c-be02-6166bb7c57ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>77f2f845-ea7d-464f-82b8-5b44efa6397a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>641bb231-2bfb-401d-9ffa-626c7564d27b</webElementGuid>
+      <webElementGuid>1a691970-7ac0-4c10-8a5c-8d8441f89214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Visit has been updated successfully.</value>
-      <webElementGuid>68269573-b830-4dec-b25d-ca0c69f3083e</webElementGuid>
+      <webElementGuid>f16d5711-7ec4-4b84-9231-59dab5724b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-message&quot;]/p[1]</value>
-      <webElementGuid>6af264bb-e89b-4c51-a102-f6dc1d0254c3</webElementGuid>
+      <webElementGuid>e59c5655-7cbd-4e97-9bb5-a45d1887eadd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='growl_container']/div/div/div[2]/p</value>
-      <webElementGuid>0a795c07-75f8-476f-aca3-da5293798a94</webElementGuid>
+      <webElementGuid>2dcb3bfe-4460-4dd0-9d16-41d5ded5219e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit has been updated successfully.'])[1]/following::p[1]</value>
-      <webElementGuid>4fae72e8-88a3-4550-8b06-ad892e386099</webElementGuid>
+      <webElementGuid>e5c85bc3-447b-403e-a105-cb9e97e94a1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[2]/following::p[1]</value>
-      <webElementGuid>fa6e5e77-a4a4-455c-923c-bdac0521cd58</webElementGuid>
+      <webElementGuid>7b3ab5e1-0a1b-4983-bf66-f09f061dfaf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
-      <webElementGuid>36fd3aa4-6462-41ca-b7f8-cfbfc4fdcad6</webElementGuid>
+      <webElementGuid>f1bbd24d-7751-48b8-8afe-59b7b7f3a633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
-      <webElementGuid>2b58f727-20de-4b63-9001-b6b9efa8ba4f</webElementGuid>
+      <webElementGuid>eaf2349e-6a11-493c-bc06-562513581c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>becd9677-7689-4c30-98d8-cd53cbc67710</webElementGuid>
+      <webElementGuid>29b028e1-266c-4bad-b3a4-bb9c6a459afd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Visit has been updated successfully.' or . = 'Visit has been updated successfully.')]</value>
-      <webElementGuid>e4604de3-31b2-42be-afe7-2e8f39b69530</webElementGuid>
+      <webElementGuid>d604fde1-8e76-4b75-9208-1e59b107332e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

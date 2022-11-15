@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Preview</name>
+   <name>td_Glucose, blood, using reagent strip</name>
    <tag></tag>
-   <elementGuidId>fc1dae00-a6df-4855-b73f-a924c76e41d8</elementGuidId>
+   <elementGuidId>6313408f-f380-48ce-92f9-461df26a32b2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
+         <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr[6]/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1d19d076-c311-4ba1-a7f4-306ce9ed2a7b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>6315e5e1-ddf1-464b-b408-780b8dc21295</webElementGuid>
+      <value>td</value>
+      <webElementGuid>d883a1db-4336-4ef2-b8d7-7987fdf20fd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Preview</value>
-      <webElementGuid>48a0d932-8e50-4c03-84c8-34ba5663cd5c</webElementGuid>
+      <value>Glucose, blood, using reagent strip</value>
+      <webElementGuid>8f4373a8-c286-4042-844d-059ccdc549db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;claimBillsForm:claimBillsTable:0:viewInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>def998a2-85ea-4037-8d8a-a481f2f0c6ea</webElementGuid>
+      <value>id(&quot;AccumedHaadActivityListForm:activityCode_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[2]</value>
+      <webElementGuid>3fa4b55b-3d52-43f7-846d-188cc6f52624</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
-      <webElementGuid>9eaa42b9-b15a-4e1b-a714-078d95e752b6</webElementGuid>
+      <value>//span[@id='AccumedHaadActivityListForm:activityCode_panel']/table/tbody/tr[6]/td[2]</value>
+      <webElementGuid>f91264a2-7d29-4e5e-8ffb-dfc1a804aca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[3]/following::span[2]</value>
-      <webElementGuid>9cb4b687-0cb4-48cb-96b2-5fbef44c456b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gastric lavage'])[1]/following::td[2]</value>
+      <webElementGuid>c4b628fa-c653-4574-aa4d-5e09be7feea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC2353'])[2]/following::span[2]</value>
-      <webElementGuid>f37785f4-2fd1-4904-afdd-4fc2752eb430</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Glare test'])[1]/following::td[4]</value>
+      <webElementGuid>cf045cf0-3fa6-42ea-9d08-3dad78ebf96f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
-      <webElementGuid>ccbcc7d7-a8db-442b-bf29-8a800499cafc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GI UNREL TO PDX, MAJC'])[1]/preceding::td[2]</value>
+      <webElementGuid>d72481d5-d966-4b36-adfd-2659299088cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[4]</value>
-      <webElementGuid>7f289d97-0909-4c59-9378-e0169f5bf100</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GI UNREL TO PDX, INTC'])[1]/preceding::td[4]</value>
+      <webElementGuid>fbc11121-b19d-447b-a43b-dbb0a03788cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
-      <webElementGuid>93d0f4f3-1312-4308-9c25-758aea5a376f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Glucose, blood, using reagent strip']/parent::*</value>
+      <webElementGuid>fc6869a6-c182-4622-88d8-15907eb1c98e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/button/span[2]</value>
-      <webElementGuid>81ab2b6e-e6f1-4eba-ba4c-7f1c9527e0b6</webElementGuid>
+      <value>//span[7]/table/tbody/tr[6]/td[2]</value>
+      <webElementGuid>df4c2ec4-46dd-4756-8acd-e334ad411c5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Preview' or . = 'Preview')]</value>
-      <webElementGuid>f34f9c47-e9d3-4765-9824-0a6fa18059f6</webElementGuid>
+      <value>//td[(text() = 'Glucose, blood, using reagent strip' or . = 'Glucose, blood, using reagent strip')]</value>
+      <webElementGuid>7fe340a5-5eee-4f19-bc3a-4bf469bb3319</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

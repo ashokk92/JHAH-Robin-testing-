@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Print Receipt  Invoice</name>
+   <name>p_Receipt generated Successfully</name>
    <tag></tag>
-   <elementGuidId>36aacac5-8619-4bef-8abe-88a010e7f4d3</elementGuidId>
+   <elementGuidId>aab0de43-1157-4f6d-999b-96d06df14f02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='actionsButtonsForm:printInvoice']/span[2]</value>
+         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>8387cb9a-de5f-429f-b94a-5d822b81b971</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>3f1e07ef-83be-412e-b5c1-89fc345b3fbc</webElementGuid>
+      <value>p</value>
+      <webElementGuid>54cef705-e683-4571-9369-2b83803b8d55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Print Receipt &amp; Invoice</value>
-      <webElementGuid>d9201bac-f18f-4ef1-9487-dba9b86622fb</webElementGuid>
+      <value>Receipt generated Successfully</value>
+      <webElementGuid>7b84dd57-9d5b-41b3-9815-6e0779840818</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionsButtonsForm:printInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>40eee7ac-ecb0-4328-a1b3-0e0205d86489</webElementGuid>
+      <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-message&quot;]/p[1]</value>
+      <webElementGuid>9b4f8a8c-cb70-4556-96f8-5157526a8ca1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='actionsButtonsForm:printInvoice']/span[2]</value>
-      <webElementGuid>820f0b39-5d23-4b0f-9a93-97ca167fcd21</webElementGuid>
+      <value>//div[@id='growl_container']/div/div/div[2]/p</value>
+      <webElementGuid>edef6a28-2653-4ffa-8543-a61a47e16038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Bill'])[1]/following::span[2]</value>
-      <webElementGuid>49088e1b-a675-4c48-9327-bfde7dce56a5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt generated Successfully'])[2]/following::p[1]</value>
+      <webElementGuid>ff7f9a39-0e39-4bcd-ad2c-34ddc3510d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC2353'])[1]/following::span[4]</value>
-      <webElementGuid>92d78fc4-f52c-4aaf-8054-137756d26598</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[2]/following::p[1]</value>
+      <webElementGuid>89f2de87-735f-47fa-9ff8-f541c15e8cfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::span[3]</value>
-      <webElementGuid>45c7e745-9467-440c-ad1b-1957dbd4d61a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
+      <webElementGuid>ae8227df-1371-4695-99a2-bb70147d2010</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Print Receipt &amp; Invoice']/parent::*</value>
-      <webElementGuid>b36dcd2b-19b9-4924-832d-ba2a89cb3204</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
+      <webElementGuid>0619474a-39e5-4416-8dff-cc2412c5a6da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[15]/div[2]/form/div/div/button[2]/span[2]</value>
-      <webElementGuid>6e5bc180-0c62-4c8b-9777-94f493e42cc9</webElementGuid>
+      <value>//p</value>
+      <webElementGuid>8b5dc356-5720-422f-a597-d42076aa3d1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Print Receipt &amp; Invoice' or . = 'Print Receipt &amp; Invoice')]</value>
-      <webElementGuid>e289bef7-3899-44d7-9258-12d1e3ffb81f</webElementGuid>
+      <value>//p[(text() = 'Receipt generated Successfully' or . = 'Receipt generated Successfully')]</value>
+      <webElementGuid>1c416b58-5a66-4fc6-a03a-7a12f57bb8c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

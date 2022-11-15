@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Visit Details</name>
+   <name>td_Payment List</name>
    <tag></tag>
-   <elementGuidId>2f71e4e4-d5f7-4e1e-bd11-be7440e4a446</elementGuidId>
+   <elementGuidId>a6a94062-9fc9-485d-8a52-f91c9b187432</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#InvoiceDlg > div.ui-dialog-titlebar.ui-widget-header.ui-helper-clearfix.ui-corner-top.ui-draggable-handle</value>
+         <value>td.verticalPaymentColumn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='InvoiceDlg']/div</value>
+         <value>//form[@id='paymentForm']/table/tbody/tr/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>0b0b218f-0337-4cbd-945d-c5e608bd773c</webElementGuid>
+      <value>td</value>
+      <webElementGuid>0fc8e13c-391f-4df4-95fb-bd54f498f296</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle</value>
-      <webElementGuid>3bc8393c-9347-4080-93cb-ccb2942f1b04</webElementGuid>
+      <value>verticalPaymentColumn</value>
+      <webElementGuid>fa06533d-7968-4012-b5e8-07a12a658bb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Visit Details</value>
-      <webElementGuid>75a1d83b-1aa6-4d3a-a0dc-e2649401b55a</webElementGuid>
+      <value>Payment List</value>
+      <webElementGuid>a21a903a-1ecd-4d08-9e25-807b74ff9e7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;InvoiceDlg&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]</value>
-      <webElementGuid>fa06fd63-e655-4248-943e-5ea6ca69f1b9</webElementGuid>
+      <value>id(&quot;paymentForm&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;verticalPaymentColumn&quot;]</value>
+      <webElementGuid>1283d22a-84b2-4b97-9bac-832c7ca50081</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='InvoiceDlg']/div</value>
-      <webElementGuid>0e3f0e38-1b47-4a3e-ade5-9bcc68db86a5</webElementGuid>
+      <value>//form[@id='paymentForm']/table/tbody/tr/td</value>
+      <webElementGuid>79044222-9d3d-473e-8225-842f79e4d3a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer Patient Details'])[3]/following::div[4]</value>
-      <webElementGuid>9211c826-ab4f-47c0-a0a3-420dec4f8000</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[5]/following::td[1]</value>
+      <webElementGuid>fbb4f862-587b-44bb-83fe-88a6f2fdafa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer Patient Details'])[2]/following::div[8]</value>
-      <webElementGuid>647b18e0-269a-4d38-82eb-3ecfe2293552</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[2]/following::td[1]</value>
+      <webElementGuid>a70dde4f-ce72-4636-a05a-e0a1bf77367b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient &amp; Encounter Info'])[1]/preceding::div[1]</value>
-      <webElementGuid>34a69eca-719f-40cf-a6b0-dee78f112789</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Amount :'])[1]/preceding::td[5]</value>
+      <webElementGuid>45d69ddc-d5d9-4b59-be37-51bcdd03a3e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[65]/div</value>
-      <webElementGuid>1457fa4e-9203-41a7-b7e0-011794a6d8c9</webElementGuid>
+      <value>//form[4]/table/tbody/tr/td</value>
+      <webElementGuid>abb7b02f-a094-4872-9a05-b4cd8eea605c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Visit Details' or . = 'Visit Details')]</value>
-      <webElementGuid>a5934636-56d4-4006-9295-0d2fe8b1a542</webElementGuid>
+      <value>//td[(text() = 'Payment List' or . = 'Payment List')]</value>
+      <webElementGuid>f0c75afb-a537-4335-805f-963b138fc741</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

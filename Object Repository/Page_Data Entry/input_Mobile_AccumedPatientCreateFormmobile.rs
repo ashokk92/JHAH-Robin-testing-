@@ -6,11 +6,12 @@
    <elementGuidId>cf402fa6-8a41-4678-a14c-a20c3a90956e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='AccumedPatientCreateForm:mobile']</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@id='AccumedPatientCreateForm:mobile']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>84df2d8c-8ea8-4dd7-9973-2fde7162060a</webElementGuid>
+      <webElementGuid>456d4768-d960-48c1-bd23-174c6a293a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccumedPatientCreateForm:mobile</value>
-      <webElementGuid>00f5b8b3-b4b7-4819-a4de-222031d0a806</webElementGuid>
+      <webElementGuid>9a27e429-da73-492d-bf4d-6b1f5f63cb2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>AccumedPatientCreateForm:mobile</value>
-      <webElementGuid>8d3cf321-5094-46c6-b756-1dbed629f708</webElementGuid>
+      <webElementGuid>61a6d390-96c0-4b68-aabd-2de16a789a31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +46,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d2c00b48-ed18-4dde-aa0b-a1f4c079de0d</webElementGuid>
+      <webElementGuid>215ae563-2e44-4c2b-a0ed-a500c750564b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
-      <webElementGuid>733a9b6a-81e5-4613-bbdb-534c9dad690c</webElementGuid>
+      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus</value>
+      <webElementGuid>2697fec0-8c41-42de-a5d1-0d21cb8f544e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>e4acc00b-ee95-4ec1-90e2-133aafe3f17a</webElementGuid>
+      <webElementGuid>b1b54791-70df-47fb-ad1e-8cbef6f79eb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4401001a-fe49-4e52-8699-cfaca1e8d6e3</webElementGuid>
+      <webElementGuid>1e5421c9-0c32-4147-9ee4-ac848b175629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>837cc50c-0f7f-46d6-81be-d02c1adb07de</webElementGuid>
+      <webElementGuid>bfa4aca5-7e6b-4787-bcd8-3f26ce34702f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccumedPatientCreateForm:mobile&quot;)</value>
-      <webElementGuid>9bbf140a-4c1a-410e-9bff-31972e15b6d9</webElementGuid>
+      <webElementGuid>50b043a0-4245-4206-a3d3-ef0b7d12e41b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,15 +94,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='AccumedPatientCreateForm:mobile']</value>
-      <webElementGuid>478b9ad5-64b6-48bd-aec4-3986ca22fa82</webElementGuid>
+      <webElementGuid>c372fe36-a30b-4288-aff6-438a00772139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='AccumedPatientCreateForm:j_idt1073']/tbody/tr[6]/td[4]/input</value>
-      <webElementGuid>c13f55ab-2259-4c5f-bfd9-539caaaa8935</webElementGuid>
+      <value>//table[@id='AccumedPatientCreateForm:j_idt986']/tbody/tr[6]/td[4]/input</value>
+      <webElementGuid>7395b5a3-b98a-4d9a-a5a6-8c5e5bb10b18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/table/tbody/tr[6]/td[4]/input</value>
-      <webElementGuid>ebaf7d87-f38f-48e5-b2e6-88d1461514ff</webElementGuid>
+      <webElementGuid>0e0f1399-4ff1-45e4-9630-6c14654cec3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'AccumedPatientCreateForm:mobile' and @name = 'AccumedPatientCreateForm:mobile' and @type = 'text']</value>
-      <webElementGuid>a1d4dbd2-f30c-44d8-ab9d-8b94725de11b</webElementGuid>
+      <webElementGuid>c0c3c901-3a53-4bb7-b01c-4d8a95d66333</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

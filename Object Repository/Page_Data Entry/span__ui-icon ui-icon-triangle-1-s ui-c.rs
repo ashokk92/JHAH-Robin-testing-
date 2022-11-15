@@ -6,12 +6,12 @@
    <elementGuidId>f4dd3397-e3d6-4c07-ad00-d47020287af9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='AccumedPatientInsuranceCreateForm:insuranceLisence']/div[3]/span</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.ui-selectonemenu-trigger.ui-state-default.ui-corner-right.ui-state-hover > span.ui-icon.ui-icon-triangle-1-s.ui-c</value>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedPatientCreateForm:genderId']/div[3]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c8891f4a-f13b-4590-a1d1-9d85c4840c10</webElementGuid>
+      <webElementGuid>1b10621c-6f41-45b0-9999-adf6ff983229</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,30 +30,30 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-icon ui-icon-triangle-1-s ui-c</value>
-      <webElementGuid>7557c93e-d687-4be3-a87e-989c158a83c5</webElementGuid>
+      <webElementGuid>b493aa6d-b03a-421f-8f70-4cc29b4e8555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AccumedPatientInsuranceCreateForm:insuranceLisence&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right ui-state-hover&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-s ui-c&quot;]</value>
-      <webElementGuid>2bcfface-5785-4816-8959-f0fe65b7dacc</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:genderId&quot;)/div[@class=&quot;ui-selectonemenu-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-s ui-c&quot;]</value>
+      <webElementGuid>2b08e1b1-787c-4533-a991-9f801bf0b341</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AccumedPatientInsuranceCreateForm:insuranceLisence']/div[3]/span</value>
-      <webElementGuid>3c3ee59a-baed-4a81-b022-ffb6f0c41d26</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateForm:genderId']/div[3]/span</value>
+      <webElementGuid>04822157-d71c-4a83-ad53-7511b07b9951</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[2]/div/div[3]/span</value>
-      <webElementGuid>d9bf60e1-c13e-4c5a-b3a5-b682ab04c8b4</webElementGuid>
+      <value>//td/table/tbody/tr[3]/td[6]/div/div[3]/span</value>
+      <webElementGuid>7c3f7406-7d33-4528-b96e-64de252462bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>0529f9ad-c7d5-43fc-a8ca-8fbac20da507</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='loginForm:password']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='loginForm:password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d030c689-faaf-4a2c-aec9-6084d68bb928</webElementGuid>
+      <webElementGuid>4f3666b2-073f-4c5f-bb48-0032238d5825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>loginForm:password</value>
-      <webElementGuid>89672206-b306-44c7-80a5-c02b2ebfa2c9</webElementGuid>
+      <webElementGuid>f6df5264-eda5-4a8f-b08f-986e83c9869a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>loginForm:password</value>
-      <webElementGuid>10aa9fea-07a8-4166-a2fa-1e60bef9d088</webElementGuid>
+      <webElementGuid>ce0be7e7-77a6-47b1-b3e4-d7ee5e878cc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e3ba2e0d-a8c5-4c2f-834c-01e4adaabccf</webElementGuid>
+      <webElementGuid>38bd6cd4-7155-4d4c-990f-fe07c05a1b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-password ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>a8e82ea2-8059-4726-912e-7fdbed105eeb</webElementGuid>
+      <webElementGuid>d363ccda-ff93-432c-a7f7-9e3a83aee438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0457a337-789a-4777-bfe8-bd0fd44c13da</webElementGuid>
+      <webElementGuid>1acc3e49-c60c-486f-9069-847b79fc18c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>7faa451d-577a-4294-80e0-25e3c1870521</webElementGuid>
+      <webElementGuid>276ff068-049f-40b7-9969-244dc1e3624e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>onblur</name>
       <type>Main</type>
       <value> loadFacilites();  </value>
-      <webElementGuid>02111b16-877b-43ca-8be6-cf91dcd4e1fb</webElementGuid>
+      <webElementGuid>fc4704bb-de85-4389-bc7b-fe07f32423b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>788bee4e-bade-4530-a22b-814f1125a17f</webElementGuid>
+      <webElementGuid>72ee2228-f805-48b2-a2b3-ebedac4bc293</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b120e97b-9147-481e-beaf-e73a316053d3</webElementGuid>
+      <webElementGuid>f7c201db-02b0-485a-8f37-3f28eec12a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5e7fdf92-fe67-4296-9fbc-b142c1d076f3</webElementGuid>
+      <webElementGuid>cb6c36b9-897d-4900-ab20-cbdbe70d6984</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm:password&quot;)</value>
-      <webElementGuid>05c6da73-5229-49e9-b7fd-d7dc150b902c</webElementGuid>
+      <webElementGuid>3eab14b2-57b9-442d-a02d-39d8e58e3673</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='loginForm:password']</value>
-      <webElementGuid>3f35ef58-b639-4ba8-9d75-cc7158292d5c</webElementGuid>
+      <webElementGuid>66bd4d55-86d7-4378-8aa6-388dceaa362c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/input[3]</value>
-      <webElementGuid>06497924-751d-4285-a67c-afb555629c06</webElementGuid>
+      <webElementGuid>6c732a29-58cf-4d67-9a1d-bace002e890b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>5b06f8ae-dedc-4aac-9bcb-7af345956e91</webElementGuid>
+      <webElementGuid>7950aa1f-7c05-4a7c-8d52-edfbb23d613b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'loginForm:password' and @name = 'loginForm:password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>a02f5bdc-e3d0-44e0-813d-602c69f6da1e</webElementGuid>
+      <webElementGuid>fa6d9c5d-a217-441b-826f-69505431f481</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

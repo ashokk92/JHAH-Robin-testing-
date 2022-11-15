@@ -6,12 +6,12 @@
    <elementGuidId>31b0ffc9-1580-466d-9378-a694958a373d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='loginForm:facilityId_1']/td</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='loginForm:facilityId_1']/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>85c622a0-f9b3-4686-9432-e75bb8438e49</webElementGuid>
+      <webElementGuid>76454af7-5a7e-4f0b-b7c4-5f19da24b86c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>King Salman Abdulaziz Hospital -Riyadh</value>
-      <webElementGuid>51eb6313-da35-46a0-9177-825eb4d677e3</webElementGuid>
+      <webElementGuid>5a5d5e18-0d60-44d0-9208-0942892dee50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm:facilityId_1&quot;)/td[1]</value>
-      <webElementGuid>024b20c1-9a16-4ace-82df-9d3fa6c8e955</webElementGuid>
+      <webElementGuid>c99a70f7-f0b5-4926-b7f1-ebd10d3ae9ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='loginForm:facilityId_1']/td</value>
-      <webElementGuid>6cffb797-2ac3-46dd-a544-bbf7cfee2f4b</webElementGuid>
+      <webElementGuid>7ec71fd9-2a1f-459f-b794-968c158cc844</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[3]/following::td[1]</value>
-      <webElementGuid>65858650-0778-4894-a733-c9fb660d565a</webElementGuid>
+      <webElementGuid>4f665195-6899-4d0a-8bf5-2378c0c38b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'loginForm:facilityId_1', '&quot;', ')/td[1]')])[1]/following::td[2]</value>
-      <webElementGuid>26d669dc-e3c7-432b-97c3-1601d4e43f9d</webElementGuid>
+      <webElementGuid>fe67e462-52a1-436b-8101-d684ce7681c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Jubail General Hospital - Jubail'])[2]/preceding::td[1]</value>
-      <webElementGuid>b559ff07-6601-4c44-b3b3-cb22ef73c3bf</webElementGuid>
+      <webElementGuid>4b4bbabf-7700-421e-a136-ce80a11209b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/table/tbody/tr[2]/td</value>
-      <webElementGuid>0acc017a-7f03-431e-b6f6-e3d72c4d81a1</webElementGuid>
+      <webElementGuid>d6babdf1-f2cf-49d7-8686-854a54885213</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'King Salman Abdulaziz Hospital -Riyadh' or . = 'King Salman Abdulaziz Hospital -Riyadh')]</value>
-      <webElementGuid>cfa4339f-5f7a-43ac-a8a2-df20def7a6ba</webElementGuid>
+      <webElementGuid>669fe0a9-5cb9-4089-b59e-aa9ae493366d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

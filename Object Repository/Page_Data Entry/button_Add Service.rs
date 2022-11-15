@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign In</name>
+   <name>button_Add Service</name>
    <tag></tag>
-   <elementGuidId>660e63e9-c00b-4b6f-b7aa-279bc5e7e9ad</elementGuidId>
+   <elementGuidId>5a1e112b-0e28-4428-a297-7339c8071912</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']</value>
+         <value>//button[@id='AccumedHaadActivityListForm:j_idt1965']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>39ca21cb-6e9a-4fc5-b861-a2525cc03e5d</webElementGuid>
+      <webElementGuid>e79c43c9-d217-4f9e-9214-54e49a1472ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:j_idt29</value>
-      <webElementGuid>6d09f898-ed0b-438d-af01-2e8e4e091894</webElementGuid>
+      <value>AccumedHaadActivityListForm:j_idt1965</value>
+      <webElementGuid>ed0a43ca-7e44-464b-b154-d994e9e17c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:j_idt29</value>
-      <webElementGuid>7599c183-9b65-46d6-959c-e2d07989be06</webElementGuid>
+      <value>AccumedHaadActivityListForm:j_idt1965</value>
+      <webElementGuid>e047441c-37bc-46ca-9a1d-295c907b5c12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only login100-form-btn ui-state-focus ui-state-hover</value>
-      <webElementGuid>d186da0b-5b4f-48a4-af2b-f6fda0a1594d</webElementGuid>
+      <value>ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-left ui-state-focus ui-state-hover</value>
+      <webElementGuid>8f959c34-b85b-442e-a2a8-bb656a120f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>PrimeFaces.ab({s:&quot;loginForm:j_idt29&quot;,u:&quot;loginForm:msg&quot;,onst:function(cfg){startAjaxLoader('Logging In Progress...');;},onco:function(xhr,status,args){endAjaxLoader();;}});return false;</value>
-      <webElementGuid>b80f8e09-e94b-4974-8c72-b0d578c246d5</webElementGuid>
+      <value>PrimeFaces.bcn(this,event,[function(event){this.disabled = true;this.className += ' ui-state-disabled ';},function(event){PrimeFaces.ab({s:&quot;AccumedHaadActivityListForm:j_idt1965&quot;,u:&quot;AccumedHaadActivityListForm:activityDisplay growl AccumedHaadActivityListForm:datalist&quot;,onco:function(xhr,status,args){PF('dataTableActivity').filter() ;handleComplete(xhr,status,args);;}});return false;}]);</value>
+      <webElementGuid>ef8c69ca-c1a8-475d-afef-3e91856d9b56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>ea65e360-b56c-43b4-b1ef-b222d6791a3a</webElementGuid>
+      <webElementGuid>d6163c57-a573-4f57-b5c6-f8a9f06265f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>04cc6fc3-673e-414d-b7cc-a6e08c2737c9</webElementGuid>
+      <webElementGuid>db4550e2-7668-4084-9523-47f229a4589c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,78 +78,78 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf0b33b9-892f-4659-851b-672923dbb279</webElementGuid>
+      <webElementGuid>a8e0c5f9-1fd4-4480-aebf-79aac437815a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>f37bbf49-3252-4d70-91c1-5be3e516fd31</webElementGuid>
+      <value>Add Service</value>
+      <webElementGuid>e30a9ce1-7172-4347-b653-4e53f5a92402</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)</value>
-      <webElementGuid>96cd93d4-4692-4b12-8d56-b396ffab7d20</webElementGuid>
+      <value>id(&quot;AccumedHaadActivityListForm:j_idt1965&quot;)</value>
+      <webElementGuid>d2d99355-cf60-4cb7-9303-f8d001974903</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']</value>
-      <webElementGuid>bf52e2cf-0841-44b6-8717-84a0e7f8f222</webElementGuid>
+      <value>//button[@id='AccumedHaadActivityListForm:j_idt1965']</value>
+      <webElementGuid>09b73ac4-286b-4047-a623-06eae6cef2ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/div[2]/button</value>
-      <webElementGuid>18b7a083-ca37-47f4-9449-494aeff6fa37</webElementGuid>
+      <value>//span[@id='AccumedHaadActivityListForm:activityDisplay']/table/tbody/tr[2]/td[12]/button</value>
+      <webElementGuid>4469ebfc-b990-4524-9eaf-21744f5744f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::button[1]</value>
-      <webElementGuid>749a844e-1d2b-4b84-bb9f-36008a122e79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Service'])[5]/following::button[1]</value>
+      <webElementGuid>4463fe5a-ebcd-4a18-91b6-777dc6f00777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::button[1]</value>
-      <webElementGuid>7d4d232f-71cf-4751-8052-89fee0faf453</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package'])[7]/following::button[1]</value>
+      <webElementGuid>6373ac9a-690b-486f-95e9-3002cf5ea824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
-      <webElementGuid>011abec6-b78f-4760-923f-751204e59ec4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[12]/preceding::button[1]</value>
+      <webElementGuid>a7e22709-90d4-4363-9477-58ad30ba0a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>cc316cb2-de66-4716-972d-dc419db6c414</webElementGuid>
+      <value>//div/div/div[2]/div/form[2]/fieldset/div/span/table/tbody/tr[2]/td[12]/button</value>
+      <webElementGuid>5ec3c480-062a-4497-a07a-04dd69ad16cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'loginForm:j_idt29' and @name = 'loginForm:j_idt29' and @type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>ba3b8cb1-ae55-4132-80e3-4eb941ccc3da</webElementGuid>
+      <value>//button[@id = 'AccumedHaadActivityListForm:j_idt1965' and @name = 'AccumedHaadActivityListForm:j_idt1965' and @type = 'submit' and (text() = 'Add Service' or . = 'Add Service')]</value>
+      <webElementGuid>4669f43c-c521-454b-8518-7bd5006608de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Visit Details</name>
+   <name>div_Alert</name>
    <tag></tag>
-   <elementGuidId>2f71e4e4-d5f7-4e1e-bd11-be7440e4a446</elementGuidId>
+   <elementGuidId>e66dfd27-a91b-4992-b310-7c4e01f6af07</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#InvoiceDlg > div.ui-dialog-titlebar.ui-widget-header.ui-helper-clearfix.ui-corner-top.ui-draggable-handle</value>
+         <value>div.ui-dialog-titlebar.ui-widget-header.ui-helper-clearfix.ui-corner-top.ui-draggable-handle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='InvoiceDlg']/div</value>
+         <value>//div[@id='j_idt16']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0b0b218f-0337-4cbd-945d-c5e608bd773c</webElementGuid>
+      <webElementGuid>041ab275-4eb0-4925-a3d9-36652ccf36f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,70 +30,62 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle</value>
-      <webElementGuid>3bc8393c-9347-4080-93cb-ccb2942f1b04</webElementGuid>
+      <webElementGuid>4c010b6e-f1ed-409d-8304-338775951b2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Visit Details</value>
-      <webElementGuid>75a1d83b-1aa6-4d3a-a0dc-e2649401b55a</webElementGuid>
+      <value>Alert</value>
+      <webElementGuid>b34a7c9a-2cf6-4ed9-8ed1-f07c185e4872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;InvoiceDlg&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]</value>
-      <webElementGuid>fa06fd63-e655-4248-943e-5ea6ca69f1b9</webElementGuid>
+      <value>id(&quot;j_idt16&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]</value>
+      <webElementGuid>b2cf7d31-0510-4b42-a927-fc496d5b100a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='InvoiceDlg']/div</value>
-      <webElementGuid>0e3f0e38-1b47-4a3e-ade5-9bcc68db86a5</webElementGuid>
+      <value>//div[@id='j_idt16']/div</value>
+      <webElementGuid>c986387e-f2c7-476a-a39d-0d0bf622fcc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer Patient Details'])[3]/following::div[4]</value>
-      <webElementGuid>9211c826-ab4f-47c0-a0a3-420dec4f8000</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERATING RECEIPT IN PROGRESS...'])[1]/following::div[2]</value>
+      <webElementGuid>3997fd86-aa95-487f-8ed8-832630a14223</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer Patient Details'])[2]/following::div[8]</value>
-      <webElementGuid>647b18e0-269a-4d38-82eb-3ecfe2293552</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient &amp; Encounter Info'])[1]/preceding::div[1]</value>
-      <webElementGuid>34a69eca-719f-40cf-a6b0-dee78f112789</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt generated Successfully'])[1]/preceding::div[1]</value>
+      <webElementGuid>2f3aba79-1001-4ed9-af10-3276f13282ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[65]/div</value>
-      <webElementGuid>1457fa4e-9203-41a7-b7e0-011794a6d8c9</webElementGuid>
+      <value>//div[3]/div</value>
+      <webElementGuid>e4f895ad-dec5-4de7-a6da-096bcc0dc0c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Visit Details' or . = 'Visit Details')]</value>
-      <webElementGuid>a5934636-56d4-4006-9295-0d2fe8b1a542</webElementGuid>
+      <value>//div[(text() = 'Alert' or . = 'Alert')]</value>
+      <webElementGuid>446b63eb-a0bc-4bc6-b4b6-35f2b544274e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
