@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Collection Report</name>
+   <tag></tag>
+   <elementGuidId>c2207443-9d40-42cb-a259-bdb5e4ca7a03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9b4de85c-b3a6-44fe-967a-33d2a228bc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>5015865a-4935-4c71-bbed-e2c12aa502ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>a0ac464a-128b-4ae2-8b2b-b50d96ad703f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>Collection Report</value>
+      <webElementGuid>308c5c20-e0a3-418f-a20d-4cfd8b816aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>2db87680-bfce-47e5-9e80-f75e48d387b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Collection Report</value>
+      <webElementGuid>4fc7d671-b54b-4bac-a536-6b0e17c714b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserRolesCreateForm:pickList&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>ac74edaf-3285-4952-8ce2-1f1979153bed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[8]</value>
+      <webElementGuid>a774c8b8-87ff-4058-a87c-32b550d219fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coding Management'])[1]/following::li[1]</value>
+      <webElementGuid>c7a22798-1fd9-434b-8cb4-a66059ab4ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinicians Management'])[1]/following::li[2]</value>
+      <webElementGuid>8228b2c6-593d-4af4-b950-0ea86735db78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies Profiles Management'])[1]/preceding::li[1]</value>
+      <webElementGuid>7eb6bad3-6538-4cef-b63c-985cc6867a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contracts Management'])[1]/preceding::li[2]</value>
+      <webElementGuid>71976a71-1dec-466a-b2ba-a8d1e4346bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Collection Report']/parent::*</value>
+      <webElementGuid>45f36021-633b-4212-90d3-0244ada536de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[8]</value>
+      <webElementGuid>d6657992-2a42-4261-ba43-a5c94521d682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Collection Report' or . = 'Collection Report')]</value>
+      <webElementGuid>80b661d0-b739-44d8-81c0-6f44375dbb38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

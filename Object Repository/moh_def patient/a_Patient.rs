@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Users</name>
+   <name>a_Patient</name>
    <tag></tag>
-   <elementGuidId>bdf269bc-ca90-4f90-9d81-c1ed65cd9728</elementGuidId>
+   <elementGuidId>d373f78c-b5e2-4480-b326-4490c92f5b56</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[2]/a</value>
+         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>301c252b-60f1-4c60-8767-f85d19c12d24</webElementGuid>
+      <webElementGuid>f959ffb6-76c8-41f3-9e5d-3f3852c8b802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d26970b2-b4b8-430a-bcbc-ee8725d5e33c</webElementGuid>
+      <webElementGuid>0b0aa968-443d-4e97-b7be-f5f6c7542de4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,23 +38,23 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menuitem-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>cd6bb3b7-6305-4bf5-aa31-038ff0589f20</webElementGuid>
+      <webElementGuid>f3234823-729d-401c-971a-f553fdbaeee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/ROBIN/faces/Pages/User/List.xhtml</value>
-      <webElementGuid>b3217a16-55a9-489b-bc49-de74b3e3a680</webElementGuid>
+      <value>/ROBIN/faces/Patient.xhtml</value>
+      <webElementGuid>024ca764-b2b8-4a65-a6b2-6e32b9030cdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Users</value>
-      <webElementGuid>dadfede5-a80e-417b-be8e-63edd72ab18d</webElementGuid>
+      <value> Patient</value>
+      <webElementGuid>36bba5f0-7c4a-4079-884f-3aad8eeabb92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,62 +62,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>b1eef19c-7d51-4816-a6fb-0c4b955d0caa</webElementGuid>
+      <webElementGuid>843cecc0-2323-45b8-9804-f977f472065a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[2]/a</value>
-      <webElementGuid>8ec9cfe6-5202-465e-9cdc-5f6c4d8e7dad</webElementGuid>
+      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li/a</value>
+      <webElementGuid>3807aa06-5b8a-4159-8fb8-49e9e1122a6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::a[1]</value>
-      <webElementGuid>2724df81-dd2f-4447-ba0d-a129220c4b76</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Definitions'])[1]/following::a[1]</value>
+      <webElementGuid>1098b85d-cf7d-4189-9d08-63b7c05b4453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Definitions'])[1]/following::a[2]</value>
-      <webElementGuid>9f0ec851-f344-4912-bdfa-e7d49d8d45b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Receipts'])[1]/following::a[2]</value>
+      <webElementGuid>3ae29f54-d81a-4aa7-9018-6f98a167c615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/preceding::a[1]</value>
-      <webElementGuid>d19116dd-1454-4935-b6a2-731587500aa6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d950ad4-ed7a-4353-9e50-25f3e7231626</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/ROBIN/faces/Pages/User/List.xhtml')]</value>
-      <webElementGuid>17b37555-543a-4885-94c6-e082ad7cce0d</webElementGuid>
+      <value>//a[contains(@href, '/ROBIN/faces/Patient.xhtml')]</value>
+      <webElementGuid>21750e3f-87a8-4eae-b1fa-d726357e89da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[6]/ul/li[2]/a</value>
-      <webElementGuid>f83bfd90-8889-49b8-b534-417270398da7</webElementGuid>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>96f81afd-a9e0-4082-8a76-012444086d31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/ROBIN/faces/Pages/User/List.xhtml' and (text() = ' Users' or . = ' Users')]</value>
-      <webElementGuid>9160600a-309c-4475-bbb1-8ce5c2182054</webElementGuid>
+      <value>//a[@href = '/ROBIN/faces/Patient.xhtml' and (text() = ' Patient' or . = ' Patient')]</value>
+      <webElementGuid>b7b60716-4459-4ab1-9bff-149ebbed906d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

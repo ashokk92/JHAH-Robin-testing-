@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A6F669AB29CD49349C8171403604B8B2",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.MyRunner",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

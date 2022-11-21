@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Class_ui-button-icon-primary ui-icon ui-icon-triangle-1-s</name>
+   <tag></tag>
+   <elementGuidId>980b527e-2cf7-4813-a8cf-e498c8249758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='AccumedPatientInsuranceCreateForm:class']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>739a533e-f7da-4ceb-9e79-48c875367177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-primary ui-icon ui-icon-triangle-1-s</value>
+      <webElementGuid>b4c95ce1-c2a3-4a8e-a79d-ef0e500d8521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:class&quot;)/button[@class=&quot;ui-autocomplete-dropdown ui-button ui-widget ui-state-default ui-corner-right ui-button-icon-only&quot;]/span[@class=&quot;ui-button-icon-primary ui-icon ui-icon-triangle-1-s&quot;]</value>
+      <webElementGuid>aafd80db-7901-4c5c-8c4e-e070f6886065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='AccumedPatientInsuranceCreateForm:class']/button/span</value>
+      <webElementGuid>b34405ea-f1db-4f5d-b91a-d9f1c6da4185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/span/button/span</value>
+      <webElementGuid>d10fc6e8-b10c-40f5-891b-8b37b7a84f3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

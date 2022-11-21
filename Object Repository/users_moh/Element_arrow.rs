@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_arrow</name>
+   <tag></tag>
+   <elementGuidId>1ddc1381-bff7-4cc3-a1b3-75731e56edd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-picklist-button-add&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>0da126b9-8ec7-402a-a0ce-18abf518aea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1668582633354</value>
+      <webElementGuid>3565023a-6af0-4d93-8c67-e815fc963e41</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

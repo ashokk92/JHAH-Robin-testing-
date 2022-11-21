@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test Admin2_ui-button-icon-left ui-icon ui-c ui-icon ui-icon-arrow-1-e</name>
+   <tag></tag>
+   <elementGuidId>4e43bddf-0059-41de-b603-5e3dd6c1aa4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon.ui-icon-arrow-1-e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserCreateForm:j_idt177:pickList']/div[2]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6bb8a787-5fa0-4982-a03a-517947560672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon ui-icon-arrow-1-e</value>
+      <webElementGuid>519aff75-ef7f-46d7-b4d5-4d4a68adca35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserCreateForm:j_idt177:pickList&quot;)/div[@class=&quot;ui-picklist-buttons&quot;]/div[@class=&quot;ui-picklist-buttons-cell&quot;]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-picklist-button-add ui-state-focus&quot;]/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon ui-icon-arrow-1-e&quot;]</value>
+      <webElementGuid>e4ead85a-3075-42fe-870b-4f6219f34fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserCreateForm:j_idt177:pickList']/div[2]/div/button/span</value>
+      <webElementGuid>ba2f74c5-6204-4c41-8d38-23879f2fe547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>a6f4f898-f133-45a2-b787-c11b9385ddf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

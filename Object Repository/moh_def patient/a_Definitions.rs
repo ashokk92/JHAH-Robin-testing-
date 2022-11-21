@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Definitions</name>
    <tag></tag>
-   <elementGuidId>63bab38c-54ec-4787-a30d-c1437623dcba</elementGuidId>
+   <elementGuidId>4f99d815-8aa2-4c5f-bb92-7ae4706ebb97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f62f52e9-2cf4-452b-a2b7-95a320cd4a35</webElementGuid>
+      <webElementGuid>1cb5e3aa-ced6-4fa8-bb6f-a8ad69b1a8b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>76c8046e-947a-4e82-8112-bc90f5823801</webElementGuid>
+      <webElementGuid>4daeda19-3b5c-46f3-a779-6e158c8b64d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>709dbec3-bab3-4470-8601-b1a3974247be</webElementGuid>
+      <webElementGuid>36ec4c81-cb00-42cb-969c-0a7cc76d9daf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>ec0e25a0-d4fd-4709-b45d-3b4a1b1d2286</webElementGuid>
+      <webElementGuid>379f65a7-a368-4273-87f9-ebaa19aecede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Definitions</value>
-      <webElementGuid>602f2879-c15f-4a23-b6bc-9f4dc5ebe6bd</webElementGuid>
+      <webElementGuid>2b64c3e8-706d-4b32-a772-6c5efd3df010</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>d9a74945-b480-4423-ba26-baccc6ec48c0</webElementGuid>
+      <webElementGuid>b4bfbb1b-fc44-4e60-9421-3c3670a87104</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/a</value>
-      <webElementGuid>5e766bd6-d5e1-4631-aca5-4deccf32e6d6</webElementGuid>
+      <webElementGuid>770bfbc0-6663-44b6-920c-198168f06620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Receipts'])[1]/following::a[1]</value>
-      <webElementGuid>66b7d5f6-047c-4bec-bae5-8ba02cd43570</webElementGuid>
+      <webElementGuid>a229af07-0f82-42a4-af98-7e54bffc1125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Advance'])[1]/following::a[2]</value>
-      <webElementGuid>ef07a9ca-300f-4c54-befa-8dec944c3727</webElementGuid>
+      <webElementGuid>b9ed936b-ea3d-41a8-ab51-50e1b36b203b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/preceding::a[1]</value>
-      <webElementGuid>4387b48d-f619-406c-9d85-2c2af32054b2</webElementGuid>
+      <webElementGuid>0ae7d67f-23f5-4635-9606-41bd059133a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>40225eb8-e4b1-49fa-9da8-db5a372a7958</webElementGuid>
+      <webElementGuid>1f1c6f2c-54f0-46b2-877f-8331c76b5868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>7be8121a-686c-4b91-b3c0-cec67f666498</webElementGuid>
+      <webElementGuid>10a178a5-ecc1-47ec-a010-e3fe3b5330c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = ' Definitions' or . = ' Definitions')]</value>
-      <webElementGuid>d94947a9-a625-4323-be18-f79627d820f5</webElementGuid>
+      <webElementGuid>3540bd2b-b8ab-4fc2-ad23-71147079c937</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

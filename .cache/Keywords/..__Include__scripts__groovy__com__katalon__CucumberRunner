@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "ABA00260828611F70CAFE33151B04054",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.CucumberRunner",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

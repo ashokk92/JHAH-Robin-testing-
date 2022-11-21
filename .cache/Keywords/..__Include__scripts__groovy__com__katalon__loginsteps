@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D2D75D58E558C0297E99EB5507EEB490",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.LoginSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

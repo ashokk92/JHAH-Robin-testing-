@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Test Admin</name>
+   <tag></tag>
+   <elementGuidId>a669465c-b278-4cb7-94bf-5eebc996c878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserCreateForm:j_idt177:pickList']/div/ul/li[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b83f9ebf-c0c2-49da-9b72-b41fcc6acb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>4b0bdaaf-d363-4d64-b7c4-e18ddd40d398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>2322</value>
+      <webElementGuid>9bcf862f-f62c-44d8-91eb-36dbb4e3b337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>Test Admin</value>
+      <webElementGuid>58d514ba-03ee-43f3-8426-69a9487cbdaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>3f77c6a0-6db7-4da6-9bc8-5a449837e836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Admin</value>
+      <webElementGuid>a034ffa2-84d3-4b7f-81ce-e5d806c14739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserCreateForm:j_idt177:pickList&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>3656eac6-1b91-4d58-a76a-0a3277df3612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserCreateForm:j_idt177:pickList']/div/ul/li[9]</value>
+      <webElementGuid>7a3b708c-1f77-49ac-ad66-702e4f6b9dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show/Hide Revenues'])[1]/following::li[1]</value>
+      <webElementGuid>e69b3abd-afcf-4b79-9ef7-f257c4c1e4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MIS Reports'])[2]/following::li[2]</value>
+      <webElementGuid>ae5d77a1-6255-4649-8d40-48e08643cccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Admin1'])[1]/preceding::li[1]</value>
+      <webElementGuid>c968fd88-95b9-4bd0-a1e2-28de3c9e0428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::li[2]</value>
+      <webElementGuid>9164a0ae-bd00-4708-b2dd-6221c4e99ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Admin']/parent::*</value>
+      <webElementGuid>10b18027-8574-4d8c-8df5-bc2ae563e365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[9]</value>
+      <webElementGuid>da84a86b-159c-4cd6-9c24-fba7d6ce69d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Test Admin' or . = 'Test Admin')]</value>
+      <webElementGuid>3f3845e9-6122-4cb8-a081-3ac5c204fd99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

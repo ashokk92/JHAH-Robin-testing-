@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Auditing Management</name>
+   <tag></tag>
+   <elementGuidId>12e642a8-5839-42c9-8704-ba8f5e9c6aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c3a21362-6c49-4904-ae50-a3387007995c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>ee5136fa-ade4-442f-aef0-80314acb5041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>a4eda5c5-407d-4993-b399-5d1721c1493a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>Auditing Management</value>
+      <webElementGuid>2c888876-255b-45eb-b6af-95eb0846faac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>71ad93f4-2838-44d9-95a2-3275fa51ab78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Auditing Management</value>
+      <webElementGuid>bf57d226-370a-4193-9bfb-eac546a7d6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserRolesCreateForm:pickList&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>8f7359a9-e918-4915-b2d9-41a577f1a8aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[3]</value>
+      <webElementGuid>acc03ac0-1f03-4013-a741-165cbc047695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Append Prices'])[1]/following::li[1]</value>
+      <webElementGuid>44f12b20-5477-4568-9f6c-b04d426ff8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Collection Management'])[1]/following::li[2]</value>
+      <webElementGuid>b64229bb-f06d-4d55-bf3f-e0eeeaa59c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch'])[2]/preceding::li[1]</value>
+      <webElementGuid>64aaeab2-07b1-4434-9804-8be76b6fe762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Eligibility'])[2]/preceding::li[2]</value>
+      <webElementGuid>c845fad1-1b87-4dd5-86ed-9b7e5f9cc75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Auditing Management']/parent::*</value>
+      <webElementGuid>ff59ab15-f577-45a3-862b-0fc07fe2c3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[3]</value>
+      <webElementGuid>b4335e19-4bf2-46dc-ad85-6d7d593b492a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Auditing Management' or . = 'Auditing Management')]</value>
+      <webElementGuid>8a7bed61-5fbb-443e-9053-08c777294ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

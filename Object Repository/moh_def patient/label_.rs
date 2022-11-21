@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Definitions</name>
+   <name>label_</name>
    <tag></tag>
-   <elementGuidId>63bab38c-54ec-4787-a30d-c1437623dcba</elementGuidId>
+   <elementGuidId>167c0bac-7ff9-4201-95bf-ea1b60df41f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.ui-menuitem-link.ui-submenu-link.ui-corner-all.ui-state-hover</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/a</value>
+         <value>//label[@id='AccumedPatientCreateForm:genderId_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>f62f52e9-2cf4-452b-a2b7-95a320cd4a35</webElementGuid>
+      <value>label</value>
+      <webElementGuid>22c0d0d0-4b98-4471-967f-7d44d818299e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>76c8046e-947a-4e82-8112-bc90f5823801</webElementGuid>
+      <value>AccumedPatientCreateForm:genderId_label</value>
+      <webElementGuid>bb19c24f-6a34-46a7-b52f-f185e2fc47a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>709dbec3-bab3-4470-8601-b1a3974247be</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>ec0e25a0-d4fd-4709-b45d-3b4a1b1d2286</webElementGuid>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>b679c55f-813a-4e73-9821-83751858d6b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Definitions</value>
-      <webElementGuid>602f2879-c15f-4a23-b6bc-9f4dc5ebe6bd</webElementGuid>
+      <value>...</value>
+      <webElementGuid>f78cbeed-1ab9-45cd-b604-83b993306fb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>d9a74945-b480-4423-ba26-baccc6ec48c0</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:genderId_label&quot;)</value>
+      <webElementGuid>f64bcdc4-355c-4c5e-a291-bb52203f28eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='AccumedPatientCreateForm:genderId_label']</value>
+      <webElementGuid>1a8cfe40-9afd-4a3e-af0a-7afe0a93f210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/a</value>
-      <webElementGuid>5e766bd6-d5e1-4631-aca5-4deccf32e6d6</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateForm:genderId']/label</value>
+      <webElementGuid>39e85ce6-f5e8-4210-8ce0-14e2cc4ea9e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Receipts'])[1]/following::a[1]</value>
-      <webElementGuid>66b7d5f6-047c-4bec-bae5-8ba02cd43570</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::label[1]</value>
+      <webElementGuid>296f2232-0963-4712-8053-d14679ef158c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Advance'])[1]/following::a[2]</value>
-      <webElementGuid>ef07a9ca-300f-4c54-befa-8dec944c3727</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[2]/following::label[1]</value>
+      <webElementGuid>d88f84c1-926c-438d-bc46-8264cccdcd02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/preceding::a[1]</value>
-      <webElementGuid>4387b48d-f619-406c-9d85-2c2af32054b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport ID'])[1]/preceding::label[1]</value>
+      <webElementGuid>4a3e8d6f-56f0-4c74-91f3-18ff62675aec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>40225eb8-e4b1-49fa-9da8-db5a372a7958</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB / Age :'])[1]/preceding::label[2]</value>
+      <webElementGuid>46f95846-0068-4966-b604-b9e37f0e9f49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[6]/a</value>
-      <webElementGuid>7be8121a-686c-4b91-b3c0-cec67f666498</webElementGuid>
+      <value>//td[6]/div/label</value>
+      <webElementGuid>d2abef84-c2ff-45f6-9d7f-46231b0bd96a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = ' Definitions' or . = ' Definitions')]</value>
-      <webElementGuid>d94947a9-a625-4323-be18-f79627d820f5</webElementGuid>
+      <value>//label[@id = 'AccumedPatientCreateForm:genderId_label' and (text() = '...' or . = '...')]</value>
+      <webElementGuid>618ff690-b912-4fe7-8459-b7421888e929</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Contracts Management</name>
+   <tag></tag>
+   <elementGuidId>94bbf7b9-3416-4656-9c62-36f6dcc7f74b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-picklist-item.ui-corner-all.ui-sortable-handle.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1dc315bc-4f00-4a70-955d-8bb6a4db7795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover</value>
+      <webElementGuid>e6c6c053-f150-4457-8a9b-18b4cc5a6c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-value</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>839cb841-bdf8-4ee6-89c2-d556c88f65c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-label</name>
+      <type>Main</type>
+      <value>Contracts Management</value>
+      <webElementGuid>2159a375-d047-46a7-973c-eb08c8d78187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>07c9801c-bb72-4907-b7c2-c9073e114933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contracts Management</value>
+      <webElementGuid>8234089c-c473-464c-b9f7-576eadf71323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccumedFacilityUserRolesCreateForm:pickList&quot;)/div[@class=&quot;ui-picklist-list-wrapper&quot;]/ul[@class=&quot;ui-widget-content ui-picklist-list ui-picklist-source ui-corner-bottom ui-sortable&quot;]/li[@class=&quot;ui-picklist-item ui-corner-all ui-sortable-handle ui-state-hover&quot;]</value>
+      <webElementGuid>09e5ae1f-579f-4dc8-8fcc-94a1f15b17e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccumedFacilityUserRolesCreateForm:pickList']/div/ul/li[9]</value>
+      <webElementGuid>692de11b-78cb-4d36-b314-764353a03079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies Profiles Management'])[1]/following::li[1]</value>
+      <webElementGuid>c41cd7c1-21c7-4252-b2f3-c5d2fe7c6027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coding Management'])[1]/following::li[2]</value>
+      <webElementGuid>096821a6-d3af-483c-83e4-b9dd8d1c46a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Report'])[1]/preceding::li[1]</value>
+      <webElementGuid>ecb2a936-2e92-49d9-9546-1af9654d0ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Entry'])[2]/preceding::li[2]</value>
+      <webElementGuid>f87b2045-909b-43ac-aff7-5968e1951eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contracts Management']/parent::*</value>
+      <webElementGuid>76e6721d-497d-4538-9453-cc754c25fd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[9]</value>
+      <webElementGuid>ea412c9a-1ce4-4837-9dbf-19afd4dd8770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Contracts Management' or . = 'Contracts Management')]</value>
+      <webElementGuid>249992df-3f8b-46bf-a61b-b48b3ea781e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
